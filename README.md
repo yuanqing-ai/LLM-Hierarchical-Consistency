@@ -1,5 +1,5 @@
 # Vision LLMs Are Bad at Hierarchical Visual Understanding, and LLMs Are the Bottleneck
-This repository contains the code for the paper [Vision LLMs Are Bad at Hierarchical Visual Understanding, and LLMs Are the Bottleneck](). 
+<!-- This repository contains the code for the paper [Vision LLMs Are Bad at Hierarchical Visual Understanding, and LLMs Are the Bottleneck]().  -->
 
 [[Paper]]() [[Project Page]](https://yuanqing-ai.github.io/llm-hierarchy/)
 
@@ -57,8 +57,34 @@ Please download the image data from the following links and put them in the `dat
 
 ### Step 2
 
-For each dataset file in the `data/annotations` directory, please replace the image_path with your local path (a helper script is provided in `utils/replace_image_path.py`).
+For each dataset file in the `data/annotations` directory and the `data/training/train_plant_img.json` file, please replace the image_path with your local path (a helper script is provided in `utils/replace_image_path.py`).
 
+## Model Preparation
+
+Please download the model checkpoints from the following links or just specify the model names when running scripts.
+
+
+### VLMs
+
+| **VLMs**            | **Source** |
+|----------------------|------------|
+| LLaVA-OV-7B          | [lmms-lab/llava-onevision-qwen2-7b-ov](https://huggingface.co/lmms-lab/llava-onevision-qwen2-7b-ov) |
+| InternVL2.5-8B       | [OpenGVLab/InternVL2_5-8B](https://huggingface.co/OpenGVLab/InternVL2_5-8B) |
+| InternVL3-8B         | [OpenGVLab/InternVL3-8B](https://huggingface.co/OpenGVLab/InternVL3-8B) |
+| Qwen2.5-VL-7B        | [Qwen/Qwen2.5-VL-7B-Instruct](https://huggingface.co/Qwen/Qwen2.5-VL-7B-Instruct) |
+| Qwen2.5-VL-32B       | [Qwen/Qwen2.5-VL-32B-Instruct](https://huggingface.co/Qwen/Qwen2.5-VL-32B-Instruct) |
+| Qwen2.5-VL-72B       | [Qwen/Qwen2.5-VL-72B-Instruct](https://huggingface.co/Qwen/Qwen2.5-VL-72B-Instruct) |
+| OpenCLIP             | [laion/CLIP-ViT-L-14-laion2B-s32B-b82K](https://huggingface.co/laion/CLIP-ViT-L-14-laion2B-s32B-b82K) |
+| SigLIP               | [google/siglip-so400m-patch14-384](https://huggingface.co/google/siglip-so400m-patch14-384) |
+
+### Original LLMs (OG LLMs)
+
+| **OG LLMs**            | **Source** |
+|----------------------|------------|
+| Qwen2.5-Instruct-7B   | [Qwen/Qwen2.5-7B-Instruct](https://huggingface.co/Qwen/Qwen2.5-7B-Instruct) |
+| Qwen2-Instruct-7B     | [Qwen/Qwen2-7B-Instruct](https://huggingface.co/Qwen/Qwen2-7B-Instruct) |
+| Qwen2.5-7B           | [Qwen/Qwen2.5-7B](https://huggingface.co/Qwen/Qwen2.5-7B) |
+| InternLM-2.5-7B      | [InternLM/InternLM-2.5-7B](https://huggingface.co/internlm/internlm2_5-7b-chat) |
 
 ## Metrics
 
