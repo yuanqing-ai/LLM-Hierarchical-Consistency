@@ -1,0 +1,2 @@
+python prompt_engineering/bio_cot/eval_animal_bio.py --model_path /path/to/model --test_set data/annotations/similar_choices/inat21_animalia_with_similar_choice.jsonl --output_file /path/to/output/file --prompt_order 1
+python prompt_engineering/bio_cot/eval_plant_bio.py --model_path /path/to/model --test_set data/annotations/similar_choices/inat21_plantae_with_similar_choice.jsonl --output_file /path/to/output/file --prompt_order 1

@@ -1,0 +1,1 @@
+python gpt_img_all.py --test_set /projectnb/ivc-ml/yuwentan/LLaVA-NeXT/Evaluate_CLS/data/Plant/new_Plantae_with_random_choice.jsonl --output_file /projectnb/ivc-ml/yuwentan/LLaVA-NeXT/LLM-Hierarchical-Consistency/evaluation/vllm/gpt/nat_plant_text.json --dataset_prompt natural_plant
