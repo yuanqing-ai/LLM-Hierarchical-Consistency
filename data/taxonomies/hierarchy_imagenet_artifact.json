@@ -1,0 +1,3708 @@
+{
+    "fountain pen": [
+        "artifact",
+        "instrumentality",
+        "implement",
+        "writing implement",
+        "pen",
+        "fountain pen"
+    ],
+    "quill": [
+        "artifact",
+        "instrumentality",
+        "implement",
+        "writing implement",
+        "pen",
+        "quill"
+    ],
+    "ballpoint pen": [
+        "artifact",
+        "instrumentality",
+        "implement",
+        "writing implement",
+        "pen",
+        "ballpoint pen"
+    ],
+    "crutch": [
+        "artifact",
+        "instrumentality",
+        "implement",
+        "stick",
+        "crutch"
+    ],
+    "flagpole": [
+        "artifact",
+        "instrumentality",
+        "implement",
+        "stick",
+        "flagpole"
+    ],
+    "spindle": [
+        "artifact",
+        "instrumentality",
+        "implement",
+        "stick",
+        "spindle"
+    ],
+    "matchstick": [
+        "artifact",
+        "instrumentality",
+        "implement",
+        "stick",
+        "matchstick"
+    ],
+    "drumstick": [
+        "artifact",
+        "instrumentality",
+        "implement",
+        "stick",
+        "drumstick"
+    ],
+    "farm plow": [
+        "artifact",
+        "instrumentality",
+        "implement",
+        "tool",
+        "farm plow"
+    ],
+    "lawn mower": [
+        "artifact",
+        "instrumentality",
+        "implement",
+        "tool",
+        "lawn mower"
+    ],
+    "power drill": [
+        "artifact",
+        "instrumentality",
+        "implement",
+        "tool",
+        "power drill"
+    ],
+    "screwdriver": [
+        "artifact",
+        "instrumentality",
+        "implement",
+        "tool",
+        "hand tool",
+        "screwdriver"
+    ],
+    "plunger": [
+        "artifact",
+        "instrumentality",
+        "implement",
+        "tool",
+        "hand tool",
+        "plunger"
+    ],
+    "hammer": [
+        "artifact",
+        "instrumentality",
+        "implement",
+        "tool",
+        "hand tool",
+        "hammer"
+    ],
+    "can opener": [
+        "artifact",
+        "instrumentality",
+        "implement",
+        "tool",
+        "hand tool",
+        "opener",
+        "can opener"
+    ],
+    "corkscrew": [
+        "artifact",
+        "instrumentality",
+        "implement",
+        "tool",
+        "hand tool",
+        "opener",
+        "corkscrew"
+    ],
+    "shovel": [
+        "artifact",
+        "instrumentality",
+        "implement",
+        "tool",
+        "hand tool",
+        "shovel"
+    ],
+    "woodworking plane": [
+        "artifact",
+        "instrumentality",
+        "implement",
+        "tool",
+        "edge tool",
+        "woodworking plane"
+    ],
+    "hatchet": [
+        "artifact",
+        "instrumentality",
+        "implement",
+        "tool",
+        "edge tool",
+        "hatchet"
+    ],
+    "cleaver": [
+        "artifact",
+        "instrumentality",
+        "implement",
+        "tool",
+        "edge tool",
+        "knife",
+        "cleaver"
+    ],
+    "letter opener": [
+        "artifact",
+        "instrumentality",
+        "implement",
+        "tool",
+        "edge tool",
+        "knife",
+        "letter opener"
+    ],
+    "spatula": [
+        "artifact",
+        "instrumentality",
+        "implement",
+        "cooking utensil",
+        "spatula"
+    ],
+    "coffeepot": [
+        "artifact",
+        "instrumentality",
+        "implement",
+        "cooking utensil",
+        "pot",
+        "coffeepot"
+    ],
+    "teapot": [
+        "artifact",
+        "instrumentality",
+        "implement",
+        "cooking utensil",
+        "pot",
+        "teapot"
+    ],
+    "caldron": [
+        "artifact",
+        "instrumentality",
+        "implement",
+        "cooking utensil",
+        "pot",
+        "caldron"
+    ],
+    "wok": [
+        "artifact",
+        "instrumentality",
+        "implement",
+        "cooking utensil",
+        "pan",
+        "wok"
+    ],
+    "frying pan": [
+        "artifact",
+        "instrumentality",
+        "implement",
+        "cooking utensil",
+        "pan",
+        "frying pan"
+    ],
+    "Crock Pot": [
+        "artifact",
+        "instrumentality",
+        "implement",
+        "cooking utensil",
+        "pot",
+        "Crock Pot"
+    ],
+    "broom": [
+        "artifact",
+        "instrumentality",
+        "implement",
+        "cleaning implement",
+        "broom"
+    ],
+    "mop": [
+        "artifact",
+        "instrumentality",
+        "implement",
+        "cleaning implement",
+        "mop"
+    ],
+    "racket": [
+        "artifact",
+        "instrumentality",
+        "implement",
+        "sports equipment",
+        "racket"
+    ],
+    "keyboard space bar": [
+        "artifact",
+        "instrumentality",
+        "implement",
+        "bar",
+        "keyboard space bar"
+    ],
+    "crossword puzzle": [
+        "artifact",
+        "instrumentality",
+        "equipment",
+        "game equipment",
+        "puzzle",
+        "crossword puzzle"
+    ],
+    "jigsaw puzzle": [
+        "artifact",
+        "instrumentality",
+        "equipment",
+        "game equipment",
+        "puzzle",
+        "jigsaw puzzle"
+    ],
+    "pool table": [
+        "artifact",
+        "instrumentality",
+        "equipment",
+        "game equipment",
+        "pool table"
+    ],
+    "ping-pong ball": [
+        "artifact",
+        "instrumentality",
+        "equipment",
+        "game equipment",
+        "ball",
+        "ping-pong ball"
+    ],
+    "tennis ball": [
+        "artifact",
+        "instrumentality",
+        "equipment",
+        "game equipment",
+        "ball",
+        "tennis ball"
+    ],
+    "volleyball": [
+        "artifact",
+        "instrumentality",
+        "equipment",
+        "game equipment",
+        "ball",
+        "volleyball"
+    ],
+    "rugby ball": [
+        "artifact",
+        "instrumentality",
+        "equipment",
+        "game equipment",
+        "ball",
+        "rugby ball"
+    ],
+    "golf ball": [
+        "artifact",
+        "instrumentality",
+        "equipment",
+        "game equipment",
+        "ball",
+        "golf ball"
+    ],
+    "soccer ball": [
+        "artifact",
+        "instrumentality",
+        "equipment",
+        "game equipment",
+        "ball",
+        "soccer ball"
+    ],
+    "baseball": [
+        "artifact",
+        "instrumentality",
+        "equipment",
+        "game equipment",
+        "ball",
+        "baseball"
+    ],
+    "basketball": [
+        "artifact",
+        "instrumentality",
+        "equipment",
+        "game equipment",
+        "ball",
+        "basketball"
+    ],
+    "croquet ball": [
+        "artifact",
+        "instrumentality",
+        "equipment",
+        "game equipment",
+        "ball",
+        "croquet ball"
+    ],
+    "payphone": [
+        "artifact",
+        "instrumentality",
+        "equipment",
+        "electronic equipment",
+        "telephone",
+        "payphone"
+    ],
+    "mobile phone": [
+        "artifact",
+        "instrumentality",
+        "equipment",
+        "electronic equipment",
+        "telephone",
+        "mobile phone"
+    ],
+    "dial telephone": [
+        "artifact",
+        "instrumentality",
+        "equipment",
+        "electronic equipment",
+        "telephone",
+        "dial telephone"
+    ],
+    "CD player": [
+        "artifact",
+        "instrumentality",
+        "equipment",
+        "electronic equipment",
+        "CD player"
+    ],
+    "oscilloscope": [
+        "artifact",
+        "instrumentality",
+        "equipment",
+        "electronic equipment",
+        "oscilloscope"
+    ],
+    "monitor": [
+        "artifact",
+        "instrumentality",
+        "equipment",
+        "electronic equipment",
+        "monitor"
+    ],
+    "cassette player": [
+        "artifact",
+        "instrumentality",
+        "equipment",
+        "electronic equipment",
+        "cassette player"
+    ],
+    "tape player": [
+        "artifact",
+        "instrumentality",
+        "equipment",
+        "electronic equipment",
+        "tape player"
+    ],
+    "computer keyboard": [
+        "artifact",
+        "instrumentality",
+        "equipment",
+        "electronic equipment",
+        "peripheral",
+        "computer keyboard"
+    ],
+    "printer": [
+        "artifact",
+        "instrumentality",
+        "equipment",
+        "electronic equipment",
+        "peripheral",
+        "printer"
+    ],
+    "modem": [
+        "artifact",
+        "instrumentality",
+        "equipment",
+        "electronic equipment",
+        "modem"
+    ],
+    "iPod": [
+        "artifact",
+        "instrumentality",
+        "equipment",
+        "electronic equipment",
+        "iPod"
+    ],
+    "reflex camera": [
+        "artifact",
+        "instrumentality",
+        "equipment",
+        "camera",
+        "reflex camera"
+    ],
+    "Polaroid camera": [
+        "artifact",
+        "instrumentality",
+        "equipment",
+        "camera",
+        "Polaroid camera"
+    ],
+    "parachute": [
+        "artifact",
+        "instrumentality",
+        "equipment",
+        "parachute"
+    ],
+    "parallel bars": [
+        "artifact",
+        "instrumentality",
+        "equipment",
+        "sports equipment",
+        "gymnastic apparatus",
+        "parallel bars"
+    ],
+    "gymnastic horizontal bar": [
+        "artifact",
+        "instrumentality",
+        "equipment",
+        "sports equipment",
+        "gymnastic apparatus",
+        "gymnastic horizontal bar"
+    ],
+    "balance beam": [
+        "artifact",
+        "instrumentality",
+        "equipment",
+        "sports equipment",
+        "gymnastic apparatus",
+        "balance beam"
+    ],
+    "dumbbell": [
+        "artifact",
+        "instrumentality",
+        "equipment",
+        "sports equipment",
+        "weight",
+        "dumbbell"
+    ],
+    "barbell": [
+        "artifact",
+        "instrumentality",
+        "equipment",
+        "sports equipment",
+        "weight",
+        "barbell"
+    ],
+    "golf cart": [
+        "artifact",
+        "instrumentality",
+        "conveyance",
+        "vehicle",
+        "cart",
+        "golf cart"
+    ],
+    "drilling platform": [
+        "artifact",
+        "instrumentality",
+        "equipment",
+        "gear",
+        "drilling platform"
+    ],
+    "trolleybus": [
+        "artifact",
+        "instrumentality",
+        "conveyance",
+        "vehicle",
+        "self-propelled vehicle",
+        "public transport",
+        "bus",
+        "trolleybus"
+    ],    
+    "school bus": [
+        "artifact",
+        "instrumentality",
+        "conveyance",
+        "vehicle",
+        "self-propelled vehicle",
+        "public transport",
+        "bus",
+        "school bus"
+    ],
+    "minibus": [
+        "artifact",
+        "instrumentality",
+        "conveyance",
+        "vehicle",
+        "self-propelled vehicle",
+        "public transport",
+        "bus",
+        "minibus"
+    ],
+    "bullet train": [
+        "artifact",
+        "instrumentality",
+        "conveyance",
+        "vehicle",
+        "self-propelled vehicle",
+        "public transport",
+        "bullet train"
+    ],
+    "stretcher": [
+        "artifact",
+        "instrumentality",
+        "conveyance",
+        "stretcher"
+    ],
+    "space shuttle": [
+        "artifact",
+        "instrumentality",
+        "conveyance",
+        "vehicle",
+        "craft",
+        "space shuttle"
+    ],
+    "airship": [
+        "artifact",
+        "instrumentality",
+        "conveyance",
+        "vehicle",
+        "craft",
+        "aircraft",
+        "lighter-than-air craft",
+        "airship"
+    ],
+    "balloon": [
+        "artifact",
+        "instrumentality",
+        "conveyance",
+        "vehicle",
+        "craft",
+        "aircraft",
+        "lighter-than-air craft",
+        "balloon"
+    ],
+    "airliner": [
+        "artifact",
+        "instrumentality",
+        "conveyance",
+        "vehicle",
+        "craft",
+        "aircraft",
+        "heavier-than-air craft",
+        "airliner"
+    ],
+    "warplane": [
+        "artifact",
+        "instrumentality",
+        "conveyance",
+        "vehicle",
+        "craft",
+        "aircraft",
+        "heavier-than-air craft",
+        "warplane"
+    ],
+    "schooner": [
+        "artifact",
+        "instrumentality",
+        "conveyance",
+        "vehicle",
+        "craft",
+        "sailing vessel",
+        "schooner"
+    ],
+    "trimaran": [
+        "artifact",
+        "instrumentality",
+        "conveyance",
+        "vehicle",
+        "craft",
+        "sailing vessel",
+        "sailboat",
+        "trimaran"
+    ],
+    "catamaran": [
+        "artifact",
+        "instrumentality",
+        "conveyance",
+        "vehicle",
+        "craft",
+        "sailing vessel",
+        "sailboat",
+        "catamaran"
+    ],
+    "canoe": [
+        "artifact",
+        "instrumentality",
+        "conveyance",
+        "vehicle",
+        "craft",
+        "boat",
+        "small boat",
+        "canoe"
+    ],
+    "yawl": [
+        "artifact",
+        "instrumentality",
+        "conveyance",
+        "vehicle",
+        "craft",
+        "boat",
+        "small boat",
+        "yawl"
+    ],
+    "motorboat": [
+        "artifact",
+        "instrumentality",
+        "conveyance",
+        "vehicle",
+        "craft",
+        "boat",
+        "motorboat"
+    ],
+    "lifeboat": [
+        "artifact",
+        "instrumentality",
+        "conveyance",
+        "vehicle",
+        "craft",
+        "boat",
+        "lifeboat"
+    ],
+    "fireboat": [
+        "artifact",
+        "instrumentality",
+        "conveyance",
+        "vehicle",
+        "craft",
+        "boat",
+        "fireboat"
+    ],
+    "gondola": [
+        "artifact",
+        "instrumentality",
+        "conveyance",
+        "vehicle",
+        "craft",
+        "boat",
+        "gondola"
+    ],
+    "shipwreck": [
+        "artifact",
+        "instrumentality",
+        "conveyance",
+        "vehicle",
+        "craft",
+        "ship",
+        "shipwreck"
+    ],
+    "container ship": [
+        "artifact",
+        "instrumentality",
+        "conveyance",
+        "vehicle",
+        "craft",
+        "ship",
+        "container ship"
+    ],
+    "ocean liner": [
+        "artifact",
+        "instrumentality",
+        "conveyance",
+        "vehicle",
+        "craft",
+        "ship",
+        "ocean liner"
+    ],
+    "pirate ship": [
+        "artifact",
+        "instrumentality",
+        "conveyance",
+        "vehicle",
+        "craft",
+        "ship",
+        "pirate ship"
+    ],
+    "bobsleigh": [
+        "artifact",
+        "instrumentality",
+        "conveyance",
+        "vehicle",
+        "sled",
+        "bobsleigh"
+    ],
+    "dog sled": [
+        "artifact",
+        "instrumentality",
+        "conveyance",
+        "vehicle",
+        "sled",
+        "dog sled"
+    ],
+    "half-track": [
+        "artifact",
+        "instrumentality",
+        "conveyance",
+        "vehicle",
+        "self-propelled vehicle",
+        "military vehicle",
+        "half-track"
+    ],
+    "submarine": [
+        "artifact",
+        "instrumentality",
+        "conveyance",
+        "vehicle",
+        "self-propelled vehicle",
+        "military vehicle",
+        "warship",
+        "submarine"
+    ],
+    "aircraft carrier": [
+        "artifact",
+        "instrumentality",
+        "conveyance",
+        "vehicle",
+        "self-propelled vehicle",
+        "military vehicle",
+        "warship",
+        "aircraft carrier"
+    ],
+    "hair spray": [
+        "artifact",
+        "instrumentality",
+        "toiletry",
+        "hair spray"
+    ],
+    "perfume": [
+        "artifact",
+        "instrumentality",
+        "toiletry",
+        "perfume"
+    ],
+    "lotion": [
+        "artifact",
+        "instrumentality",
+        "toiletry",
+        "lotion"
+    ],
+    "face powder": [
+        "artifact",
+        "instrumentality",
+        "toiletry",
+        "makeup",
+        "face powder"
+    ],
+    "lipstick": [
+        "artifact",
+        "instrumentality",
+        "toiletry",
+        "makeup",
+        "lipstick"
+    ],
+    "sunscreen": [
+        "artifact",
+        "instrumentality",
+        "toiletry",
+        "sunscreen"
+    ],
+    "projectile": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "instrument",
+        "weapon",
+        "projectile"
+    ],
+    "cannon": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "instrument",
+        "weapon",
+        "gun",
+        "cannon"
+    ],
+    "revolver": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "instrument",
+        "weapon",
+        "gun",
+        "firearm",
+        "revolver"
+    ],
+    "assault rifle": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "instrument",
+        "weapon",
+        "gun",
+        "firearm",
+        "assault rifle"
+    ],
+    "rifle": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "instrument",
+        "weapon",
+        "gun",
+        "firearm",
+        "rifle"
+    ],
+    "hunting bow": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "instrument",
+        "weapon",
+        "hunting bow"
+    ],
+    "magnetic compass": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "instrument",
+        "magnetic compass"
+    ],
+    "radio telescope": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "instrument",
+        "magnifier",
+        "radio telescope"
+    ],
+    "loupe": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "instrument",
+        "magnifier",
+        "loupe"
+    ],
+    "sunglasses": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "instrument",
+        "optical instrument",
+        "sunglasses"
+    ],
+    "projector": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "instrument",
+        "optical instrument",
+        "projector"
+    ],
+    "binoculars": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "instrument",
+        "optical instrument",
+        "binoculars"
+    ],
+    "guillotine": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "instrument",
+        "guillotine"
+    ],
+    "syringe": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "instrument",
+        "medical instrument",
+        "syringe"
+    ],
+    "stethoscope": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "instrument",
+        "medical instrument",
+        "stethoscope"
+    ],
+    "odometer": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "instrument",
+        "measuring instrument",
+        "odometer"
+    ],
+    "ruler measuring stick": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "instrument",
+        "measuring instrument",
+        "ruler measuring stick"
+    ],
+    "barometer": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "instrument",
+        "measuring instrument",
+        "barometer"
+    ],
+    "sundial": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "instrument",
+        "measuring instrument",
+        "timepiece",
+        "sundial"
+    ],
+    "digital watch": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "instrument",
+        "measuring instrument",
+        "timepiece",
+        "digital watch"
+    ],
+    "hourglass": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "instrument",
+        "measuring instrument",
+        "timepiece",
+        "hourglass"
+    ],
+    "parking meter": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "instrument",
+        "measuring instrument",
+        "timepiece",
+        "timer",
+        "parking meter"
+    ],
+    "stopwatch": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "instrument",
+        "measuring instrument",
+        "timepiece",
+        "timer",
+        "stopwatch"
+    ],
+    "digital clock": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "instrument",
+        "measuring instrument",
+        "timepiece",
+        "clock",
+        "digital clock"
+    ],
+    "wall clock": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "instrument",
+        "measuring instrument",
+        "timepiece",
+        "clock",
+        "wall clock"
+    ],
+    "analog clock": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "instrument",
+        "measuring instrument",
+        "timepiece",
+        "clock",
+        "analog clock"
+    ],
+    "weighing scale": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "instrument",
+        "measuring instrument",
+        "weighing scale"
+    ],
+    "electric fan": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "electric fan"
+    ],
+    "spider web": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "trap",
+        "spider web"
+    ],
+    "mousetrap": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "trap",
+        "mousetrap"
+    ],
+    "typewriter keyboard": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "typewriter keyboard"
+    ],
+    "hockey puck": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "mechanism",
+        "hockey puck"
+    ],
+    "radiator": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "mechanism",
+        "radiator"
+    ],
+    "joystick": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "mechanism",
+        "control",
+        "joystick"
+    ],
+    "electrical switch": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "mechanism",
+        "control",
+        "electrical switch"
+    ],
+    "fishing reel": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "mechanism",
+        "mechanical device",
+        "fishing reel"
+    ],
+    "swing": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "mechanism",
+        "mechanical device",
+        "swing"
+    ],
+    "gas pump": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "mechanism",
+        "mechanical device",
+        "gas pump"
+    ],
+    "carousel": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "mechanism",
+        "mechanical device",
+        "carousel"
+    ],
+    "hook": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "mechanism",
+        "mechanical device",
+        "hook"
+    ],
+    "car wheel": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "mechanism",
+        "mechanical device",
+        "wheel",
+        "car wheel"
+    ],
+    "potter's wheel": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "mechanism",
+        "mechanical device",
+        "wheel",
+        "potter's wheel"
+    ],
+    "paddle wheel": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "mechanism",
+        "mechanical device",
+        "wheel",
+        "paddle wheel"
+    ],
+    "pinwheel": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "mechanism",
+        "mechanical device",
+        "wheel",
+        "pinwheel"
+    ],
+    "CRT monitor": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "electronic device",
+        "CRT monitor"
+    ],
+    "computer mouse": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "electronic device",
+        "computer mouse"
+    ],
+    "solar thermal collector": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "reflector",
+        "solar thermal collector"
+    ],
+    "car mirror": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "reflector",
+        "car mirror"
+    ],
+    "grand piano": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "musical instrument",
+        "keyboard instrument",
+        "piano",
+        "grand piano"
+    ],
+    "upright piano": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "musical instrument",
+        "keyboard instrument",
+        "piano",
+        "upright piano"
+    ],
+    "marimba": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "musical instrument",
+        "percussion instrument",
+        "marimba"
+    ],
+    "gong": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "musical instrument",
+        "percussion instrument",
+        "gong"
+    ],
+    "maraca": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "musical instrument",
+        "percussion instrument",
+        "maraca"
+    ],
+    "steel drum": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "musical instrument",
+        "percussion instrument",
+        "steel drum"
+    ],
+    "drum": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "musical instrument",
+        "percussion instrument",
+        "drum"
+    ],
+    "bell or wind chime": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "musical instrument",
+        "percussion instrument",
+        "bell or wind chime"
+    ],
+    "accordion": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "musical instrument",
+        "wind instrument",
+        "free-reed instrument",
+        "accordion"
+    ],
+    "harmonica": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "musical instrument",
+        "wind instrument",
+        "free-reed instrument",
+        "harmonica"
+    ],
+    "ocarina": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "musical instrument",
+        "wind instrument",
+        "ocarina"
+    ],
+    "organ": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "musical instrument",
+        "wind instrument",
+        "organ"
+    ],
+    "bassoon": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "musical instrument",
+        "wind instrument",
+        "woodwind",
+        "beating-reed instrument",
+        "bassoon"
+    ],
+    "oboe": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "musical instrument",
+        "wind instrument",
+        "woodwind",
+        "beating-reed instrument",
+        "oboe"
+    ],
+    "saxophone": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "musical instrument",
+        "wind instrument",
+        "woodwind",
+        "beating-reed instrument",
+        "saxophone"
+    ],
+    "flute": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "musical instrument",
+        "wind instrument",
+        "woodwind",
+        "flute"
+    ],
+    "trombone": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "musical instrument",
+        "wind instrument",
+        "brass",
+        "trombone"
+    ],
+    "cornet": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "musical instrument",
+        "wind instrument",
+        "brass",
+        "cornet"
+    ],
+    "French horn": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "musical instrument",
+        "wind instrument",
+        "brass",
+        "French horn"
+    ],
+    "banjo": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "musical instrument",
+        "stringed instrument",
+        "banjo"
+    ],
+    "violin": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "musical instrument",
+        "stringed instrument",
+        "bowed stringed instrument",
+        "violin"
+    ],
+    "cello": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "musical instrument",
+        "stringed instrument",
+        "bowed stringed instrument",
+        "cello"
+    ],
+    "harp": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "musical instrument",
+        "stringed instrument",
+        "harp"
+    ],
+    "acoustic guitar": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "musical instrument",
+        "stringed instrument",
+        "guitar",
+        "acoustic guitar"
+    ],
+    "electric guitar": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "musical instrument",
+        "stringed instrument",
+        "guitar",
+        "electric guitar"
+    ],
+    "hard disk": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "hard disk"
+    ],
+    "microphone": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "electro-acoustic transducer",
+        "microphone"
+    ],
+    "loudspeaker system": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "electro-acoustic transducer",
+        "loudspeaker system"
+    ],
+    "neck brace": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "neck brace"
+    ],
+    "whistle": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "whistle"
+    ],
+    "remote control": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "remote control"
+    ],
+    "airplane wing": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "airplane wing"
+    ],
+    "oxygen mask": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "breathing device",
+        "oxygen mask"
+    ],
+    "snorkel": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "breathing device",
+        "snorkel"
+    ],
+    "pier": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "support",
+        "pier"
+    ],
+    "maypole": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "support",
+        "maypole"
+    ],
+    "tripod": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "support",
+        "tripod"
+    ],
+    "hair dryer": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "hair dryer"
+    ],
+    "construction crane": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "construction crane"
+    ],
+    "muzzle": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "restraint",
+        "muzzle"
+    ],
+    "disc brake": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "restraint",
+        "disc brake"
+    ],
+    "metal nail": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "restraint",
+        "fastener",
+        "metal nail"
+    ],
+    "hair clip": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "restraint",
+        "fastener",
+        "hair clip"
+    ],
+    "knot": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "restraint",
+        "fastener",
+        "knot"
+    ],
+    "safety pin": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "restraint",
+        "fastener",
+        "safety pin"
+    ],
+    "buckle": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "restraint",
+        "fastener",
+        "buckle"
+    ],
+    "combination lock": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "restraint",
+        "fastener",
+        "lock",
+        "combination lock"
+    ],
+    "padlock": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "restraint",
+        "fastener",
+        "lock",
+        "padlock"
+    ],
+    "screw": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "restraint",
+        "fastener",
+        "screw"
+    ],
+    "automated teller machine": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "machine",
+        "automated teller machine"
+    ],
+    "threshing machine": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "machine",
+        "farm machine",
+        "threshing machine"
+    ],
+    "combine harvester": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "machine",
+        "farm machine",
+        "combine harvester"
+    ],
+    "vending machine": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "machine",
+        "vending machine"
+    ],
+    "slot machine": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "machine",
+        "slot machine"
+    ],
+    "slide rule": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "machine",
+        "computer",
+        "slide rule"
+    ],
+    "laptop computer": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "machine",
+        "computer",
+        "personal computer",
+        "portable computer",
+        "laptop computer"
+    ],
+    "hand-held computer": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "machine",
+        "computer",
+        "personal computer",
+        "portable computer",
+        "hand-held computer"
+    ],
+    "notebook computer": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "machine",
+        "computer",
+        "personal computer",
+        "portable computer",
+        "notebook computer"
+    ],
+    "desktop computer": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "machine",
+        "computer",
+        "personal computer",
+        "desktop computer"
+    ],
+    "abacus": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "machine",
+        "abacus"
+    ],
+    "chainsaw": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "machine",
+        "chainsaw"
+    ],
+    "strainer": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "filter",
+        "strainer"
+    ],
+    "oil filter": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "filter",
+        "oil filter"
+    ],
+    "stove": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "heater",
+        "stove"
+    ],
+    "space heater": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "heater",
+        "space heater"
+    ],
+    "torch": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "source of illumination",
+        "torch"
+    ],
+    "jack-o'-lantern": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "source of illumination",
+        "lamp",
+        "jack-o'-lantern"
+    ],
+    "candle": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "source of illumination",
+        "lamp",
+        "candle"
+    ],
+    "spotlight": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "source of illumination",
+        "lamp",
+        "spotlight"
+    ],
+    "lighter": [
+        "artifact",
+        "instrumentality",
+        "device",
+        "lighter"
+    ],
+    "envelope": [
+        "artifact",
+        "instrumentality",
+        "container",
+        "envelope"
+    ],
+    "tray": [
+        "artifact",
+        "instrumentality",
+        "container",
+        "tray"
+    ],
+    "trash can": [
+        "artifact",
+        "instrumentality",
+        "container",
+        "trash can"
+    ],
+    "milk can": [
+        "artifact",
+        "instrumentality",
+        "container",
+        "milk can"
+    ],
+    "beer glass": [
+        "artifact",
+        "instrumentality",
+        "container",
+        "glass",
+        "beer glass"
+    ],
+    "goblet": [
+        "artifact",
+        "instrumentality",
+        "container",
+        "glass",
+        "goblet"
+    ],
+    "cassette": [
+        "artifact",
+        "instrumentality",
+        "container",
+        "cassette"
+    ],
+    "safe": [
+        "artifact",
+        "instrumentality",
+        "container",
+        "box",
+        "safe"
+    ],
+    "cardboard box or carton": [
+        "artifact",
+        "instrumentality",
+        "container",
+        "box",
+        "cardboard box or carton"
+    ],
+    "pencil case": [
+        "artifact",
+        "instrumentality",
+        "container",
+        "box",
+        "pencil case"
+    ],
+    "mailbox": [
+        "artifact",
+        "instrumentality",
+        "container",
+        "box",
+        "mailbox"
+    ],
+    "storage chest": [
+        "artifact",
+        "instrumentality",
+        "container",
+        "box",
+        "storage chest"
+    ],
+    "crate": [
+        "artifact",
+        "instrumentality",
+        "container",
+        "box",
+        "crate"
+    ],
+    "soap dispenser": [
+        "artifact",
+        "instrumentality",
+        "container",
+        "soap dispenser"
+    ],
+    "measuring cup": [
+        "artifact",
+        "instrumentality",
+        "container",
+        "measuring cup"
+    ],
+    "hamper": [
+        "artifact",
+        "instrumentality",
+        "container",
+        "basket",
+        "hamper"
+    ],
+    "shopping basket": [
+        "artifact",
+        "instrumentality",
+        "container",
+        "basket",
+        "shopping basket"
+    ],
+    "cocktail shaker": [
+        "artifact",
+        "instrumentality",
+        "container",
+        "shaker",
+        "cocktail shaker"
+    ],
+    "salt shaker": [
+        "artifact",
+        "instrumentality",
+        "container",
+        "shaker",
+        "salt shaker"
+    ],
+    "tricycle": [
+        "artifact",
+        "instrumentality",
+        "conveyance",
+        "vehicle",
+        "tricycle"
+    ],
+    "horse cart": [
+        "artifact",
+        "instrumentality",
+        "conveyance",
+        "vehicle",
+        "cart",
+        "horse cart"
+    ],
+    "bullock cart": [
+        "artifact",
+        "instrumentality",
+        "conveyance",
+        "vehicle",
+        "cart",
+        "bullock cart"
+    ],
+    "rickshaw": [
+        "artifact",
+        "instrumentality",
+        "conveyance",
+        "vehicle",
+        "cart",
+        "rickshaw"
+    ],
+    "shopping cart": [
+        "artifact",
+        "instrumentality",
+        "conveyance",
+        "vehicle",
+        "handcart",
+        "shopping cart"
+    ],
+    "wheelbarrow": [
+        "artifact",
+        "instrumentality",
+        "conveyance",
+        "vehicle",
+        "handcart",
+        "wheelbarrow"
+    ],
+    "mountain bike": [
+        "artifact",
+        "instrumentality",
+        "conveyance",
+        "vehicle",
+        "bicycle",
+        "mountain bike"
+    ],
+    "tandem bicycle": [
+        "artifact",
+        "instrumentality",
+        "conveyance",
+        "vehicle",
+        "bicycle",
+        "tandem bicycle"
+    ],
+    "unicycle": [
+        "artifact",
+        "instrumentality",
+        "conveyance",
+        "vehicle",
+        "unicycle"
+    ],
+    "freight car": [
+        "artifact",
+        "instrumentality",
+        "conveyance",
+        "vehicle",
+        "freight car"
+    ],
+    "railroad car": [
+        "artifact",
+        "instrumentality",
+        "conveyance",
+        "vehicle",
+        "railroad car"
+    ],
+    "motor scooter": [
+        "artifact",
+        "instrumentality",
+        "conveyance",
+        "vehicle",
+        "motor scooter"
+    ],
+    "electric locomotive": [
+        "artifact",
+        "instrumentality",
+        "conveyance",
+        "vehicle",
+        "self-propelled vehicle",
+        "locomotive",
+        "electric locomotive"
+    ],
+    "steam locomotive": [
+        "artifact",
+        "instrumentality",
+        "conveyance",
+        "vehicle",
+        "self-propelled vehicle",
+        "locomotive",
+        "steam locomotive"
+    ],
+    "tram": [
+        "artifact",
+        "instrumentality",
+        "conveyance",
+        "vehicle",
+        "self-propelled vehicle",
+        "tram"
+    ],
+    "forklift": [
+        "artifact",
+        "instrumentality",
+        "conveyance",
+        "vehicle",
+        "self-propelled vehicle",
+        "forklift"
+    ],
+    "recreational vehicle": [
+        "artifact",
+        "instrumentality",
+        "conveyance",
+        "vehicle",
+        "self-propelled vehicle",
+        "recreational vehicle"
+    ],
+    "snowmobile": [
+        "artifact",
+        "instrumentality",
+        "conveyance",
+        "vehicle",
+        "self-propelled vehicle",
+        "snowmobile"
+    ],
+    "amphibious vehicle": [
+        "artifact",
+        "instrumentality",
+        "conveyance",
+        "vehicle",
+        "self-propelled vehicle",
+        "motor vehicle",
+        "amphibious vehicle"
+    ],
+    "ford model t": [
+        "artifact",
+        "instrumentality",
+        "conveyance",
+        "vehicle",
+        "self-propelled vehicle",
+        "motor vehicle",
+        "car",
+        "ford model t"
+    ],
+    "convertible": [
+        "artifact",
+        "instrumentality",
+        "conveyance",
+        "vehicle",
+        "self-propelled vehicle",
+        "motor vehicle",
+        "car",
+        "convertible"
+    ],
+    "minivan": [
+        "artifact",
+        "instrumentality",
+        "conveyance",
+        "vehicle",
+        "self-propelled vehicle",
+        "motor vehicle",
+        "car",
+        "minivan"
+    ],
+    "taxicab": [
+        "artifact",
+        "instrumentality",
+        "conveyance",
+        "vehicle",
+        "self-propelled vehicle",
+        "motor vehicle",
+        "car",
+        "taxicab"
+    ],
+    "jeep": [
+        "artifact",
+        "instrumentality",
+        "conveyance",
+        "vehicle",
+        "self-propelled vehicle",
+        "motor vehicle",
+        "car",
+        "jeep"
+    ],
+    "sports car": [
+        "artifact",
+        "instrumentality",
+        "conveyance",
+        "vehicle",
+        "self-propelled vehicle",
+        "motor vehicle",
+        "car",
+        "sports car"
+    ],
+    "race car": [
+        "artifact",
+        "instrumentality",
+        "conveyance",
+        "vehicle",
+        "self-propelled vehicle",
+        "motor vehicle",
+        "car",
+        "race car"
+    ],
+    "limousine": [
+        "artifact",
+        "instrumentality",
+        "conveyance",
+        "vehicle",
+        "self-propelled vehicle",
+        "motor vehicle",
+        "car",
+        "limousine"
+    ],
+    "ambulance": [
+        "artifact",
+        "instrumentality",
+        "conveyance",
+        "vehicle",
+        "self-propelled vehicle",
+        "motor vehicle",
+        "car",
+        "ambulance"
+    ],
+    "station wagon": [
+        "artifact",
+        "instrumentality",
+        "conveyance",
+        "vehicle",
+        "self-propelled vehicle",
+        "motor vehicle",
+        "car",
+        "station wagon"
+    ],
+    "snowplow": [
+        "artifact",
+        "instrumentality",
+        "conveyance",
+        "vehicle",
+        "self-propelled vehicle",
+        "motor vehicle",
+        "snowplow"
+    ],
+    "tow truck": [
+        "artifact",
+        "instrumentality",
+        "conveyance",
+        "vehicle",
+        "self-propelled vehicle",
+        "motor vehicle",
+        "truck",
+        "tow truck"
+    ],
+    "pickup truck": [
+        "artifact",
+        "instrumentality",
+        "conveyance",
+        "vehicle",
+        "self-propelled vehicle",
+        "motor vehicle",
+        "truck",
+        "pickup truck"
+    ],
+    "fire truck": [
+        "artifact",
+        "instrumentality",
+        "conveyance",
+        "vehicle",
+        "self-propelled vehicle",
+        "motor vehicle",
+        "truck",
+        "fire truck"
+    ],
+    "garbage truck": [
+        "artifact",
+        "instrumentality",
+        "conveyance",
+        "vehicle",
+        "self-propelled vehicle",
+        "motor vehicle",
+        "truck",
+        "garbage truck"
+    ],
+    "semi-trailer truck": [
+        "artifact",
+        "instrumentality",
+        "conveyance",
+        "vehicle",
+        "self-propelled vehicle",
+        "motor vehicle",
+        "truck",
+        "semi-trailer truck"
+    ],
+    "police van": [
+        "artifact",
+        "instrumentality",
+        "conveyance",
+        "vehicle",
+        "self-propelled vehicle",
+        "motor vehicle",
+        "van",
+        "police van"
+    ],
+    "moving van": [
+        "artifact",
+        "instrumentality",
+        "conveyance",
+        "vehicle",
+        "self-propelled vehicle",
+        "motor vehicle",
+        "van",
+        "moving van"
+    ],
+    "go-kart": [
+        "artifact",
+        "instrumentality",
+        "conveyance",
+        "vehicle",
+        "self-propelled vehicle",
+        "motor vehicle",
+        "go-kart"
+    ],
+    "moped": [
+        "artifact",
+        "instrumentality",
+        "conveyance",
+        "vehicle",
+        "self-propelled vehicle",
+        "motor vehicle",
+        "moped"
+    ],
+    "tank": [
+        "artifact",
+        "instrumentality",
+        "conveyance",
+        "vehicle",
+        "self-propelled vehicle",
+        "military vehicle",
+        "tank"
+    ],
+    "tractor": [
+        "artifact",
+        "instrumentality",
+        "conveyance",
+        "vehicle",
+        "self-propelled vehicle",
+        "tractor"
+    ],
+    "wallet": [
+        "artifact",
+        "instrumentality",
+        "container",
+        "wallet"
+    ],
+    "piggy bank": [
+        "artifact",
+        "instrumentality",
+        "container",
+        "piggy bank"
+    ],
+    "flowerpot": [
+        "artifact",
+        "instrumentality",
+        "container",
+        "flowerpot"
+    ],
+    "vase": [
+        "artifact",
+        "instrumentality",
+        "container",
+        "jar",
+        "vase"
+    ],
+    "beaker": [
+        "artifact",
+        "instrumentality",
+        "container",
+        "jar",
+        "beaker"
+    ],
+    "mortar and pestle": [
+        "artifact",
+        "instrumentality",
+        "container",
+        "mortar and pestle"
+    ],
+    "barrel": [
+        "artifact",
+        "instrumentality",
+        "container",
+        "barrel"
+    ],
+    "water tower": [
+        "artifact",
+        "instrumentality",
+        "container",
+        "water tower"
+    ],
+    "washbasin": [
+        "artifact",
+        "instrumentality",
+        "container",
+        "washbasin"
+    ],
+    "soda bottle": [
+        "artifact",
+        "instrumentality",
+        "container",
+        "bottle",
+        "soda bottle"
+    ],
+    "water bottle": [
+        "artifact",
+        "instrumentality",
+        "container",
+        "bottle",
+        "water bottle"
+    ],
+    "beer bottle": [
+        "artifact",
+        "instrumentality",
+        "container",
+        "bottle",
+        "beer bottle"
+    ],
+    "water jug": [
+        "artifact",
+        "instrumentality",
+        "container",
+        "bottle",
+        "jug",
+        "water jug"
+    ],
+    "whiskey jug": [
+        "artifact",
+        "instrumentality",
+        "container",
+        "bottle",
+        "jug",
+        "whiskey jug"
+    ],
+    "pill bottle": [
+        "artifact",
+        "instrumentality",
+        "container",
+        "bottle",
+        "pill bottle"
+    ],
+    "wine bottle": [
+        "artifact",
+        "instrumentality",
+        "container",
+        "bottle",
+        "wine bottle"
+    ],
+    "ladle": [
+        "artifact",
+        "instrumentality",
+        "container",
+        "vessel",
+        "ladle"
+    ],
+    "hot tub": [
+        "artifact",
+        "instrumentality",
+        "container",
+        "vessel",
+        "hot tub"
+    ],
+    "bathtub": [
+        "artifact",
+        "instrumentality",
+        "container",
+        "vessel",
+        "bathtub"
+    ],
+    "coffee mug": [
+        "artifact",
+        "instrumentality",
+        "container",
+        "vessel",
+        "coffee mug"
+    ],
+    "bucket": [
+        "artifact",
+        "instrumentality",
+        "container",
+        "vessel",
+        "bucket"
+    ],
+    "drink pitcher": [
+        "artifact",
+        "instrumentality",
+        "container",
+        "vessel",
+        "drink pitcher"
+    ],
+    "mailbag": [
+        "artifact",
+        "instrumentality",
+        "container",
+        "bag",
+        "mailbag"
+    ],
+    "purse": [
+        "artifact",
+        "instrumentality",
+        "container",
+        "bag",
+        "purse"
+    ],
+    "backpack": [
+        "artifact",
+        "instrumentality",
+        "container",
+        "bag",
+        "backpack"
+    ],
+    "plastic bag": [
+        "artifact",
+        "instrumentality",
+        "container",
+        "bag",
+        "plastic bag"
+    ],
+    "sleeping bag": [
+        "artifact",
+        "instrumentality",
+        "container",
+        "bag",
+        "sleeping bag"
+    ],
+    "product packet or packaging": [
+        "artifact",
+        "instrumentality",
+        "container",
+        "product packet or packaging"
+    ],
+    "soup bowl": [
+        "artifact",
+        "instrumentality",
+        "container",
+        "dish",
+        "bowl",
+        "soup bowl"
+    ],
+    "mixing bowl": [
+        "artifact",
+        "instrumentality",
+        "container",
+        "dish",
+        "bowl",
+        "mixing bowl"
+    ],
+    "Petri dish": [
+        "artifact",
+        "instrumentality",
+        "container",
+        "dish",
+        "Petri dish"
+    ],
+    "television": [
+        "artifact",
+        "instrumentality",
+        "communication system",
+        "television"
+    ],
+    "radio": [
+        "artifact",
+        "instrumentality",
+        "communication system",
+        "radio"
+    ],
+    "bookcase": [
+        "artifact",
+        "instrumentality",
+        "furniture",
+        "bookcase"
+    ],
+    "cradle": [
+        "artifact",
+        "instrumentality",
+        "furniture",
+        "baby bed",
+        "cradle"
+    ],
+    "bassinet": [
+        "artifact",
+        "instrumentality",
+        "furniture",
+        "baby bed",
+        "bassinet"
+    ],
+    "crib": [
+        "artifact",
+        "instrumentality",
+        "furniture",
+        "baby bed",
+        "crib"
+    ],
+    "filing cabinet": [
+        "artifact",
+        "instrumentality",
+        "furniture",
+        "filing cabinet"
+    ],
+    "toilet seat": [
+        "artifact",
+        "instrumentality",
+        "furniture",
+        "seat",
+        "toilet seat"
+    ],
+    "studio couch": [
+        "artifact",
+        "instrumentality",
+        "furniture",
+        "seat",
+        "studio couch"
+    ],
+    "rocking chair": [
+        "artifact",
+        "instrumentality",
+        "furniture",
+        "seat",
+        "chair",
+        "rocking chair"
+    ],
+    "folding chair": [
+        "artifact",
+        "instrumentality",
+        "furniture",
+        "seat",
+        "chair",
+        "folding chair"
+    ],
+    "barber chair": [
+        "artifact",
+        "instrumentality",
+        "furniture",
+        "seat",
+        "chair",
+        "barber chair"
+    ],
+    "throne": [
+        "artifact",
+        "instrumentality",
+        "furniture",
+        "seat",
+        "chair",
+        "throne"
+    ],
+    "park bench": [
+        "artifact",
+        "instrumentality",
+        "furniture",
+        "seat",
+        "park bench"
+    ],
+    "dining table": [
+        "artifact",
+        "instrumentality",
+        "furniture",
+        "dining table"
+    ],
+    "china cabinet": [
+        "artifact",
+        "instrumentality",
+        "furniture",
+        "cabinet",
+        "china cabinet"
+    ],
+    "medicine cabinet": [
+        "artifact",
+        "instrumentality",
+        "furniture",
+        "cabinet",
+        "medicine cabinet"
+    ],
+    "chiffonier": [
+        "artifact",
+        "instrumentality",
+        "furniture",
+        "chiffonier"
+    ],
+    "table lamp": [
+        "artifact",
+        "instrumentality",
+        "furniture",
+        "table lamp"
+    ],
+    "four-poster bed": [
+        "artifact",
+        "instrumentality",
+        "furniture",
+        "four-poster bed"
+    ],
+    "wardrobe": [
+        "artifact",
+        "instrumentality",
+        "furniture",
+        "wardrobe"
+    ],
+    "desk": [
+        "artifact",
+        "instrumentality",
+        "furniture",
+        "desk"
+    ],
+    "entertainment center": [
+        "artifact",
+        "instrumentality",
+        "furniture",
+        "entertainment center"
+    ],
+    "sewing machine": [
+        "artifact",
+        "consumer goods",
+        "home appliance",
+        "sewing machine"
+    ],
+    "vacuum cleaner": [
+        "artifact",
+        "consumer goods",
+        "home appliance",
+        "vacuum cleaner"
+    ],
+    "clothes iron": [
+        "artifact",
+        "consumer goods",
+        "home appliance",
+        "clothes iron"
+    ],
+    "toaster": [
+        "artifact",
+        "consumer goods",
+        "home appliance",
+        "kitchen appliance",
+        "toaster"
+    ],
+    "Dutch oven": [
+        "artifact",
+        "consumer goods",
+        "home appliance",
+        "kitchen appliance",
+        "Dutch oven"
+    ],
+    "rotisserie": [
+        "artifact",
+        "consumer goods",
+        "home appliance",
+        "kitchen appliance",
+        "rotisserie"
+    ],
+    "microwave oven": [
+        "artifact",
+        "consumer goods",
+        "home appliance",
+        "kitchen appliance",
+        "microwave oven"
+    ],
+    "waffle iron": [
+        "artifact",
+        "consumer goods",
+        "home appliance",
+        "kitchen appliance",
+        "waffle iron"
+    ],
+    "espresso machine": [
+        "artifact",
+        "consumer goods",
+        "home appliance",
+        "kitchen appliance",
+        "espresso machine"
+    ],
+    "refrigerator": [
+        "artifact",
+        "consumer goods",
+        "home appliance",
+        "kitchen appliance",
+        "refrigerator"
+    ],
+    "washing machine": [
+        "artifact",
+        "consumer goods",
+        "home appliance",
+        "kitchen appliance",
+        "washing machine"
+    ],
+    "dishwasher": [
+        "artifact",
+        "consumer goods",
+        "home appliance",
+        "kitchen appliance",
+        "dishwasher"
+    ],
+    "hair wig": [
+        "artifact",
+        "consumer goods",
+        "clothing",
+        "hair wig"
+    ],
+    "vestment": [
+        "artifact",
+        "consumer goods",
+        "clothing",
+        "vestment"
+    ],
+    "academic gown": [
+        "artifact",
+        "consumer goods",
+        "clothing",
+        "academic gown"
+    ],
+    "military uniform": [
+        "artifact",
+        "consumer goods",
+        "clothing",
+        "military uniform"
+    ],
+    "pajama": [
+        "artifact",
+        "consumer goods",
+        "clothing",
+        "pajama"
+    ],
+    "seat belt": [
+        "artifact",
+        "consumer goods",
+        "clothing",
+        "seat belt"
+    ],
+    "Christmas stocking": [
+        "artifact",
+        "consumer goods",
+        "clothing",
+        "hosiery",
+        "Christmas stocking"
+    ],
+    "sock": [
+        "artifact",
+        "consumer goods",
+        "clothing",
+        "hosiery",
+        "sock"
+    ],
+    "tights": [
+        "artifact",
+        "consumer goods",
+        "clothing",
+        "hosiery",
+        "tights"
+    ],
+    "suit": [
+        "artifact",
+        "consumer goods",
+        "clothing",
+        "garment",
+        "suit"
+    ],
+    "diaper": [
+        "artifact",
+        "consumer goods",
+        "clothing",
+        "garment",
+        "diaper"
+    ],
+    "bra": [
+        "artifact",
+        "consumer goods",
+        "clothing",
+        "garment",
+        "bra"
+    ],
+    "feather boa": [
+        "artifact",
+        "consumer goods",
+        "clothing",
+        "garment",
+        "feather boa"
+    ],
+    "scarf": [
+        "artifact",
+        "consumer goods",
+        "clothing",
+        "garment",
+        "scarf"
+    ],
+    "cardigan": [
+        "artifact",
+        "consumer goods",
+        "clothing",
+        "garment",
+        "sweater",
+        "cardigan"
+    ],
+    "sweatshirt": [
+        "artifact",
+        "consumer goods",
+        "clothing",
+        "garment",
+        "sweater",
+        "sweatshirt"
+    ],
+    "hoop skirt": [
+        "artifact",
+        "consumer goods",
+        "clothing",
+        "garment",
+        "skirt",
+        "hoop skirt"
+    ],
+    "miniskirt": [
+        "artifact",
+        "consumer goods",
+        "clothing",
+        "garment",
+        "skirt",
+        "miniskirt"
+    ],
+    "overskirt": [
+        "artifact",
+        "consumer goods",
+        "clothing",
+        "garment",
+        "skirt",
+        "overskirt"
+    ],
+    "sarong": [
+        "artifact",
+        "consumer goods",
+        "clothing",
+        "garment",
+        "skirt",
+        "sarong"
+    ],
+    "bow tie": [
+        "artifact",
+        "consumer goods",
+        "clothing",
+        "garment",
+        "necktie",
+        "bow tie"
+    ],
+    "Windsor tie": [
+        "artifact",
+        "consumer goods",
+        "clothing",
+        "garment",
+        "necktie",
+        "Windsor tie"
+    ],
+    "bolo tie": [
+        "artifact",
+        "consumer goods",
+        "clothing",
+        "garment",
+        "necktie",
+        "bolo tie"
+    ],
+    "tank suit": [
+        "artifact",
+        "consumer goods",
+        "clothing",
+        "garment",
+        "swimsuit",
+        "tank suit"
+    ],
+    "bikini": [
+        "artifact",
+        "consumer goods",
+        "clothing",
+        "garment",
+        "swimsuit",
+        "bikini"
+    ],
+    "swimming trunks": [
+        "artifact",
+        "consumer goods",
+        "clothing",
+        "garment",
+        "swimsuit",
+        "swimming trunks"
+    ],
+    "T-shirt": [
+        "artifact",
+        "consumer goods",
+        "clothing",
+        "garment",
+        "T-shirt"
+    ],
+    "jean": [
+        "artifact",
+        "consumer goods",
+        "clothing",
+        "garment",
+        "jean"
+    ],
+    "kimono": [
+        "artifact",
+        "consumer goods",
+        "clothing",
+        "garment",
+        "robe",
+        "kimono"
+    ],
+    "abaya": [
+        "artifact",
+        "consumer goods",
+        "clothing",
+        "garment",
+        "robe",
+        "abaya"
+    ],
+    "trench coat": [
+        "artifact",
+        "consumer goods",
+        "clothing",
+        "garment",
+        "overgarment",
+        "coat",
+        "trench coat"
+    ],
+    "lab coat": [
+        "artifact",
+        "consumer goods",
+        "clothing",
+        "garment",
+        "overgarment",
+        "coat",
+        "lab coat"
+    ],
+    "fur coat": [
+        "artifact",
+        "consumer goods",
+        "clothing",
+        "garment",
+        "overgarment",
+        "coat",
+        "fur coat"
+    ],
+    "poncho": [
+        "artifact",
+        "consumer goods",
+        "clothing",
+        "garment",
+        "overgarment",
+        "poncho"
+    ],
+    "gown": [
+        "artifact",
+        "consumer goods",
+        "clothing",
+        "gown"
+    ],
+    "crash helmet": [
+        "artifact",
+        "consumer goods",
+        "clothing",
+        "headdress",
+        "helmet",
+        "crash helmet"
+    ],
+    "football helmet": [
+        "artifact",
+        "consumer goods",
+        "clothing",
+        "headdress",
+        "helmet",
+        "football helmet"
+    ],
+    "cowboy hat": [
+        "artifact",
+        "consumer goods",
+        "clothing",
+        "headdress",
+        "hat",
+        "cowboy hat"
+    ],
+    "poke bonnet": [
+        "artifact",
+        "consumer goods",
+        "clothing",
+        "headdress",
+        "hat",
+        "poke bonnet"
+    ],
+    "sombrero": [
+        "artifact",
+        "consumer goods",
+        "clothing",
+        "headdress",
+        "hat",
+        "sombrero"
+    ],
+    "military hat (bearskin or shako)": [
+        "artifact",
+        "consumer goods",
+        "clothing",
+        "headdress",
+        "hat",
+        "military hat (bearskin or shako)"
+    ],
+    "graduation cap": [
+        "artifact",
+        "consumer goods",
+        "clothing",
+        "headdress",
+        "cap",
+        "graduation cap"
+    ],
+    "shower cap": [
+        "artifact",
+        "consumer goods",
+        "clothing",
+        "headdress",
+        "cap",
+        "shower cap"
+    ],
+    "swimming cap": [
+        "artifact",
+        "consumer goods",
+        "clothing",
+        "headdress",
+        "cap",
+        "swimming cap"
+    ],
+    "mitten": [
+        "artifact",
+        "consumer goods",
+        "clothing",
+        "mitten"
+    ],
+    "knee pad": [
+        "artifact",
+        "consumer goods",
+        "clothing",
+        "protective garment",
+        "knee pad"
+    ],
+    "apron": [
+        "artifact",
+        "consumer goods",
+        "clothing",
+        "protective garment",
+        "apron"
+    ],
+    "doormat": [
+        "artifact",
+        "covering",
+        "floor cover",
+        "doormat"
+    ],
+    "prayer rug": [
+        "artifact",
+        "covering",
+        "floor cover",
+        "prayer rug"
+    ],
+    "shoji screen": [
+        "artifact",
+        "covering",
+        "shoji screen"
+    ],
+    "clog": [
+        "artifact",
+        "covering",
+        "footwear",
+        "clog"
+    ],
+    "Loafer": [
+        "artifact",
+        "covering",
+        "footwear",
+        "shoe",
+        "Loafer"
+    ],
+    "sandal": [
+        "artifact",
+        "covering",
+        "footwear",
+        "shoe",
+        "sandal"
+    ],
+    "running shoe": [
+        "artifact",
+        "covering",
+        "footwear",
+        "shoe",
+        "running shoe"
+    ],
+    "cowboy boot": [
+        "artifact",
+        "covering",
+        "footwear",
+        "cowboy boot"
+    ],
+    "thatched roof": [
+        "artifact",
+        "covering",
+        "protective covering",
+        "roof",
+        "thatched roof"
+    ],
+    "dome": [
+        "artifact",
+        "covering",
+        "protective covering",
+        "roof",
+        "dome"
+    ],
+    "vault": [
+        "artifact",
+        "covering",
+        "protective covering",
+        "roof",
+        "vault"
+    ],
+    "tile roof": [
+        "artifact",
+        "covering",
+        "protective covering",
+        "roof",
+        "tile roof"
+    ],
+    "lampshade": [
+        "artifact",
+        "covering",
+        "protective covering",
+        "lampshade"
+    ],
+    "window shade": [
+        "artifact",
+        "covering",
+        "protective covering",
+        "blind",
+        "window shade"
+    ],
+    "theater curtain": [
+        "artifact",
+        "covering",
+        "protective covering",
+        "blind",
+        "curtain",
+        "theater curtain"
+    ],
+    "shower curtain": [
+        "artifact",
+        "covering",
+        "protective covering",
+        "blind",
+        "curtain",
+        "shower curtain"
+    ],
+    "scabbard": [
+        "artifact",
+        "covering",
+        "protective covering",
+        "sheath",
+        "scabbard"
+    ],
+    "holster": [
+        "artifact",
+        "covering",
+        "protective covering",
+        "sheath",
+        "holster"
+    ],
+    "umbrella": [
+        "artifact",
+        "covering",
+        "protective covering",
+        "shelter",
+        "umbrella"
+    ],
+    "birdhouse": [
+        "artifact",
+        "covering",
+        "protective covering",
+        "shelter",
+        "birdhouse"
+    ],
+    "bell tower": [
+        "artifact",
+        "covering",
+        "protective covering",
+        "shelter",
+        "bell tower"
+    ],
+    "shield": [
+        "artifact",
+        "covering",
+        "protective covering",
+        "armor",
+        "shield"
+    ],
+    "bulletproof vest": [
+        "artifact",
+        "covering",
+        "protective covering",
+        "armor",
+        "body armor",
+        "bulletproof vest"
+    ],
+    "cuirass": [
+        "artifact",
+        "covering",
+        "protective covering",
+        "armor",
+        "body armor",
+        "cuirass"
+    ],
+    "chain mail": [
+        "artifact",
+        "covering",
+        "protective covering",
+        "armor",
+        "body armor",
+        "chain mail"
+    ],
+    "breastplate": [
+        "artifact",
+        "covering",
+        "protective covering",
+        "armor plate",
+        "breastplate"
+    ],
+    "Pickelhaube": [
+        "artifact",
+        "covering",
+        "protective covering",
+        "armor plate",
+        "Pickelhaube"
+    ],
+    "ring binder": [
+        "artifact",
+        "covering",
+        "protective covering",
+        "ring binder"
+    ],
+    "lens cap": [
+        "artifact",
+        "covering",
+        "protective covering",
+        "lens cap"
+    ],
+    "thimble": [
+        "artifact",
+        "covering",
+        "protective covering",
+        "thimble"
+    ],
+    "ski mask": [
+        "artifact",
+        "covering",
+        "protective covering",
+        "ski mask"
+    ],
+    "respirator": [
+        "artifact",
+        "covering",
+        "protective covering",
+        "respirator"
+    ],
+    "mosquito net": [
+        "artifact",
+        "covering",
+        "protective covering",
+        "screen",
+        "mosquito net"
+    ],
+    "fire screen": [
+        "artifact",
+        "covering",
+        "protective covering",
+        "screen",
+        "fire screen"
+    ],
+    "window screen": [
+        "artifact",
+        "covering",
+        "protective covering",
+        "screen",
+        "window screen"
+    ],
+    "dust jacket": [
+        "artifact",
+        "covering",
+        "dust jacket"
+    ],
+    "manhole cover": [
+        "artifact",
+        "covering",
+        "top",
+        "manhole cover"
+    ],
+    "baby pacifier": [
+        "artifact",
+        "covering",
+        "top",
+        "baby pacifier"
+    ],
+    "bottle cap": [
+        "artifact",
+        "covering",
+        "top",
+        "bottle cap"
+    ],
+    "mask": [
+        "artifact",
+        "covering",
+        "mask"
+    ],
+    "Band-Aid": [
+        "artifact",
+        "covering",
+        "cloth covering",
+        "Band-Aid"
+    ],
+    "quilt": [
+        "artifact",
+        "covering",
+        "cloth covering",
+        "quilt"
+    ],
+    "sawmill": [
+        "artifact",
+        "structure",
+        "sawmill"
+    ],
+    "altar": [
+        "artifact",
+        "structure",
+        "altar"
+    ],
+    "stupa": [
+        "artifact",
+        "structure",
+        "building",
+        "place of worship",
+        "stupa"
+    ],
+    "mosque": [
+        "artifact",
+        "structure",
+        "building",
+        "place of worship",
+        "mosque"
+    ],
+    "church": [
+        "artifact",
+        "structure",
+        "building",
+        "place of worship",
+        "church"
+    ],
+    "movie theater": [
+        "artifact",
+        "structure",
+        "building",
+        "theater",
+        "movie theater"
+    ],
+    "home theater": [
+        "artifact",
+        "structure",
+        "building",
+        "theater",
+        "home theater"
+    ],
+    "barn": [
+        "artifact",
+        "structure",
+        "building",
+        "barn"
+    ],
+    "restaurant": [
+        "artifact",
+        "structure",
+        "building",
+        "restaurant"
+    ],
+    "palace": [
+        "artifact",
+        "structure",
+        "building",
+        "residence",
+        "palace"
+    ],
+    "monastery": [
+        "artifact",
+        "structure",
+        "building",
+        "residence",
+        "monastery"
+    ],
+    "greenhouse": [
+        "artifact",
+        "structure",
+        "building",
+        "greenhouse"
+    ],
+    "library": [
+        "artifact",
+        "structure",
+        "building",
+        "library"
+    ],
+    "boathouse": [
+        "artifact",
+        "structure",
+        "building",
+        "shed",
+        "boathouse"
+    ],
+    "apiary": [
+        "artifact",
+        "structure",
+        "building",
+        "shed",
+        "apiary"
+    ],
+    "planetarium": [
+        "artifact",
+        "structure",
+        "building",
+        "planetarium"
+    ],
+    "pedestal": [
+        "artifact",
+        "structure",
+        "supporting structure",
+        "pedestal"
+    ],
+    "plate rack": [
+        "artifact",
+        "structure",
+        "supporting structure",
+        "framework",
+        "plate rack"
+    ],
+    "honeycomb": [
+        "artifact",
+        "structure",
+        "supporting structure",
+        "framework",
+        "honeycomb"
+    ],
+    "obelisk": [
+        "artifact",
+        "structure",
+        "column",
+        "obelisk"
+    ],
+    "totem pole": [
+        "artifact",
+        "structure",
+        "column",
+        "totem pole"
+    ],
+    "brass memorial plaque": [
+        "artifact",
+        "structure",
+        "memorial",
+        "brass memorial plaque"
+    ],
+    "megalith": [
+        "artifact",
+        "structure",
+        "memorial",
+        "megalith"
+    ],
+    "castle": [
+        "artifact",
+        "structure",
+        "castle"
+    ],
+    "fountain": [
+        "artifact",
+        "structure",
+        "fountain"
+    ],
+    "prison": [
+        "artifact",
+        "structure",
+        "establishment",
+        "prison"
+    ],
+    "bakery": [
+        "artifact",
+        "structure",
+        "establishment",
+        "mercantile establishment",
+        "shop",
+        "bakery"
+    ],
+    "barbershop": [
+        "artifact",
+        "structure",
+        "establishment",
+        "mercantile establishment",
+        "shop",
+        "barbershop"
+    ],
+    "toyshop": [
+        "artifact",
+        "structure",
+        "establishment",
+        "mercantile establishment",
+        "shop",
+        "toyshop"
+    ],
+    "candy store": [
+        "artifact",
+        "structure",
+        "establishment",
+        "mercantile establishment",
+        "shop",
+        "candy store"
+    ],
+    "butcher shop": [
+        "artifact",
+        "structure",
+        "establishment",
+        "mercantile establishment",
+        "shop",
+        "butcher shop"
+    ],
+    "shoe store": [
+        "artifact",
+        "structure",
+        "establishment",
+        "mercantile establishment",
+        "shop",
+        "shoe store"
+    ],
+    "bookstore": [
+        "artifact",
+        "structure",
+        "establishment",
+        "mercantile establishment",
+        "shop",
+        "bookstore"
+    ],
+    "tobacco shop": [
+        "artifact",
+        "structure",
+        "establishment",
+        "mercantile establishment",
+        "shop",
+        "tobacco shop"
+    ],
+    "grocery store": [
+        "artifact",
+        "structure",
+        "establishment",
+        "mercantile establishment",
+        "shop",
+        "grocery store"
+    ],
+    "lighthouse": [
+        "artifact",
+        "structure",
+        "lighthouse"
+    ],
+    "suspension bridge": [
+        "artifact",
+        "structure",
+        "bridge",
+        "suspension bridge"
+    ],
+    "viaduct": [
+        "artifact",
+        "structure",
+        "bridge",
+        "viaduct"
+    ],
+    "steel arch bridge": [
+        "artifact",
+        "structure",
+        "bridge",
+        "steel arch bridge"
+    ],
+    "mountain tent": [
+        "artifact",
+        "structure",
+        "tent",
+        "mountain tent"
+    ],
+    "dock": [
+        "artifact",
+        "structure",
+        "dock"
+    ],
+    "patio": [
+        "artifact",
+        "structure",
+        "patio"
+    ],
+    "mobile home": [
+        "artifact",
+        "structure",
+        "housing",
+        "mobile home"
+    ],
+    "yurt": [
+        "artifact",
+        "structure",
+        "housing",
+        "dwelling",
+        "yurt"
+    ],
+    "cliff dwelling": [
+        "artifact",
+        "structure",
+        "housing",
+        "dwelling",
+        "cliff dwelling"
+    ],
+    "dam": [
+        "artifact",
+        "structure",
+        "barrier",
+        "dam"
+    ],
+    "sliding door": [
+        "artifact",
+        "structure",
+        "barrier",
+        "movable barrier",
+        "sliding door"
+    ],
+    "turnstile": [
+        "artifact",
+        "structure",
+        "barrier",
+        "movable barrier",
+        "turnstile"
+    ],
+    "radiator grille": [
+        "artifact",
+        "structure",
+        "barrier",
+        "radiator grille"
+    ],
+    "breakwater": [
+        "artifact",
+        "structure",
+        "barrier",
+        "breakwater"
+    ],
+    "picket fence": [
+        "artifact",
+        "structure",
+        "barrier",
+        "fence",
+        "picket fence"
+    ],
+    "worm fence": [
+        "artifact",
+        "structure",
+        "barrier",
+        "fence",
+        "worm fence"
+    ],
+    "stone wall": [
+        "artifact",
+        "structure",
+        "barrier",
+        "fence",
+        "stone wall"
+    ],
+    "chain-link fence": [
+        "artifact",
+        "structure",
+        "barrier",
+        "fence",
+        "chain-link fence"
+    ],
+    "balusters": [
+        "artifact",
+        "structure",
+        "barrier",
+        "balusters"
+    ],
+    "triumphal arch": [
+        "artifact",
+        "structure",
+        "triumphal arch"
+    ],
+    "wool": [
+        "artifact",
+        "fabric",
+        "wool"
+    ],
+    "paper towel": [
+        "artifact",
+        "fabric",
+        "paper towel"
+    ],
+    "handkerchief": [
+        "artifact",
+        "fabric",
+        "handkerchief"
+    ],
+    "dishcloth": [
+        "artifact",
+        "fabric",
+        "dishcloth"
+    ],
+    "velvet fabric": [
+        "artifact",
+        "fabric",
+        "velvet fabric"
+    ]
+}

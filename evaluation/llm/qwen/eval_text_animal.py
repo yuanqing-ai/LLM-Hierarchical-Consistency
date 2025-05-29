@@ -47,35 +47,27 @@ def test_qwen(json_file, output_file, prompt_order,model_path):
             print(f"Warning: Missing level or choices data for {image_path}")
             continue
         
-        # Process image
-        # try:
-        #     # Getting the Base64 string
-        #     base64_image = encode_image(image_path)
-        # except Exception as e:
-        #     print(f"Error processing image {image_path}: {str(e)}")
-        #     continue
+    
         
         result_entry = {
             "image": image_path,
             "label": label,
         }
         
-        # 处理每一层的预测
+
         for t, (level_key, choices_key) in enumerate(zip(level_keys, choices_keys)):
-            level_number = level_key[5:]  # 提取层级数字
+            level_number = level_key[5:]  
             ground_truth = entry[level_key]
             choices = entry[choices_key]
             
-            # 判断是否是最后一层（叶子节点）
+      
             is_leaf_node = (t == len(level_keys) - 1)
             
             if is_leaf_node:
-                # 如果是叶子节点，直接使用label作为预测结果
                 choice_map = {chr(65 + j): opt for j, opt in enumerate(choices)}
                 predicted_letter = next((k for k, v in choice_map.items() if v.lower() == label.lower()), "Unknown")
                 predicted_label = label
             else:
-                # 非叶子节点，使用模型推理
                 #Based on taxonomy, where does 'label' fall in terms of order, family, and genus?
                 if prompt_order == 0:
                     prompt_template = f"Given the {label}, what is its taxonomic classification?"
@@ -91,7 +83,6 @@ def test_qwen(json_file, output_file, prompt_order,model_path):
                 choice_map = {chr(65 + j): opt for j, opt in enumerate(choices)}
                 predicted_letter, predicted_label, response = infer_level(prompt_template, choice_map, processor, model)
             
-            # 存储这一层的结果
             result_entry[f"ground_truth_level{level_number}"] = ground_truth
             result_entry[f"prediction_level{level_number}"] = response
             result_entry[f"predicted_level{level_number}_letter"] = predicted_letter

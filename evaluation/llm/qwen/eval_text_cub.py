@@ -60,32 +60,28 @@ def test_qwen(json_file, output_file, prompt_order,model_path):
             "label": label,
         }
         
-        # 处理每一层的预测
         for t, (level_key, choices_key) in enumerate(zip(level_keys, choices_keys)):
-            level_number = level_key[5:]  # 提取层级数字
+            level_number = level_key[5:] 
             ground_truth = entry[level_key]
             choices = entry[choices_key]
             
-            # 判断是否是最后一层（叶子节点）
             is_leaf_node = (t == len(level_keys) - 1)
             
             if is_leaf_node:
-                # 如果是叶子节点，直接使用label作为预测结果
                 choice_map = {chr(65 + j): opt for j, opt in enumerate(choices)}
                 predicted_letter = next((k for k, v in choice_map.items() if v.lower() == label.lower()), "Unknown")
                 predicted_label = label
             else:
-                # 非叶子节点，使用模型推理
                 #Based on taxonomy, where does 'label' fall in terms of order, family, and genus?
                 if prompt_order == 0:
                     if t==0:
                         #prompt_template = f"Given the {label}, what is its taxonomic classification at the order level?"
-                        prompt_template=f"Based on taxonomy, where does {label} fall in terms of order"
+                        prompt_template=f"Based on taxonomy, where does {label} fall in terms of order?"
                     elif t==1:
                     # prompt_template=f"Given the {label}, what is its taxonomic classification at the family level?"
-                        prompt_template=f"Based on taxonomy, where does {label} fall in terms of family"
+                        prompt_template=f"Based on taxonomy, where does {label} fall in terms of family?"
                     else:
-                        prompt_template=f"Based on taxonomy, where does {label} fall in terms of genus"
+                        prompt_template=f"Based on taxonomy, where does {label} fall in terms of genus?"
                 elif prompt_order == 1:
                     if t==0:
                         prompt_template = f"Given the {label}, what is its taxonomic classification at the order level?"

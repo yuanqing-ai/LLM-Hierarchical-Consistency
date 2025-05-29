@@ -1,12 +1,37 @@
 #! /bin/bash
 
 ## CLIP
-
-
+"please specify the test_set"
+python evaluation/clip/openclip.py --test_set data/annotations/similar_choices/inat21_animalia_with_similar_choice.jsonl \
+--output_file your_output_file
 ## SigLIP
+python evaluation/clip/siglip.py --test_set data/annotations/similar_choices/inat21_animalia_with_similar_choice.jsonl \
+--output_file your_output_file
 
 ## LLaVA-OV
+python evaluation/vllm/llava/eval_natural_animal.py --prompt_order \
+--test_set data/annotations/similar_choices/inat21_animalia_with_similar_choice.jsonl \
+--output_file your_output_file
 
+python evaluation/vllm/llava/eval_natural_plant.py --prompt_order \
+--test_set data/annotations/similar_choices/inat21_plantae_with_similar_choice.jsonl \
+--output_file your_output_file
+
+python evaluation/vllm/llava/eval_artifact.py --prompt_order \
+--test_set data/annotations/similar_choices/imagenet_artifact_with_similar_choice.jsonl \
+--output_file your_output_file
+
+python evaluation/vllm/llava/eval_animal.py --prompt_order \
+--test_set data/annotations/similar_choices/imagenet_animal_with_similarity_choice.jsonl \
+--output_file your_output_file
+
+python evaluation/vllm/llava/eval_CUB.py --prompt_order \
+--test_set data/annotations/similar_choices/CUB200_with_similarity_choice.jsonl \
+--output_file your_output_file
+
+python evaluation/vllm/internvl/eval_food.py --prompt_order \
+--test_set data/annotations/similar_choices/Food101_with_similar_choice.jsonl \
+--output_file your_output_file
 
 ## InternVL2.5-8B
 python evaluation/vllm/internvl/eval_img_natrual_ani.py --prompt_order \

@@ -25,8 +25,8 @@ This paper reveals that many state-of-the-art large language models (LLMs) lack 
     - [InternVL2.5&3](https://github.com/OpenGVLab/InternVL/tree/main)
     - [Qwen2.5-VL](https://github.com/QwenLM/Qwen2.5-VL)
     - [GPT-4o](https://github.com/openai/openai-python)
-    - [OpenCLIP]()  <span style="color:red">Yuwen</span>
-    - [SigLIP]() <span style="color:red">Yuwen</span>
+    - [OpenCLIP](https://github.com/mlfoundations/open_clip)
+    - [SigLIP](https://huggingface.co/docs/transformers/main/en/model_doc/siglip)
 
 - For LoRA-finetuning on Qwen2.5-VL-7B, we use the [Qwen2-VL-Finetune](https://github.com/2U1/Qwen2-VL-Finetune). Please run the following command to install the training conda environment:
 
@@ -46,14 +46,14 @@ This paper reveals that many state-of-the-art large language models (LLMs) lack 
 
 ## Data Preparation
 
-### Step 1 <span style="color:red">Yuwen</span>
+### Step 1
 We use four datasets to form 6 taxonomies.
 Please download the image data from the following links and put them in the `data/images` directory.
 
-- [Inaturalist2021]()
-- [ImageNet-1K]()
-- [CUB-200-2021]()
-- [Food-101]()
+- [Inaturalist2021](https://github.com/visipedia/inat_comp/tree/master/2021)
+- [ImageNet-1K](https://huggingface.co/datasets/ILSVRC/imagenet-1k)
+- [CUB-200-2021](https://www.vision.caltech.edu/datasets/cub_200_2011/)
+- [Food-101](https://www.kaggle.com/datasets/dansbecker/food-101)
 
 ### Step 2
 
@@ -162,11 +162,42 @@ python utils/metric_binary.py --file_path path/to/output/file
 
 
 
-## Linear Probing <span style="color:red">Yuwen</span>
+## Linear Probing 
+
 
 ### Image Features
 
+To generatet the image features from vision encoder, please install transformers from source using `transformers==4.50.0.dev0`.
+Replace the `modeling_qwen2_5_vl.py` with the one in `probing/modeling_qwen2_5_vl.py` and then `pip install -e .`.
+
+Then, generate the image features from vision encoder, projector using the following command:
+
+```bash
+python probing/vlm_probe_data_gen.py
+```
+Then, please switch to the standard Qwen evaluation conda environment and generate the image features from the last layer of LLM using the following command:
+
+```bash
+python probing/vlm_probe_data_gen_llm.py
+```
+After generating the features, you can run the following command to perform linear probing:
+
+```bash
+bash scripts/vlm_probing.sh # Please specify the feature you want to probe
+```
+
 ### Text Features
+Please use the standard Qwen evaluation conda environment and run the following command to generate the text features:
+
+```bash
+python probing/text_probing_data_gen.py # you can change prompt template in the script
+```
+
+Then, please run the following command to perform linear probing:
+
+```bash
+bash scripts/llm_probing.sh # Please specify the feature you want to probe
+```
 
 ## Finetuning
 

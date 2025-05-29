@@ -1,0 +1,824 @@
+{
+  "Sooty Albatross": [
+    "Procellariiformes",
+    "Diomedeidae",
+    "Phoebetria",
+    "Sooty Albatross"
+  ],
+  "Groove-billed Ani": [
+    "Cuculiformes",
+    "Cuculidae",
+    "Crotophaga",
+    "Groove-billed Ani"
+  ],
+  "Rhinoceros Auklet": [
+    "Charadriiformes",
+    "Alcidae",
+    "Cerorhinca",
+    "Rhinoceros Auklet"
+  ],
+  "Red-winged Blackbird": [
+    "Passeriformes",
+    "Icteridae",
+    "Agelaius",
+    "Red-winged Blackbird"
+  ],
+  "Yellow-headed Blackbird": [
+    "Passeriformes",
+    "Icteridae",
+    "Xanthocephalus",
+    "Yellow-headed Blackbird"
+  ],
+  "Bobolink": [
+    "Passeriformes",
+    "Icteridae",
+    "Dolichonyx",
+    "Bobolink"
+  ],
+  "Cardinal": [
+    "Passeriformes",
+    "Cardinalidae",
+    "Cardinalis",
+    "Cardinal"
+  ],
+  "Spotted Catbird": [
+    "Passeriformes",
+    "Ptilonorhynchidae",
+    "Ailuroedus",
+    "Spotted Catbird"
+  ],
+  "Gray Catbird": [
+    "Passeriformes",
+    "Mimidae",
+    "Dumetella",
+    "Gray Catbird"
+  ],
+  "Yellow-breasted Chat": [
+    "Passeriformes",
+    "Icteriidae",
+    "Icteria",
+    "Yellow-breasted Chat"
+  ],
+  "Brown Creeper": [
+    "Passeriformes",
+    "Certhiidae",
+    "Certhia",
+    "Brown Creeper"
+  ],
+  "Gray-crowned Rosy-Finch": [
+    "Passeriformes",
+    "Fringillidae",
+    "Leucosticte",
+    "Gray-crowned Rosy-Finch"
+  ],
+  "Purple Finch": [
+    "Passeriformes",
+    "Fringillidae",
+    "Haemorhous",
+    "Purple Finch"
+  ],
+  "Northern Flicker": [
+    "Piciformes",
+    "Picidae",
+    "Colaptes",
+    "Northern Flicker"
+  ],
+  "Great Crested Flycatcher": [
+    "Passeriformes",
+    "Tyrannidae",
+    "Myiarchus",
+    "Great Crested Flycatcher"
+  ],
+  "Vermilion Flycatcher": [
+    "Passeriformes",
+    "Tyrannidae",
+    "Pyrocephalus",
+    "Vermilion Flycatcher"
+  ],
+  "Frigatebird": [
+    "Suliformes",
+    "Fregatidae",
+    "Fregata",
+    "Frigatebird"
+  ],
+  "Northern Fulmar": [
+    "Procellariiformes",
+    "Procellariidae",
+    "Fulmarus",
+    "Northern Fulmar"
+  ],
+  "Gadwall": [
+    "Anseriformes",
+    "Anatidae",
+    "Mareca",
+    "Gadwall"
+  ],
+  "American Goldfinch": [
+    "Passeriformes",
+    "Fringillidae",
+    "Spinus",
+    "American Goldfinch"
+  ],
+  "European Goldfinch": [
+    "Passeriformes",
+    "Fringillidae",
+    "Carduelis",
+    "European Goldfinch"
+  ],
+  "Boat-tailed Grackle": [
+    "Passeriformes",
+    "Icteridae",
+    "Quiscalus",
+    "Boat-tailed Grackle"
+  ],
+  "Pied-billed Grebe": [
+    "Podicipediformes",
+    "Podicipedidae",
+    "Podilymbus",
+    "Pied-billed Grebe"
+  ],
+  "Western Grebe": [
+    "Podicipediformes",
+    "Podicipedidae",
+    "Aechmophorus",
+    "Western Grebe"
+  ],
+  "Evening Grosbeak": [
+    "Passeriformes",
+    "Fringillidae",
+    "Hesperiphona",
+    "Evening Grosbeak"
+  ],
+  "Pine Grosbeak": [
+    "Passeriformes",
+    "Fringillidae",
+    "Pinicola",
+    "Pine Grosbeak"
+  ],
+  "Rose-breasted Grosbeak": [
+    "Passeriformes",
+    "Cardinalidae",
+    "Pheucticus",
+    "Rose-breasted Grosbeak"
+  ],
+  "Pigeon Guillemot": [
+    "Charadriiformes",
+    "Alcidae",
+    "Cepphus",
+    "Pigeon Guillemot"
+  ],
+  "Ivory Gull": [
+    "Charadriiformes",
+    "Laridae",
+    "Pagophila",
+    "Ivory Gull"
+  ],
+  "Anna's Hummingbird": [
+    "Apodiformes",
+    "Trochilidae",
+    "Calypte",
+    "Anna's Hummingbird"
+  ],
+  "Ruby-throated Hummingbird": [
+    "Apodiformes",
+    "Trochilidae",
+    "Archilochus",
+    "Ruby-throated Hummingbird"
+  ],
+  "Rufous Hummingbird": [
+    "Apodiformes",
+    "Trochilidae",
+    "Selasphorus",
+    "Rufous Hummingbird"
+  ],
+  "Green Violetear": [
+    "Apodiformes",
+    "Trochilidae",
+    "Colibri",
+    "Green Violetear"
+  ],
+  "Blue Jay": [
+    "Passeriformes",
+    "Corvidae",
+    "Cyanocitta",
+    "Blue Jay"
+  ],
+  "Florida Jay": [
+    "Passeriformes",
+    "Corvidae",
+    "Aphelocoma",
+    "Florida Jay"
+  ],
+  "Green Jay": [
+    "Passeriformes",
+    "Corvidae",
+    "Cyanocorax",
+    "Green Jay"
+  ],
+  "Dark-eyed Junco": [
+    "Passeriformes",
+    "Passerellidae",
+    "Junco",
+    "Dark-eyed Junco"
+  ],
+  "Green Kingfisher": [
+    "Coraciiformes",
+    "Alcedinidae",
+    "Chloroceryle",
+    "Green Kingfisher"
+  ],
+  "Pied Kingfisher": [
+    "Coraciiformes",
+    "Alcedinidae",
+    "Ceryle",
+    "Pied Kingfisher"
+  ],
+  "White-breasted Kingfisher": [
+    "Coraciiformes",
+    "Alcedinidae",
+    "Halcyon",
+    "White-breasted Kingfisher"
+  ],
+  "Red-legged Kittiwake": [
+    "Charadriiformes",
+    "Laridae",
+    "Rissa",
+    "Red-legged Kittiwake"
+  ],
+  "Horned Lark": [
+    "Passeriformes",
+    "Alaudidae",
+    "Eremophila",
+    "Horned Lark"
+  ],
+  "Pacific Loon": [
+    "Gaviiformes",
+    "Gaviidae",
+    "Gavia",
+    "Pacific Loon"
+  ],
+  "Mallard": [
+    "Anseriformes",
+    "Anatidae",
+    "Anas",
+    "Mallard"
+  ],
+  "Western Meadowlark": [
+    "Passeriformes",
+    "Icteridae",
+    "Sturnella",
+    "Western Meadowlark"
+  ],
+  "Hooded Merganser": [
+    "Anseriformes",
+    "Anatidae",
+    "Lophodytes",
+    "Hooded Merganser"
+  ],
+  "Red-breasted Merganser": [
+    "Anseriformes",
+    "Anatidae",
+    "Mergus",
+    "Red-breasted Merganser"
+  ],
+  "Mockingbird": [
+    "Passeriformes",
+    "Mimidae",
+    "Mimus",
+    "Mockingbird"
+  ],
+  "Nighthawk": [
+    "Caprimulgiformes",
+    "Caprimulgidae",
+    "Chordeiles",
+    "Nighthawk"
+  ],
+  "Clark's Nutcracker": [
+    "Passeriformes",
+    "Corvidae",
+    "Nucifraga",
+    "Clark's Nutcracker"
+  ],
+  "White-breasted Nuthatch": [
+    "Passeriformes",
+    "Sittidae",
+    "Sitta",
+    "White-breasted Nuthatch"
+  ],
+  "Ovenbird": [
+    "Passeriformes",
+    "Parulidae",
+    "Seiurus",
+    "Ovenbird"
+  ],
+  "Sayornis": [
+    "Passeriformes",
+    "Tyrannidae",
+    "Sayornis",
+    "Sayornis"
+  ],
+  "American Pipit": [
+    "Passeriformes",
+    "Motacillidae",
+    "Anthus",
+    "American Pipit"
+  ],
+  "Horned Puffin": [
+    "Charadriiformes",
+    "Alcidae",
+    "Fratercula",
+    "Horned Puffin"
+  ],
+  "Geococcyx": [
+    "Cuculiformes",
+    "Cuculidae",
+    "Geococcyx",
+    "Geococcyx"
+  ],
+  "Black-throated Sparrow": [
+    "Passeriformes",
+    "Passerellidae",
+    "Amphispiza",
+    "Black-throated Sparrow"
+  ],
+  "House Sparrow": [
+    "Passeriformes",
+    "Passeridae",
+    "Passer",
+    "House Sparrow"
+  ],
+  "Fox Sparrow": [
+    "Passeriformes",
+    "Passerellidae",
+    "Passerella",
+    "Fox Sparrow"
+  ],
+  "Grasshopper Sparrow": [
+    "Passeriformes",
+    "Passerellidae",
+    "Ammodramus",
+    "Grasshopper Sparrow"
+  ],
+  "Savannah Sparrow": [
+    "Passeriformes",
+    "Passerellidae",
+    "Passerculus",
+    "Savannah Sparrow"
+  ],
+  "Tree Sparrow": [
+    "Passeriformes",
+    "Passerellidae",
+    "Spizelloides",
+    "Tree Sparrow"
+  ],
+  "Vesper Sparrow": [
+    "Passeriformes",
+    "Passerellidae",
+    "Pooecetes",
+    "Vesper Sparrow"
+  ],
+  "Cape Glossy Starling": [
+    "Passeriformes",
+    "Sturnidae",
+    "Lamprotornis",
+    "Cape Glossy Starling"
+  ],
+  "Bank Swallow": [
+    "Passeriformes",
+    "Hirundinidae",
+    "Riparia",
+    "Bank Swallow"
+  ],
+  "Barn Swallow": [
+    "Passeriformes",
+    "Hirundinidae",
+    "Hirundo",
+    "Barn Swallow"
+  ],
+  "Cliff Swallow": [
+    "Passeriformes",
+    "Hirundinidae",
+    "Petrochelidon",
+    "Cliff Swallow"
+  ],
+  "Tree Swallow": [
+    "Passeriformes",
+    "Hirundinidae",
+    "Tachycineta",
+    "Tree Swallow"
+  ],
+  "Black Tern": [
+    "Charadriiformes",
+    "Laridae",
+    "Chlidonias",
+    "Black Tern"
+  ],
+  "Caspian Tern": [
+    "Charadriiformes",
+    "Laridae",
+    "Hydroprogne",
+    "Caspian Tern"
+  ],
+  "Elegant Tern": [
+    "Charadriiformes",
+    "Laridae",
+    "Thalasseus",
+    "Elegant Tern"
+  ],
+  "Least Tern": [
+    "Charadriiformes",
+    "Laridae",
+    "Sternula",
+    "Least Tern"
+  ],
+  "Brown Thrasher": [
+    "Passeriformes",
+    "Mimidae",
+    "Toxostoma",
+    "Brown Thrasher"
+  ],
+  "Sage Thrasher": [
+    "Passeriformes",
+    "Mimidae",
+    "Oreoscoptes",
+    "Sage Thrasher"
+  ],
+  "Black-and-white Warbler": [
+    "Passeriformes",
+    "Parulidae",
+    "Mniotilta",
+    "Black-and-white Warbler"
+  ],
+  "Prothonotary Warbler": [
+    "Passeriformes",
+    "Parulidae",
+    "Protonotaria",
+    "Prothonotary Warbler"
+  ],
+  "Swainson's Warbler": [
+    "Passeriformes",
+    "Parulidae",
+    "Limnothlypis",
+    "Swainson's Warbler"
+  ],
+  "Worm-eating Warbler": [
+    "Passeriformes",
+    "Parulidae",
+    "Helmitheros",
+    "Worm-eating Warbler"
+  ],
+  "American Three-toed Woodpecker": [
+    "Piciformes",
+    "Picidae",
+    "Picoides",
+    "American Three-toed Woodpecker"
+  ],
+  "Pileated Woodpecker": [
+    "Piciformes",
+    "Picidae",
+    "Dryocopus",
+    "Pileated Woodpecker"
+  ],
+  "Red-cockaded Woodpecker": [
+    "Piciformes",
+    "Picidae",
+    "Leuconotopicus",
+    "Red-cockaded Woodpecker"
+  ],
+  "Downy Woodpecker": [
+    "Piciformes",
+    "Picidae",
+    "Dryobates",
+    "Downy Woodpecker"
+  ],
+  "Bewick's Wren": [
+    "Passeriformes",
+    "Troglodytidae",
+    "Thryomanes",
+    "Bewick's Wren"
+  ],
+  "Cactus Wren": [
+    "Passeriformes",
+    "Troglodytidae",
+    "Campylorhynchus",
+    "Cactus Wren"
+  ],
+  "Carolina Wren": [
+    "Passeriformes",
+    "Troglodytidae",
+    "Thryothorus",
+    "Carolina Wren"
+  ],
+  "Marsh Wren": [
+    "Passeriformes",
+    "Troglodytidae",
+    "Cistothorus",
+    "Marsh Wren"
+  ],
+  "Rock Wren": [
+    "Passeriformes",
+    "Troglodytidae",
+    "Salpinctes",
+    "Rock Wren"
+  ],
+  "Laysan Albatross": [
+    "Procellariiformes",
+    "Diomedeidae",
+    "Phoebastria",
+    "Laysan Albatross"
+  ],
+  "Parakeet Auklet": [
+    "Charadriiformes",
+    "Alcidae",
+    "Aethia",
+    "Parakeet Auklet"
+  ],
+  "Rusty Blackbird": [
+    "Passeriformes",
+    "Icteridae",
+    "Euphagus",
+    "Rusty Blackbird"
+  ],
+  "Blue Grosbeak": [
+    "Passeriformes",
+    "Cardinalidae",
+    "Passerina",
+    "Blue Grosbeak"
+  ],
+  "Painted Bunting": [
+    "Passeriformes",
+    "Cardinalidae",
+    "Passerina",
+    "Painted Bunting"
+  ],
+  "Green-tailed Towhee": [
+    "Passeriformes",
+    "Passerellidae",
+    "Pipilo",
+    "Green-tailed Towhee"
+  ],
+  "Chuck-will's-widow": [
+    "Caprimulgiformes",
+    "Caprimulgidae",
+    "Antrostomus",
+    "Chuck-will's-widow"
+  ],
+  "Red-faced Cormorant": [
+    "Suliformes",
+    "Phalacrocoracidae",
+    "Phalacrocorax",
+    "Red-faced Cormorant"
+  ],
+  "Shiny Cowbird": [
+    "Passeriformes",
+    "Icteridae",
+    "Molothrus",
+    "Shiny Cowbird"
+  ],
+  "White-necked Raven": [
+    "Passeriformes",
+    "Corvidae",
+    "Corvus",
+    "White-necked Raven"
+  ],
+  "Common Raven": [
+    "Passeriformes",
+    "Corvidae",
+    "Corvus",
+    "Common Raven"
+  ],
+  "Mangrove Cuckoo": [
+    "Cuculiformes",
+    "Cuculidae",
+    "Coccyzus",
+    "Mangrove Cuckoo"
+  ],
+  "Acadian Flycatcher": [
+    "Passeriformes",
+    "Tyrannidae",
+    "Empidonax",
+    "Acadian Flycatcher"
+  ],
+  "Western Wood-Pewee": [
+    "Passeriformes",
+    "Tyrannidae",
+    "Contopus",
+    "Western Wood-Pewee"
+  ],
+  "Scissor-tailed Flycatcher": [
+    "Passeriformes",
+    "Tyrannidae",
+    "Tyrannus",
+    "Scissor-tailed Flycatcher"
+  ],
+  "Horned Grebe": [
+    "Podicipediformes",
+    "Podicipedidae",
+    "Podiceps",
+    "Horned Grebe"
+  ],
+  "Ring-billed Gull": [
+    "Charadriiformes",
+    "Laridae",
+    "Larus",
+    "Ring-billed Gull"
+  ],
+  "California Gull": [
+    "Charadriiformes",
+    "Laridae",
+    "Larus",
+    "California Gull"
+  ],
+  "Slaty-backed Gull": [
+    "Charadriiformes",
+    "Laridae",
+    "Larus",
+    "Slaty-backed Gull"
+  ],
+  "Pomarine Jaeger": [
+    "Charadriiformes",
+    "Stercorariidae",
+    "Stercorarius",
+    "Pomarine Jaeger"
+  ],
+  "Belted Kingfisher": [
+    "Coraciiformes",
+    "Alcedinidae",
+    "Megaceryle",
+    "Belted Kingfisher"
+  ],
+  "Orchard Oriole": [
+    "Passeriformes",
+    "Icteridae",
+    "Icterus",
+    "Orchard Oriole"
+  ],
+  "Hooded Oriole": [
+    "Passeriformes",
+    "Icteridae",
+    "Icterus",
+    "Hooded Oriole"
+  ],
+  "White Pelican": [
+    "Pelecaniformes",
+    "Pelecanidae",
+    "Pelecanus",
+    "White Pelican"
+  ],
+  "Hooded Warbler": [
+    "Passeriformes",
+    "Parulidae",
+    "Setophaga",
+    "Hooded Warbler"
+  ],
+  "Bay-breasted Warbler": [
+    "Passeriformes",
+    "Parulidae",
+    "Setophaga",
+    "Bay-breasted Warbler"
+  ],
+  "Black-throated Blue Warbler": [
+    "Passeriformes",
+    "Parulidae",
+    "Setophaga",
+    "Black-throated Blue Warbler"
+  ],
+  "Prairie Warbler": [
+    "Passeriformes",
+    "Parulidae",
+    "Setophaga",
+    "Prairie Warbler"
+  ],
+  "Cape May Warbler": [
+    "Passeriformes",
+    "Parulidae",
+    "Setophaga",
+    "Cape May Warbler"
+  ],
+  "Myrtle Warbler": [
+    "Passeriformes",
+    "Parulidae",
+    "Setophaga",
+    "Myrtle Warbler"
+  ],
+  "Loggerhead Shrike": [
+    "Passeriformes",
+    "Laniidae",
+    "Lanius",
+    "Loggerhead Shrike"
+  ],
+  "Henslow's Sparrow": [
+    "Passeriformes",
+    "Passerellidae",
+    "Centronyx",
+    "Henslow's Sparrow"
+  ],
+  "Chipping Sparrow": [
+    "Passeriformes",
+    "Passerellidae",
+    "Spizella",
+    "Chipping Sparrow"
+  ],
+  "Clay-colored Sparrow": [
+    "Passeriformes",
+    "Passerellidae",
+    "Spizella",
+    "Clay-colored Sparrow"
+  ],
+  "White-throated Sparrow": [
+    "Passeriformes",
+    "Passerellidae",
+    "Zonotrichia",
+    "White-throated Sparrow"
+  ],
+  "Nelson's Sharp-tailed Sparrow": [
+    "Passeriformes",
+    "Passerellidae",
+    "Ammospiza",
+    "Nelson's sharp-tailed Sparrow"
+  ],
+  "Lincoln's Sparrow": [
+    "Passeriformes",
+    "Passerellidae",
+    "Melospiza",
+    "Lincoln's Sparrow"
+  ],
+  "Scarlet Tanager": [
+    "Passeriformes",
+    "Cardinalidae",
+    "Piranga",
+    "Scarlet Tanager"
+  ],
+  "Arctic Tern": [
+    "Charadriiformes",
+    "Laridae",
+    "Sterna",
+    "Arctic Tern"
+  ],
+  "Black-capped Vireo": [
+    "Passeriformes",
+    "Vireonidae",
+    "Vireo",
+    "Black-capped Vireo"
+  ],
+  "Red-eyed Vireo": [
+    "Passeriformes",
+    "Vireonidae",
+    "Vireo",
+    "Red-eyed Vireo"
+  ],
+  "Warbling Vireo": [
+    "Passeriformes",
+    "Vireonidae",
+    "Vireo",
+    "Warbling Vireo"
+  ],
+  "Golden-winged Warbler": [
+    "Passeriformes",
+    "Parulidae",
+    "Vermivora",
+    "Golden-winged Warbler"
+  ],
+  "Wilson's Warbler": [
+    "Passeriformes",
+    "Parulidae",
+    "Cardellina",
+    "Wilson's Warbler"
+  ],
+  "Mourning Warbler": [
+    "Passeriformes",
+    "Parulidae",
+    "Geothlypis",
+    "Mourning Warbler"
+  ],
+  "Tennessee Warbler": [
+    "Passeriformes",
+    "Parulidae",
+    "Leiothlypis",
+    "Tennessee Warbler"
+  ],
+  "Northern Waterthrush": [
+    "Passeriformes",
+    "Parulidae",
+    "Parkesia",
+    "Northern Waterthrush"
+  ],
+  "Bohemian Waxwing": [
+    "Passeriformes",
+    "Bombycillidae",
+    "Bombycilla",
+    "Bohemian Waxwing"
+  ],
+  "Red-headed Woodpecker": [
+    "Piciformes",
+    "Picidae",
+    "Melanerpes",
+    "Red-headed Woodpecker"
+  ],
+  "House Wren": [
+    "Passeriformes",
+    "Troglodytidae",
+    "Troglodytes",
+    "House Wren"
+  ]
+}

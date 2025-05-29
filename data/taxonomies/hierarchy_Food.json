@@ -1,0 +1,506 @@
+{
+    "eggs benedict": [
+        "food",
+        "breakfast food",
+        "eggs benedict"
+    ],
+    "pancakes": [
+        "food",
+        "breakfast food",
+        "pancakes"
+    ],
+    "caesar salad": [
+        "food",
+        "appetizers",
+        "caesar salad"
+    ],
+    "cheese plate": [
+        "food",
+        "appetizers",
+        "cheese plate"
+    ],
+    "deviled eggs": [
+        "food",
+        "appetizers",
+        "deviled eggs"
+    ],
+    "dumplings": [
+        "food",
+        "appetizers",
+        "dumplings"
+    ],
+    "edamame": [
+        "food",
+        "appetizers",
+        "edamame"
+    ],
+    "escargots": [
+        "food",
+        "appetizers",
+        "escargots"
+    ],
+    "takoyaki": [
+        "food",
+        "appetizers",
+        "takoyaki"
+    ],
+    "clam chowder": [
+        "food",
+        "soups",
+        "clam chowder"
+    ],
+    "french onion soup": [
+        "food",
+        "soups",
+        "french onion soup"
+    ],
+    "hot and sour soup": [
+        "food",
+        "soups",
+        "hot and sour soup"
+    ],
+    "miso soup": [
+        "food",
+        "soups",
+        "miso soup"
+    ],
+    "pho": [
+        "food",
+        "soups",
+        "pho"
+    ],
+    "ramen": [
+        "food",
+        "soups",
+        "ramen"
+    ],
+    "baby back ribs": [
+        "food",
+        "main course food",
+        "meat food",
+        "baby back ribs"
+    ],
+    "beef carpaccio": [
+        "food",
+        "main course food",
+        "meat food",
+        "beef carpaccio"
+    ],
+    "beef tartare": [
+        "food",
+        "main course food",
+        "meat food",
+        "beef tartare"
+    ],
+    "filet mignon": [
+        "food",
+        "main course food",
+        "meat food",
+        "filet mignon"
+    ],
+    "hamburger": [
+        "food",
+        "main course food",
+        "meat food",
+        "hamburger"
+    ],
+    "hot dog": [
+        "food",
+        "main course food",
+        "meat food",
+        "hot dog"
+    ],
+    "lobster roll sandwich": [
+        "food",
+        "main course food",
+        "meat food",
+        "lobster roll sandwich"
+    ],
+    "pork chop": [
+        "food",
+        "main course food",
+        "meat food",
+        "pork chop"
+    ],
+    "prime rib": [
+        "food",
+        "main course food",
+        "meat food",
+        "prime rib"
+    ],
+    "pulled pork sandwich": [
+        "food",
+        "main course food",
+        "meat food",
+        "pulled pork sandwich"
+    ],
+    "steak": [
+        "food",
+        "main course food",
+        "meat food",
+        "steak"
+    ],
+    "bibimbap": [
+        "food",
+        "main course food",
+        "meat food",
+        "bibimbap"
+    ],
+    "pad thai": [
+        "food",
+        "main course food",
+        "meat food",
+        "pad thai"
+    ],
+    "club sandwich": [
+        "food",
+        "main course food",
+        "meat food",
+        "club sandwich"
+    ],
+    "foie gras": [
+        "food",
+        "main course food",
+        "meat food",
+        "foie gras"
+    ],
+    "ceviche": [
+        "food",
+        "main course food",
+        "meat food",
+        "seafood",
+        "ceviche"
+    ],
+    "crab cakes": [
+        "food",
+        "main course food",
+        "meat food",
+        "seafood",
+        "crab cakes"
+    ],
+    "fish and chips": [
+        "food",
+        "main course food",
+        "meat food",
+        "seafood",
+        "fish and chips"
+    ],
+    "grilled salmon": [
+        "food",
+        "main course food",
+        "meat food",
+        "seafood",
+        "grilled salmon"
+    ],
+    "lobster bisque": [
+        "food",
+        "main course food",
+        "meat food",
+        "seafood",
+        "lobster bisque"
+    ],
+    "mussels": [
+        "food",
+        "main course food",
+        "meat food",
+        "seafood",
+        "mussels"
+    ],
+    "oysters": [
+        "food",
+        "main course food",
+        "meat food",
+        "seafood",
+        "oysters"
+    ],
+    "paella": [
+        "food",
+        "main course food",
+        "meat food",
+        "seafood",
+        "paella"
+    ],
+    "scallops": [
+        "food",
+        "main course food",
+        "meat food",
+        "seafood",
+        "scallops"
+    ],
+    "shrimp and grits": [
+        "food",
+        "main course food",
+        "meat food",
+        "seafood",
+        "shrimp and grits"
+    ],
+    "sashimi": [
+        "food",
+        "main course food",
+        "meat food",
+        "seafood",
+        "sashimi"
+    ],
+    "sushi": [
+        "food",
+        "main course food",
+        "meat food",
+        "seafood",
+        "sushi"
+    ],
+    "tuna tartare": [
+        "food",
+        "main course food",
+        "meat food",
+        "seafood",
+        "tuna tartare"
+    ],
+    "chicken curry": [
+        "food",
+        "main course food",
+        "meat food",
+        "poultry food",
+        "chicken curry"
+    ],
+    "chicken quesadilla": [
+        "food",
+        "main course food",
+        "meat food",
+        "poultry food",
+        "chicken quesadilla"
+    ],
+    "chicken wings": [
+        "food",
+        "main course food",
+        "meat food",
+        "poultry food",
+        "chicken wings"
+    ],
+    "croque madame": [
+        "food",
+        "main course food",
+        "meat food",
+        "poultry food",
+        "croque madame"
+    ],
+    "peking duck": [
+        "food",
+        "main course food",
+        "meat food",
+        "poultry food",
+        "peking duck"
+    ],
+    "beet salad": [
+        "food",
+        "main course food",
+        "vegetarian food",
+        "salad",
+        "beet salad"
+    ],
+    "caprese salad": [
+        "food",
+        "main course food",
+        "vegetarian food",
+        "salad",
+        "caprese salad"
+    ],
+    "greek salad": [
+        "food",
+        "main course food",
+        "vegetarian food",
+        "salad",
+        "greek salad"
+    ],
+    "seaweed salad": [
+        "food",
+        "main course food",
+        "vegetarian food",
+        "salad",
+        "seaweed salad"
+    ],
+    "grilled cheese sandwich": [
+        "food",
+        "main course food",
+        "vegetarian food",
+        "cheesy dish",
+        "grilled cheese sandwich"
+    ],
+    "macaroni and cheese": [
+        "food",
+        "main course food",
+        "vegetarian food",
+        "cheesy dish",
+        "macaroni and cheese"
+    ],
+    "gnocchi": [
+        "food",
+        "main course food",
+        "vegetarian food",
+        "gnocchi"
+    ],
+    "risotto": [
+        "food",
+        "main course food",
+        "vegetarian food",
+        "risotto"
+    ],
+    "spaghetti carbonara": [
+        "food",
+        "main course food",
+        "spaghetti carbonara"
+    ],
+    "spaghetti bolognese": [
+        "food",
+        "main course food",
+        "spaghetti bolognese"
+    ],
+    "pizza": [
+        "food",
+        "main course food",
+        "pizza"
+    ],
+    "french fries": [
+        "food",
+        "side dishes",
+        "french fries"
+    ],
+    "garlic bread": [
+        "food",
+        "side dishes",
+        "garlic bread"
+    ],
+    "fried rice": [
+        "food",
+        "side dishes",
+        "fried rice"
+    ],
+    "onion rings": [
+        "food",
+        "side dishes",
+        "onion rings"
+    ],
+    "poutine": [
+        "food",
+        "side dishes",
+        "poutine"
+    ],
+    "apple pie": [
+        "food",
+        "desserts",
+        "baked goods",
+        "apple pie"
+    ],
+    "baklava": [
+        "food",
+        "desserts",
+        "baked goods",
+        "baklava"
+    ],
+    "bread pudding": [
+        "food",
+        "desserts",
+        "baked goods",
+        "bread pudding"
+    ],
+    "cannoli": [
+        "food",
+        "desserts",
+        "baked goods",
+        "cannoli"
+    ],
+    "carrot cake": [
+        "food",
+        "desserts",
+        "baked goods",
+        "carrot cake"
+    ],
+    "cheesecake": [
+        "food",
+        "desserts",
+        "baked goods",
+        "cheesecake"
+    ],
+    "chocolate cake": [
+        "food",
+        "desserts",
+        "baked goods",
+        "chocolate cake"
+    ],
+    "cup cakes": [
+        "food",
+        "desserts",
+        "baked goods",
+        "cup cakes"
+    ],
+    "donuts": [
+        "food",
+        "desserts",
+        "baked goods",
+        "donuts"
+    ],
+    "red velvet cake": [
+        "food",
+        "desserts",
+        "baked goods",
+        "red velvet cake"
+    ],
+    "strawberry shortcake": [
+        "food",
+        "desserts",
+        "baked goods",
+        "strawberry shortcake"
+    ],
+    "chocolate mousse": [
+        "food",
+        "desserts",
+        "desserts with cream/custard",
+        "chocolate mousse"
+    ],
+    "creme brulee": [
+        "food",
+        "desserts",
+        "desserts with cream/custard",
+        "creme brulee"
+    ],
+    "panna cotta": [
+        "food",
+        "desserts",
+        "desserts with cream/custard",
+        "panna cotta"
+    ],
+    "tiramisu": [
+        "food",
+        "desserts",
+        "desserts with cream/custard",
+        "tiramisu"
+    ],
+    "hummus": [
+        "food",
+        "appetizers",
+        "hummus"
+    ],
+    "churros": [
+        "food",
+        "desserts",
+        "sweet treats",
+        "churros"
+    ],
+    "ice cream": [
+        "food",
+        "desserts",
+        "sweet treats",
+        "ice cream"
+    ],
+    "macarons": [
+        "food",
+        "desserts",
+        "sweet treats",
+        "macarons"
+    ],
+    "frozen yogurt": [
+        "food",
+        "desserts",
+        "sweet treats",
+        "frozen yogurt"
+    ]
+}

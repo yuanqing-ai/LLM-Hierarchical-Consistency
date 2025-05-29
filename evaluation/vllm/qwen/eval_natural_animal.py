@@ -251,9 +251,6 @@ if __name__ == "__main__":
     )
 
     args = parser.parse_args()
-
-    seed = 42
-    random.seed(seed)
     
     json_file = args.test_set
 

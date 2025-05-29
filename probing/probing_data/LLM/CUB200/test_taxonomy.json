@@ -1,0 +1,380 @@
+{
+  "Black-footed Albatross": [
+    "Procellariiformes",
+    "Diomedeidae",
+    "Phoebastria",
+    "Black-footed Albatross"
+  ],
+  "Least Auklet": [
+    "Charadriiformes",
+    "Alcidae",
+    "Aethia",
+    "Least Auklet"
+  ],
+  "Crested Auklet": [
+    "Charadriiformes",
+    "Alcidae",
+    "Aethia",
+    "Crested Auklet"
+  ],
+  "Brewer Blackbird": [
+    "Passeriformes",
+    "Icteridae",
+    "Euphagus",
+    "Brewer Blackbird"
+  ],
+  "Indigo Bunting": [
+    "Passeriformes",
+    "Cardinalidae",
+    "Passerina",
+    "Indigo Bunting"
+  ],
+  "Lazuli Bunting": [
+    "Passeriformes",
+    "Cardinalidae",
+    "Passerina",
+    "Lazuli Bunting"
+  ],
+  "Eastern Towhee": [
+    "Passeriformes",
+    "Passerellidae",
+    "Pipilo",
+    "Eastern Towhee"
+  ],
+  "Whip-poor-will": [
+    "Caprimulgiformes",
+    "Caprimulgidae",
+    "Antrostomus",
+    "Whip-poor-will"
+  ],
+  "Pelagic Cormorant": [
+    "Suliformes",
+    "Phalacrocoracidae",
+    "Phalacrocorax",
+    "Pelagic Cormorant"
+  ],
+  "Brandt's Cormorant": [
+    "Suliformes",
+    "Phalacrocoracidae",
+    "Phalacrocorax",
+    "Brandt's Cormorant"
+  ],
+  "Bronzed Cowbird": [
+    "Passeriformes",
+    "Icteridae",
+    "Molothrus",
+    "Bronzed Cowbird"
+  ],
+  "American Crow": [
+    "Passeriformes",
+    "Corvidae",
+    "Corvus",
+    "American Crow"
+  ],
+  "Fish Crow": [
+    "Passeriformes",
+    "Corvidae",
+    "Corvus",
+    "Fish Crow"
+  ],
+  "Black-billed Cuckoo": [
+    "Cuculiformes",
+    "Cuculidae",
+    "Coccyzus",
+    "Black-billed Cuckoo"
+  ],
+  "Yellow-billed Cuckoo": [
+    "Cuculiformes",
+    "Cuculidae",
+    "Coccyzus",
+    "Yellow-billed Cuckoo"
+  ],
+  "Least Flycatcher": [
+    "Passeriformes",
+    "Tyrannidae",
+    "Empidonax",
+    "Least Flycatcher"
+  ],
+  "Yellow-bellied Flycatcher": [
+    "Passeriformes",
+    "Tyrannidae",
+    "Empidonax",
+    "Yellow-bellied Flycatcher"
+  ],
+  "Olive-sided Flycatcher": [
+    "Passeriformes",
+    "Tyrannidae",
+    "Contopus",
+    "Olive-sided Flycatcher"
+  ],
+  "Gray Kingbird": [
+    "Passeriformes",
+    "Tyrannidae",
+    "Tyrannus",
+    "Gray Kingbird"
+  ],
+  "Tropical Kingbird": [
+    "Passeriformes",
+    "Tyrannidae",
+    "Tyrannus",
+    "Tropical Kingbird"
+  ],
+  "Eared Grebe": [
+    "Podicipediformes",
+    "Podicipedidae",
+    "Podiceps",
+    "Eared Grebe"
+  ],
+  "Heermann's Gull": [
+    "Charadriiformes",
+    "Laridae",
+    "Larus",
+    "Heermann's Gull"
+  ],
+  "Herring Gull": [
+    "Charadriiformes",
+    "Laridae",
+    "Larus",
+    "Herring Gull"
+  ],
+  "Glaucous-winged Gull": [
+    "Charadriiformes",
+    "Laridae",
+    "Larus",
+    "Glaucous-winged Gull"
+  ],
+  "Western Gull": [
+    "Charadriiformes",
+    "Laridae",
+    "Larus",
+    "Western Gull"
+  ],
+  "Long-tailed Jaeger": [
+    "Charadriiformes",
+    "Stercorariidae",
+    "Stercorarius",
+    "Long-tailed Jaeger"
+  ],
+  "Ringed Kingfisher": [
+    "Coraciiformes",
+    "Alcedinidae",
+    "Megaceryle",
+    "Ringed Kingfisher"
+  ],
+  "Scott's Oriole": [
+    "Passeriformes",
+    "Icteridae",
+    "Icterus",
+    "Scott's Oriole"
+  ],
+  "Baltimore Oriole": [
+    "Passeriformes",
+    "Icteridae",
+    "Icterus",
+    "Baltimore Oriole"
+  ],
+  "Brown Pelican": [
+    "Pelecaniformes",
+    "Pelecanidae",
+    "Pelecanus",
+    "Brown Pelican"
+  ],
+  "Pine Warbler": [
+    "Passeriformes",
+    "Parulidae",
+    "Setophaga",
+    "Pine Warbler"
+  ],
+  "Magnolia Warbler": [
+    "Passeriformes",
+    "Parulidae",
+    "Setophaga",
+    "Magnolia Warbler"
+  ],
+  "American Redstart": [
+    "Passeriformes",
+    "Parulidae",
+    "Setophaga",
+    "American Redstart"
+  ],
+  "Cerulean Warbler": [
+    "Passeriformes",
+    "Parulidae",
+    "Setophaga",
+    "Cerulean Warbler"
+  ],
+  "Palm Warbler": [
+    "Passeriformes",
+    "Parulidae",
+    "Setophaga",
+    "Palm Warbler"
+  ],
+  "Yellow Warbler": [
+    "Passeriformes",
+    "Parulidae",
+    "Setophaga",
+    "Yellow Warbler"
+  ],
+  "Chestnut-sided Warbler": [
+    "Passeriformes",
+    "Parulidae",
+    "Setophaga",
+    "Chestnut-sided Warbler"
+  ],
+  "Great Grey Shrike": [
+    "Passeriformes",
+    "Laniidae",
+    "Lanius",
+    "Great Grey Shrike"
+  ],
+  "Baird's Sparrow": [
+    "Passeriformes",
+    "Passerellidae",
+    "Centronyx",
+    "Baird's Sparrow"
+  ],
+  "Field Sparrow": [
+    "Passeriformes",
+    "Passerellidae",
+    "Spizella",
+    "Field Sparrow"
+  ],
+  "Brewer's Sparrow": [
+    "Passeriformes",
+    "Passerellidae",
+    "Spizella",
+    "Brewer's Sparrow"
+  ],
+  "Harris's Sparrow": [
+    "Passeriformes",
+    "Passerellidae",
+    "Zonotrichia",
+    "Harris's Sparrow"
+  ],
+  "White-crowned Sparrow": [
+    "Passeriformes",
+    "Passerellidae",
+    "Zonotrichia",
+    "White-crowned Sparrow"
+  ],
+  "Seaside Sparrow": [
+    "Passeriformes",
+    "Passerellidae",
+    "Ammospiza",
+    "Seaside Sparrow"
+  ],
+  "Le Conte's Sparrow": [
+    "Passeriformes",
+    "Passerellidae",
+    "Ammospiza",
+    "Le Conte's Sparrow"
+  ],
+  "Song Sparrow": [
+    "Passeriformes",
+    "Passerellidae",
+    "Melospiza",
+    "Song Sparrow"
+  ],
+  "Summer Tanager": [
+    "Passeriformes",
+    "Cardinalidae",
+    "Piranga",
+    "Summer Tanager"
+  ],
+  "Forster's Tern": [
+    "Charadriiformes",
+    "Laridae",
+    "Sterna",
+    "Forster's Tern"
+  ],
+  "Common Tern": [
+    "Charadriiformes",
+    "Laridae",
+    "Sterna",
+    "Common Tern"
+  ],
+  "Yellow-throated Vireo": [
+    "Passeriformes",
+    "Vireonidae",
+    "Vireo",
+    "Yellow-throated Vireo"
+  ],
+  "White-eyed Vireo": [
+    "Passeriformes",
+    "Vireonidae",
+    "Vireo",
+    "White-eyed Vireo"
+  ],
+  "Philadelphia Vireo": [
+    "Passeriformes",
+    "Vireonidae",
+    "Vireo",
+    "Philadelphia Vireo"
+  ],
+  "Blue-headed Vireo": [
+    "Passeriformes",
+    "Vireonidae",
+    "Vireo",
+    "Blue-headed Vireo"
+  ],
+  "Blue-winged Warbler": [
+    "Passeriformes",
+    "Parulidae",
+    "Vermivora",
+    "Blue-winged Warbler"
+  ],
+  "Canada Warbler": [
+    "Passeriformes",
+    "Parulidae",
+    "Cardellina",
+    "Canada Warbler"
+  ],
+  "Kentucky Warbler": [
+    "Passeriformes",
+    "Parulidae",
+    "Geothlypis",
+    "Kentucky Warbler"
+  ],
+  "Common Yellowthroat": [
+    "Passeriformes",
+    "Parulidae",
+    "Geothlypis",
+    "Common Yellowthroat"
+  ],
+  "Orange-crowned Warbler": [
+    "Passeriformes",
+    "Parulidae",
+    "Leiothlypis",
+    "Orange-crowned Warbler"
+  ],
+  "Nashville Warbler": [
+    "Passeriformes",
+    "Parulidae",
+    "Leiothlypis",
+    "Nashville Warbler"
+  ],
+  "Louisiana Waterthrush": [
+    "Passeriformes",
+    "Parulidae",
+    "Parkesia",
+    "Louisiana Waterthrush"
+  ],
+  "Cedar Waxwing": [
+    "Passeriformes",
+    "Bombycillidae",
+    "Bombycilla",
+    "Cedar Waxwing"
+  ],
+  "Red-bellied Woodpecker": [
+    "Piciformes",
+    "Picidae",
+    "Melanerpes",
+    "Red-bellied Woodpecker"
+  ],
+  "Winter Wren": [
+    "Passeriformes",
+    "Troglodytidae",
+    "Troglodytes",
+    "Winter Wren"
+  ]
+}

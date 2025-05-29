@@ -1,0 +1,3768 @@
+{
+    "trilobite":
+    [
+        "animal",
+        "invertebrate",
+        "arthropod",
+        "trilobite"
+    ],
+    "centipede": [
+        "animal",
+        "invertebrate",
+        "arthropod",
+        "centipede"
+    ],
+    "crayfish": [
+        "animal",
+        "invertebrate",
+        "arthropod",
+        "crustacean",
+        "decapod crustacean",
+        "crayfish"
+    ],
+    "king crab": [
+        "animal",
+        "invertebrate",
+        "arthropod",
+        "crustacean",
+        "decapod crustacean",
+        "crab",
+        "king crab"
+    ],
+    "rock crab": [
+        "animal",
+        "invertebrate",
+        "arthropod",
+        "crustacean",
+        "decapod crustacean",
+        "crab",
+        "rock crab"
+    ],
+    "fiddler crab": [
+        "animal",
+        "invertebrate",
+        "arthropod",
+        "crustacean",
+        "decapod crustacean",
+        "crab",
+        "fiddler crab"
+    ],
+    "Dungeness crab": [
+        "animal",
+        "invertebrate",
+        "arthropod",
+        "crustacean",
+        "decapod crustacean",
+        "crab",
+        "Dungeness crab"
+    ],
+    "spiny lobster": [
+        "animal",
+        "invertebrate",
+        "arthropod",
+        "crustacean",
+        "decapod crustacean",
+        "lobster",
+        "spiny lobster"
+    ],
+    "American lobster": [
+        "animal",
+        "invertebrate",
+        "arthropod",
+        "crustacean",
+        "decapod crustacean",
+        "lobster",
+        "American lobster"
+    ],
+    "hermit crab": [
+        "animal",
+        "invertebrate",
+        "arthropod",
+        "crustacean",
+        "decapod crustacean",
+        "hermit crab"
+    ],
+    "isopod": [
+        "animal",
+        "invertebrate",
+        "arthropod",
+        "crustacean",
+        "isopod"
+    ],
+    "cicada": [
+        "animal",
+        "invertebrate",
+        "arthropod",
+        "insect",
+        "homopterous insect",
+        "cicada"
+    ],
+    "leafhopper": [
+        "animal",
+        "invertebrate",
+        "arthropod",
+        "insect",
+        "homopterous insect",
+        "leafhopper"
+    ],
+    "lycaenid butterfly": [
+        "animal",
+        "invertebrate",
+        "arthropod",
+        "insect",
+        "butterfly",
+        "lycaenid butterfly"
+    ],
+    "cabbage butterfly": [
+        "animal",
+        "invertebrate",
+        "arthropod",
+        "insect",
+        "butterfly",
+        "cabbage butterfly"
+    ],
+    "ringlet butterfly": [
+        "animal",
+        "invertebrate",
+        "arthropod",
+        "insect",
+        "butterfly",
+        "ringlet butterfly"
+    ],
+    "monarch butterfly": [
+        "animal",
+        "invertebrate",
+        "arthropod",
+        "insect",
+        "butterfly",
+        "monarch butterfly"
+    ],
+    "sulphur butterfly": [
+        "animal",
+        "invertebrate",
+        "arthropod",
+        "insect",
+        "butterfly",
+        "sulphur butterfly"
+    ],
+    "admiral": [
+        "animal",
+        "invertebrate",
+        "arthropod",
+        "insect",
+        "butterfly",
+        "admiral"
+    ],
+    "mantis": [
+        "animal",
+        "invertebrate",
+        "arthropod",
+        "insect",
+        "dictyopterous insect",
+        "mantis"
+    ],
+    "cockroach": [
+        "animal",
+        "invertebrate",
+        "arthropod",
+        "insect",
+        "dictyopterous insect",
+        "cockroach"
+    ],
+    "dragonfly": [
+        "animal",
+        "invertebrate",
+        "arthropod",
+        "insect",
+        "odonate",
+        "dragonfly"
+    ],
+    "damselfly": [
+        "animal",
+        "invertebrate",
+        "arthropod",
+        "insect",
+        "odonate",
+        "damselfly"
+    ],
+    "ground beetle": [
+        "animal",
+        "invertebrate",
+        "arthropod",
+        "insect",
+        "beetle",
+        "ground beetle"
+    ],
+    "rhinoceros beetle": [
+        "animal",
+        "invertebrate",
+        "arthropod",
+        "insect",
+        "beetle",
+        "scarabaeid beetle",
+        "rhinoceros beetle"
+    ],
+    "dung beetle": [
+        "animal",
+        "invertebrate",
+        "arthropod",
+        "insect",
+        "beetle",
+        "scarabaeid beetle",
+        "dung beetle"
+    ],
+    "long-horned beetle": [
+        "animal",
+        "invertebrate",
+        "arthropod",
+        "insect",
+        "beetle",
+        "long-horned beetle"
+    ],
+    "tiger beetle": [
+        "animal",
+        "invertebrate",
+        "arthropod",
+        "insect",
+        "beetle",
+        "tiger beetle"
+    ],
+    "ladybug": [
+        "animal",
+        "invertebrate",
+        "arthropod",
+        "insect",
+        "beetle",
+        "ladybug"
+    ],
+    "leaf beetle": [
+        "animal",
+        "invertebrate",
+        "arthropod",
+        "insect",
+        "beetle",
+        "leaf beetle"
+    ],
+    "weevil": [
+        "animal",
+        "invertebrate",
+        "arthropod",
+        "insect",
+        "beetle",
+        "weevil"
+    ],
+    "cricket": [
+        "animal",
+        "invertebrate",
+        "arthropod",
+        "insect",
+        "orthopterous insect",
+        "cricket"
+    ],
+    "grasshopper": [
+        "animal",
+        "invertebrate",
+        "arthropod",
+        "insect",
+        "orthopterous insect",
+        "grasshopper"
+    ],
+    "fly": [
+        "animal",
+        "invertebrate",
+        "arthropod",
+        "insect",
+        "fly"
+    ],
+    "lacewing": [
+        "animal",
+        "invertebrate",
+        "arthropod",
+        "insect",
+        "lacewing"
+    ],
+    "bee": [
+        "animal",
+        "invertebrate",
+        "arthropod",
+        "insect",
+        "hymenopterous insect",
+        "bee"
+    ],
+    "ant": [
+        "animal",
+        "invertebrate",
+        "arthropod",
+        "insect",
+        "hymenopterous insect",
+        "ant"
+    ],
+    "stick insect": [
+        "animal",
+        "invertebrate",
+        "arthropod",
+        "insect",
+        "stick insect"
+    ],
+    "black widow": [
+        "animal",
+        "invertebrate",
+        "arthropod",
+        "arachnid",
+        "spider",
+        "black widow"
+    ],
+    "garden spider": [
+        "animal",
+        "invertebrate",
+        "arthropod",
+        "arachnid",
+        "spider",
+        "garden spider"
+    ],
+    "wolf spider": [
+        "animal",
+        "invertebrate",
+        "arthropod",
+        "arachnid",
+        "spider",
+        "wolf spider"
+    ],
+    "black and gold garden spider": [
+        "animal",
+        "invertebrate",
+        "arthropod",
+        "arachnid",
+        "spider",
+        "black and gold garden spider"
+    ],
+    "tarantula": [
+        "animal",
+        "invertebrate",
+        "arthropod",
+        "arachnid",
+        "spider",
+        "tarantula"
+    ],
+    "barn spider": [
+        "animal",
+        "invertebrate",
+        "arthropod",
+        "arachnid",
+        "spider",
+        "barn spider"
+    ],
+    "scorpion": [
+        "animal",
+        "invertebrate",
+        "arthropod",
+        "arachnid",
+        "scorpion"
+    ],
+    "tick": [
+        "animal",
+        "invertebrate",
+        "arthropod",
+        "arachnid",
+        "tick"
+    ],
+    "harvestman": [
+        "animal",
+        "invertebrate",
+        "arthropod",
+        "arachnid",
+        "harvestman"
+    ],
+    "snail": [
+        "animal",
+        "invertebrate",
+        "mollusk",
+        "gastropod",
+        "snail"
+    ],
+    "conch": [
+        "animal",
+        "invertebrate",
+        "mollusk",
+        "gastropod",
+        "conch"
+    ],
+    "sea slug": [
+        "animal",
+        "invertebrate",
+        "mollusk",
+        "gastropod",
+        "sea slug"
+    ],
+    "slug": [
+        "animal",
+        "invertebrate",
+        "mollusk",
+        "gastropod",
+        "slug"
+    ],
+    "chambered nautilus": [
+        "animal",
+        "invertebrate",
+        "mollusk",
+        "chambered nautilus"
+    ],
+    "chiton": [
+        "animal",
+        "invertebrate",
+        "mollusk",
+        "chiton"
+    ],
+    "flatworm": [
+        "animal",
+        "invertebrate",
+        "worm",
+        "flatworm"
+    ],
+    "nematode": [
+        "animal",
+        "invertebrate",
+        "worm",
+        "nematode"
+    ],
+    "brain coral": [
+        "animal",
+        "invertebrate",
+        "coelenterate",
+        "anthozoan",
+        "brain coral"
+    ],
+    "sea anemone": [
+        "animal",
+        "invertebrate",
+        "coelenterate",
+        "anthozoan",
+        "sea anemone"
+    ],
+    "jellyfish": [
+        "animal",
+        "invertebrate",
+        "coelenterate",
+        "jellyfish"
+    ],
+    "starfish": [
+        "animal",
+        "invertebrate",
+        "echinoderm",
+        "starfish"
+    ],
+    "sea cucumber": [
+        "animal",
+        "invertebrate",
+        "echinoderm",
+        "sea cucumber"
+    ],
+    "sea urchin": [
+        "animal",
+        "invertebrate",
+        "echinoderm",
+        "sea urchin"
+    ],
+    "sulphur-crested cockatoo": [
+        "animal",
+        "vertebrate",
+        "bird",
+        "parrot",
+        "sulphur-crested cockatoo"
+    ],
+    "macaw": [
+        "animal",
+        "vertebrate",
+        "bird",
+        "parrot",
+        "macaw"
+    ],
+    "lorikeet": [
+        "animal",
+        "vertebrate",
+        "bird",
+        "parrot",
+        "lorikeet"
+    ],
+    "African grey": [
+        "animal",
+        "vertebrate",
+        "bird",
+        "parrot",
+        "African grey"
+    ],
+    "ostrich": [
+        "animal",
+        "vertebrate",
+        "bird",
+        "ostrich"
+    ],
+    "hornbill": [
+        "animal",
+        "vertebrate",
+        "bird",
+        "coraciiform bird",
+        "hornbill"
+    ],
+    "bee eater": [
+        "animal",
+        "vertebrate",
+        "bird",
+        "coraciiform bird",
+        "bee eater"
+    ],
+    "ptarmigan": [
+        "animal",
+        "vertebrate",
+        "bird",
+        "game bird",
+        "grouse",
+        "ptarmigan"
+    ],
+    "ruffed grouse": [
+        "animal",
+        "vertebrate",
+        "bird",
+        "game bird",
+        "grouse",
+        "ruffed grouse"
+    ],
+    "prairie grouse": [
+        "animal",
+        "vertebrate",
+        "bird",
+        "game bird",
+        "grouse",
+        "prairie grouse"
+    ],
+    "black grouse": [
+        "animal",
+        "vertebrate",
+        "bird",
+        "game bird",
+        "grouse",
+        "black grouse"
+    ],
+    "peacock": [
+        "animal",
+        "vertebrate",
+        "bird",
+        "game bird",
+        "phasianid",
+        "peacock"
+    ],
+    "quail": [
+        "animal",
+        "vertebrate",
+        "bird",
+        "game bird",
+        "phasianid",
+        "quail"
+    ],
+    "partridge": [
+        "animal",
+        "vertebrate",
+        "bird",
+        "game bird",
+        "phasianid",
+        "partridge"
+    ],
+    "rooster": [
+        "animal",
+        "vertebrate",
+        "bird",
+        "rooster"
+    ],
+    "vulture": [
+        "animal",
+        "vertebrate",
+        "bird",
+        "bird of prey",
+        "vulture"
+    ],
+    "great grey owl": [
+        "animal",
+        "vertebrate",
+        "bird",
+        "bird of prey",
+        "great grey owl"
+    ],
+    "bald eagle": [
+        "animal",
+        "vertebrate",
+        "bird",
+        "bird of prey",
+        "bald eagle"
+    ],
+    "kite (bird of prey)": [
+        "animal",
+        "vertebrate",
+        "bird",
+        "bird of prey",
+        "kite (bird of prey)"
+    ],
+    "pelican": [
+        "animal",
+        "vertebrate",
+        "bird",
+        "aquatic bird",
+        "seabird",
+        "pelican"
+    ],
+    "king penguin": [
+        "animal",
+        "vertebrate",
+        "bird",
+        "aquatic bird",
+        "seabird",
+        "king penguin"
+    ],
+    "albatross": [
+        "animal",
+        "vertebrate",
+        "bird",
+        "aquatic bird",
+        "seabird",
+        "albatross"
+    ],
+    "goose": [
+        "animal",
+        "vertebrate",
+        "bird",
+        "aquatic bird",
+        "anseriform bird",
+        "goose"
+    ],
+    "red-breasted merganser": [
+        "animal",
+        "vertebrate",
+        "bird",
+        "aquatic bird",
+        "anseriform bird",
+        "duck",
+        "red-breasted merganser"
+    ],
+    "drake": [
+        "animal",
+        "vertebrate",
+        "bird",
+        "aquatic bird",
+        "anseriform bird",
+        "duck",
+        "drake"
+    ],
+    "oystercatcher": [
+        "animal",
+        "vertebrate",
+        "bird",
+        "aquatic bird",
+        "wading bird",
+        "shorebird",
+        "oystercatcher"
+    ],
+    "ruddy turnstone": [
+        "animal",
+        "vertebrate",
+        "bird",
+        "aquatic bird",
+        "wading bird",
+        "shorebird",
+        "ruddy turnstone"
+    ],
+    "dowitcher": [
+        "animal",
+        "vertebrate",
+        "bird",
+        "aquatic bird",
+        "wading bird",
+        "shorebird",
+        "dowitcher"
+    ],
+    "redshank": [
+        "animal",
+        "vertebrate",
+        "bird",
+        "aquatic bird",
+        "wading bird",
+        "shorebird",
+        "sandpiper",
+        "redshank"
+    ],
+    "dunlin": [
+        "animal",
+        "vertebrate",
+        "bird",
+        "aquatic bird",
+        "wading bird",
+        "shorebird",
+        "sandpiper",
+        "dunlin"
+    ],
+    "spoonbill": [
+        "animal",
+        "vertebrate",
+        "bird",
+        "aquatic bird",
+        "wading bird",
+        "spoonbill"
+    ],
+    "black stork": [
+        "animal",
+        "vertebrate",
+        "bird",
+        "aquatic bird",
+        "wading bird",
+        "stork",
+        "black stork"
+    ],
+    "white stork": [
+        "animal",
+        "vertebrate",
+        "bird",
+        "aquatic bird",
+        "wading bird",
+        "stork",
+        "white stork"
+    ],
+    "flamingo": [
+        "animal",
+        "vertebrate",
+        "bird",
+        "aquatic bird",
+        "wading bird",
+        "flamingo"
+    ],
+    "American coot": [
+        "animal",
+        "vertebrate",
+        "bird",
+        "aquatic bird",
+        "wading bird",
+        "American coot"
+    ],
+    "crane bird": [
+        "animal",
+        "vertebrate",
+        "bird",
+        "aquatic bird",
+        "wading bird",
+        "crane bird"
+    ],
+    "bustard": [
+        "animal",
+        "vertebrate",
+        "bird",
+        "aquatic bird",
+        "wading bird",
+        "bustard"
+    ],
+    "limpkin": [
+        "animal",
+        "vertebrate",
+        "bird",
+        "aquatic bird",
+        "wading bird",
+        "limpkin"
+    ],
+    "bittern bird": [
+        "animal",
+        "vertebrate",
+        "bird",
+        "aquatic bird",
+        "wading bird",
+        "heron",
+        "bittern bird"
+    ],
+    "American egret": [
+        "animal",
+        "vertebrate",
+        "bird",
+        "aquatic bird",
+        "wading bird",
+        "heron",
+        "American egret"
+    ],
+    "little blue heron": [
+        "animal",
+        "vertebrate",
+        "bird",
+        "aquatic bird",
+        "wading bird",
+        "heron",
+        "little blue heron"
+    ],
+    "black swan": [
+        "animal",
+        "vertebrate",
+        "bird",
+        "aquatic bird",
+        "black swan"
+    ],
+    "European gallinule": [
+        "animal",
+        "vertebrate",
+        "bird",
+        "aquatic bird",
+        "European gallinule"
+    ],
+    "jacamar": [
+        "animal",
+        "vertebrate",
+        "bird",
+        "piciform bird",
+        "jacamar"
+    ],
+    "toucan": [
+        "animal",
+        "vertebrate",
+        "bird",
+        "piciform bird",
+        "toucan"
+    ],
+    "brambling": [
+        "animal",
+        "vertebrate",
+        "bird",
+        "oscine",
+        "finch",
+        "brambling"
+    ],
+    "goldfinch": [
+        "animal",
+        "vertebrate",
+        "bird",
+        "oscine",
+        "finch",
+        "goldfinch"
+    ],
+    "junco": [
+        "animal",
+        "vertebrate",
+        "bird",
+        "oscine",
+        "finch",
+        "junco"
+    ],
+    "indigo bunting": [
+        "animal",
+        "vertebrate",
+        "bird",
+        "oscine",
+        "cardinal",
+        "indigo bunting"
+    ],
+    "house finch": [
+        "animal",
+        "vertebrate",
+        "bird",
+        "oscine",
+        "finch",
+        "house finch"
+    ],
+    "American robin": [
+        "animal",
+        "vertebrate",
+        "bird",
+        "oscine",
+        "thrush",
+        "American robin"
+    ],
+    "bulbul": [
+        "animal",
+        "vertebrate",
+        "bird",
+        "oscine",
+        "thrush",
+        "bulbul"
+    ],
+    "water ouzel": [
+        "animal",
+        "vertebrate",
+        "bird",
+        "oscine",
+        "water ouzel"
+    ],
+    "chickadee": [
+        "animal",
+        "vertebrate",
+        "bird",
+        "oscine",
+        "chickadee"
+    ],
+    "jay": [
+        "animal",
+        "vertebrate",
+        "bird",
+        "oscine",
+        "corvine bird",
+        "jay"
+    ],
+    "magpie": [
+        "animal",
+        "vertebrate",
+        "bird",
+        "oscine",
+        "corvine bird",
+        "magpie"
+    ],
+    "hen": [
+        "animal",
+        "vertebrate",
+        "bird",
+        "hen"
+    ],
+    "hummingbird": [
+        "animal",
+        "vertebrate",
+        "bird",
+        "hummingbird"
+    ],
+    "coucal": [
+        "animal",
+        "vertebrate",
+        "bird",
+        "coucal"
+    ],
+    "fire salamander": [
+        "animal",
+        "vertebrate",
+        "amphibian",
+        "salamander",
+        "fire salamander"
+    ],
+    "spotted salamander": [
+        "animal",
+        "vertebrate",
+        "amphibian",
+        "salamander",
+        "ambystomid",
+        "spotted salamander"
+    ],
+    "axolotl": [
+        "animal",
+        "vertebrate",
+        "amphibian",
+        "salamander",
+        "ambystomid",
+        "axolotl"
+    ],
+    "common newt": [
+        "animal",
+        "vertebrate",
+        "amphibian",
+        "salamander",
+        "newt",
+        "common newt"
+    ],
+    "eft": [
+        "animal",
+        "vertebrate",
+        "amphibian",
+        "salamander",
+        "newt",
+        "eft"
+    ],
+    "tree frog": [
+        "animal",
+        "vertebrate",
+        "amphibian",
+        "frog",
+        "tree frog"
+    ],
+    "bullfrog": [
+        "animal",
+        "vertebrate",
+        "amphibian",
+        "frog",
+        "bullfrog"
+    ],
+    "tailed frog": [
+        "animal",
+        "vertebrate",
+        "amphibian",
+        "frog",
+        "tailed frog"
+    ],
+    "American black bear": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "bear",
+        "American black bear"
+    ],
+    "polar bear": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "bear",
+        "polar bear"
+    ],
+    "brown bear": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "bear",
+        "brown bear"
+    ],
+    "sloth bear": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "bear",
+        "sloth bear"
+    ],
+    "meerkat": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "viverrine",
+        "meerkat"
+    ],
+    "mongoose": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "viverrine",
+        "mongoose"
+    ],
+    "brussels griffon": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "brussels griffon"
+    ],
+    "Shih-Tzu": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "toy dog",
+        "Shih-Tzu"
+    ],
+    "Japanese spaniel": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "toy dog",
+        "Japanese spaniel"
+    ],
+    "Maltese": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "toy dog",
+        "Maltese"
+    ],
+    "Pekingese": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "toy dog",
+        "Pekingese"
+    ],
+    "toy terrier": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "toy dog",
+        "toy terrier"
+    ],
+    "Chihuahua": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "toy dog",
+        "Chihuahua"
+    ],
+    "King Charles Spaniel": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "toy dog",
+        "toy spaniel",
+        "King Charles Spaniel"
+    ],
+    "Papillon": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "toy dog",
+        "toy spaniel",
+        "Papillon"
+    ],
+    "Dalmatian": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "Dalmatian"
+    ],
+    "Basenji": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "Basenji"
+    ],
+    "pug": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "pug"
+    ],
+    "Standard poodle": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "poodle",
+        "Standard poodle"
+    ],
+    "Miniature poodle": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "poodle",
+        "Miniature poodle"
+    ],
+    "Toy poodle": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "poodle",
+        "Toy poodle"
+    ],
+    "Samoyed": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "spitz",
+        "Samoyed"
+    ],
+    "Pomeranian": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "spitz",
+        "Pomeranian"
+    ],
+    "Chow Chow": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "spitz",
+        "Chow Chow"
+    ],
+    "Keeshond": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "spitz",
+        "Keeshond"
+    ],
+    "Great Dane": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "working dog",
+        "Great Dane"
+    ],
+    "Shetland Sheepdog": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "working dog",
+        "shepherd dog",
+        "Shetland Sheepdog"
+    ],
+    "Kelpie": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "working dog",
+        "shepherd dog",
+        "Kelpie"
+    ],
+    "Bouvier des Flandres dog": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "working dog",
+        "shepherd dog",
+        "Bouvier des Flandres dog"
+    ],
+    "Briard": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "working dog",
+        "shepherd dog",
+        "Briard"
+    ],
+    "German Shepherd Dog": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "working dog",
+        "shepherd dog",
+        "German Shepherd Dog"
+    ],
+    "Old English Sheepdog": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "working dog",
+        "shepherd dog",
+        "Old English Sheepdog"
+    ],
+    "Komondor": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "working dog",
+        "shepherd dog",
+        "Komondor"
+    ],
+    "Border Collie": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "working dog",
+        "shepherd dog",
+        "Border Collie"
+    ],
+    "collie": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "working dog",
+        "shepherd dog",
+        "collie"
+    ],
+    "Rottweiler": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "working dog",
+        "shepherd dog",
+        "Rottweiler"
+    ],
+    "Groenendael dog": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "working dog",
+        "shepherd dog",
+        "belgian sheepdog",
+        "Groenendael dog"
+    ],
+    "Malinois": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "working dog",
+        "shepherd dog",
+        "belgian sheepdog",
+        "Malinois"
+    ],
+    "French Bulldog": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "working dog",
+        "French Bulldog"
+    ],
+    "saint bernard": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "working dog",
+        "saint bernard"
+    ],
+    "Tibetan Mastiff": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "working dog",
+        "Tibetan Mastiff"
+    ],
+    "Affenpinscher": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "working dog",
+        "watchdog",
+        "pinscher",
+        "Affenpinscher"
+    ],
+    "Dobermann": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "working dog",
+        "watchdog",
+        "pinscher",
+        "Dobermann"
+    ],
+    "Miniature Pinscher": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "working dog",
+        "watchdog",
+        "pinscher",
+        "Miniature Pinscher"
+    ],
+    "Kuvasz": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "working dog",
+        "watchdog",
+        "Kuvasz"
+    ],
+    "Schipperke": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "working dog",
+        "watchdog",
+        "Schipperke"
+    ],
+    "Boxer": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "working dog",
+        "Boxer"
+    ],
+    "husky": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "working dog",
+        "husky"
+    ],
+    "Alaskan Malamute": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "working dog",
+        "sled dog",
+        "Alaskan Malamute"
+    ],
+    "Siberian Husky": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "working dog",
+        "sled dog",
+        "Siberian Husky"
+    ],
+    "Greater Swiss Mountain Dog": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "working dog",
+        "sennenhunde",
+        "Greater Swiss Mountain Dog"
+    ],
+    "Appenzeller Sennenhund": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "working dog",
+        "sennenhunde",
+        "Appenzeller Sennenhund"
+    ],
+    "Bernese Mountain Dog": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "working dog",
+        "sennenhunde",
+        "Bernese Mountain Dog"
+    ],
+    "Entlebucher Sennenhund": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "working dog",
+        "sennenhunde",
+        "Entlebucher Sennenhund"
+    ],
+    "Bullmastiff": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "working dog",
+        "Bullmastiff"
+    ],
+    "Vizsla": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "hunting dog",
+        "sporting dog",
+        "pointer",
+        "Vizsla"
+    ],
+    "German Short-haired Pointer": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "hunting dog",
+        "sporting dog",
+        "pointer",
+        "German Short-haired Pointer"
+    ],
+    "Gordon Setter": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "hunting dog",
+        "sporting dog",
+        "setter",
+        "Gordon Setter"
+    ],
+    "Irish Setter": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "hunting dog",
+        "sporting dog",
+        "setter",
+        "Irish Setter"
+    ],
+    "English Setter": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "hunting dog",
+        "sporting dog",
+        "setter",
+        "English Setter"
+    ],
+    "Cocker Spaniel": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "hunting dog",
+        "sporting dog",
+        "spaniel",
+        "Cocker Spaniel"
+    ],
+    "Sussex Spaniel": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "hunting dog",
+        "sporting dog",
+        "spaniel",
+        "Sussex Spaniel"
+    ],
+    "Irish Water Spaniel": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "hunting dog",
+        "sporting dog",
+        "spaniel",
+        "Irish Water Spaniel"
+    ],
+    "English Springer Spaniel": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "hunting dog",
+        "sporting dog",
+        "spaniel",
+        "springer spaniel",
+        "English Springer Spaniel"
+    ],
+    "Welsh Springer Spaniel": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "hunting dog",
+        "sporting dog",
+        "spaniel",
+        "springer spaniel",
+        "Welsh Springer Spaniel"
+    ],
+    "Brittany spaniel": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "hunting dog",
+        "sporting dog",
+        "spaniel",
+        "Brittany spaniel"
+    ],
+    "Clumber Spaniel": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "hunting dog",
+        "sporting dog",
+        "spaniel",
+        "Clumber Spaniel"
+    ],
+    "Labrador Retriever": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "hunting dog",
+        "sporting dog",
+        "retriever",
+        "Labrador Retriever"
+    ],
+    "Flat-Coated Retriever": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "hunting dog",
+        "sporting dog",
+        "retriever",
+        "Flat-Coated Retriever"
+    ],
+    "Curly-coated Retriever": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "hunting dog",
+        "sporting dog",
+        "retriever",
+        "Curly-coated Retriever"
+    ],
+    "Golden Retriever": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "hunting dog",
+        "sporting dog",
+        "retriever",
+        "Golden Retriever"
+    ],
+    "Chesapeake Bay Retriever": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "hunting dog",
+        "sporting dog",
+        "retriever",
+        "Chesapeake Bay Retriever"
+    ],
+    "Black-and-Tan Coonhound": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "hunting dog",
+        "hound",
+        "Black-and-Tan Coonhound"
+    ],
+    "Bloodhound": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "hunting dog",
+        "hound",
+        "Bloodhound"
+    ],
+    "Redbone Coonhound": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "hunting dog",
+        "hound",
+        "Redbone Coonhound"
+    ],
+    "Basset Hound": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "hunting dog",
+        "hound",
+        "Basset Hound"
+    ],
+    "Beagle": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "hunting dog",
+        "hound",
+        "Beagle"
+    ],
+    "English foxhound": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "hunting dog",
+        "hound",
+        "foxhound",
+        "English foxhound"
+    ],
+    "Treeing Walker Coonhound": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "hunting dog",
+        "hound",
+        "foxhound",
+        "Treeing Walker Coonhound"
+    ],
+    "Whippet": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "hunting dog",
+        "hound",
+        "greyhound",
+        "Whippet"
+    ],
+    "Italian Greyhound": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "hunting dog",
+        "hound",
+        "greyhound",
+        "Italian Greyhound"
+    ],
+    "Otterhound": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "hunting dog",
+        "hound",
+        "Otterhound"
+    ],
+    "Norwegian Elkhound": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "hunting dog",
+        "hound",
+        "Norwegian Elkhound"
+    ],
+    "borzoi": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "hunting dog",
+        "hound",
+        "wolfhound",
+        "borzoi"
+    ],
+    "Irish Wolfhound": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "hunting dog",
+        "hound",
+        "wolfhound",
+        "Irish Wolfhound"
+    ],
+    "Ibizan hound": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "hunting dog",
+        "hound",
+        "Ibizan hound"
+    ],
+    "Weimaraner": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "hunting dog",
+        "hound",
+        "Weimaraner"
+    ],
+    "Afghan hound": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "hunting dog",
+        "hound",
+        "Afghan hound"
+    ],
+    "Saluki": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "hunting dog",
+        "hound",
+        "Saluki"
+    ],
+    "Bluetick Coonhound": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "hunting dog",
+        "hound",
+        "Bluetick Coonhound"
+    ],
+    "Scottish Deerhound": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "hunting dog",
+        "hound",
+        "Scottish Deerhound"
+    ],
+    "Airedale Terrier": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "hunting dog",
+        "terrier",
+        "Airedale Terrier"
+    ],
+    "Cairn Terrier": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "hunting dog",
+        "terrier",
+        "Cairn Terrier"
+    ],
+    "Lhasa Apso": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "hunting dog",
+        "terrier",
+        "Lhasa Apso"
+    ],
+    "Scottish Terrier": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "hunting dog",
+        "terrier",
+        "Scottish Terrier"
+    ],
+    "Soft-coated Wheaten Terrier": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "hunting dog",
+        "terrier",
+        "Soft-coated Wheaten Terrier"
+    ],
+    "Lakeland Terrier": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "hunting dog",
+        "terrier",
+        "wirehair",
+        "Lakeland Terrier"
+    ],
+    "Sealyham Terrier": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "hunting dog",
+        "terrier",
+        "wirehair",
+        "Sealyham Terrier"
+    ],
+    "Irish Terrier": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "hunting dog",
+        "terrier",
+        "Irish Terrier"
+    ],
+    "Tibetan Terrier": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "hunting dog",
+        "terrier",
+        "Tibetan Terrier"
+    ],
+    "Staffordshire Bull Terrier": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "hunting dog",
+        "terrier",
+        "bullterrier",
+        "Staffordshire Bull Terrier"
+    ],
+    "American Staffordshire Terrier": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "hunting dog",
+        "terrier",
+        "bullterrier",
+        "American Staffordshire Terrier"
+    ],
+    "Giant Schnauzer": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "hunting dog",
+        "terrier",
+        "schnauzer",
+        "Giant Schnauzer"
+    ],
+    "Miniature Schnauzer": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "hunting dog",
+        "terrier",
+        "schnauzer",
+        "Miniature Schnauzer"
+    ],
+    "Standard Schnauzer": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "hunting dog",
+        "terrier",
+        "schnauzer",
+        "Standard Schnauzer"
+    ],
+    "Wire Fox Terrier": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "hunting dog",
+        "terrier",
+        "Wire Fox Terrier"
+    ],
+    "Bedlington Terrier": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "hunting dog",
+        "terrier",
+        "Bedlington Terrier"
+    ],
+    "Silky Terrier": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "hunting dog",
+        "terrier",
+        "Silky Terrier"
+    ],
+    "Australian Terrier": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "hunting dog",
+        "terrier",
+        "Australian Terrier"
+    ],
+    "Norwich Terrier": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "hunting dog",
+        "terrier",
+        "Norwich Terrier"
+    ],
+    "Border Terrier": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "hunting dog",
+        "terrier",
+        "Border Terrier"
+    ],
+    "Boston Terrier": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "hunting dog",
+        "terrier",
+        "Boston Terrier"
+    ],
+    "Yorkshire Terrier": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "hunting dog",
+        "terrier",
+        "Yorkshire Terrier"
+    ],
+    "West Highland White Terrier": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "hunting dog",
+        "terrier",
+        "West Highland White Terrier"
+    ],
+    "Dandie Dinmont Terrier": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "hunting dog",
+        "terrier",
+        "Dandie Dinmont Terrier"
+    ],
+    "Kerry Blue Terrier": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "hunting dog",
+        "terrier",
+        "Kerry Blue Terrier"
+    ],
+    "Norfolk Terrier": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "hunting dog",
+        "terrier",
+        "Norfolk Terrier"
+    ],
+    "Rhodesian Ridgeback": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "hunting dog",
+        "Rhodesian Ridgeback"
+    ],
+    "Pembroke Welsh Corgi": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "corgi",
+        "Pembroke Welsh Corgi"
+    ],
+    "Cardigan Welsh Corgi": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "corgi",
+        "Cardigan Welsh Corgi"
+    ],
+    "Newfoundland dog": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "Newfoundland dog"
+    ],
+    "Mexican hairless dog": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "Mexican hairless dog"
+    ],
+    "Leonberger": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "Leonberger"
+    ],
+    "great pyrenees": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "dog",
+        "great pyrenees"
+    ],
+    "African hunting dog": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "wild dog",
+        "African hunting dog"
+    ],
+    "dingo": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "wild dog",
+        "dingo"
+    ],
+    "dhole": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "wild dog",
+        "dhole"
+    ],
+    "coyote": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "wolf",
+        "coyote"
+    ],
+    "red wolf": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "wolf",
+        "red wolf"
+    ],
+    "timber wolf": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "wolf",
+        "timber wolf"
+    ],
+    "white wolf": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "wolf",
+        "white wolf"
+    ],
+    "hyena": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "hyena"
+    ],
+    "grey fox": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "fox",
+        "grey fox"
+    ],
+    "red fox": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "fox",
+        "red fox"
+    ],
+    "kit fox": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "fox",
+        "kit fox"
+    ],
+    "Arctic fox": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "canine",
+        "fox",
+        "Arctic fox"
+    ],
+    "badger": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "musteline mammal",
+        "badger"
+    ],
+    "black-footed ferret": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "musteline mammal",
+        "black-footed ferret"
+    ],
+    "foulmart": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "musteline mammal",
+        "foulmart"
+    ],
+    "skunk": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "musteline mammal",
+        "skunk"
+    ],
+    "weasel": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "musteline mammal",
+        "weasel"
+    ],
+    "mink": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "musteline mammal",
+        "mink"
+    ],
+    "otter": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "musteline mammal",
+        "otter"
+    ],
+    "giant panda": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "procyonid",
+        "giant panda"
+    ],
+    "red panda": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "procyonid",
+        "red panda"
+    ],
+    "lion": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "feline",
+        "big cat",
+        "lion"
+    ],
+    "jaguar": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "feline",
+        "big cat",
+        "jaguar"
+    ],
+    "leopard": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "feline",
+        "big cat",
+        "leopard"
+    ],
+    "tiger": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "feline",
+        "big cat",
+        "tiger"
+    ],
+    "cheetah": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "feline",
+        "big cat",
+        "cheetah"
+    ],
+    "snow leopard": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "feline",
+        "big cat",
+        "snow leopard"
+    ],
+    "Persian cat": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "feline",
+        "cat",
+        "domestic cat",
+        "Persian cat"
+    ],
+    "tiger cat": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "feline",
+        "cat",
+        "domestic cat",
+        "tiger cat"
+    ],
+    "tabby cat": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "feline",
+        "cat",
+        "domestic cat",
+        "tabby cat"
+    ],
+    "Egyptian cat": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "feline",
+        "cat",
+        "domestic cat",
+        "Egyptian cat"
+    ],
+    "Siamese cat": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "feline",
+        "cat",
+        "domestic cat",
+        "Siamese cat"
+    ],
+    "cougar": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "feline",
+        "cat",
+        "wildcat",
+        "cougar"
+    ],
+    "lynx": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "carnivore",
+        "feline",
+        "cat",
+        "wildcat",
+        "lynx"
+    ],
+    "African elephant": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "elephant",
+        "African elephant"
+    ],
+    "Indian elephant": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "elephant",
+        "Indian elephant"
+    ],
+    "hare": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "leporid",
+        "hare"
+    ],
+    "Angora rabbit": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "leporid",
+        "rabbit",
+        "Angora rabbit"
+    ],
+    "cottontail rabbit": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "leporid",
+        "rabbit",
+        "cottontail rabbit"
+    ],
+    "fox squirrel": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "rodent",
+        "fox squirrel"
+    ],
+    "porcupine": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "rodent",
+        "porcupine"
+    ],
+    "hamster": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "rodent",
+        "hamster"
+    ],
+    "beaver": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "rodent",
+        "beaver"
+    ],
+    "guinea pig": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "rodent",
+        "guinea pig"
+    ],
+    "marmot": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "rodent",
+        "marmot"
+    ],
+    "ring-tailed lemur": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "primate",
+        "lemur",
+        "ring-tailed lemur"
+    ],
+    "indri": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "primate",
+        "lemur",
+        "indri"
+    ],
+    "siamang": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "primate",
+        "anthropoid ape",
+        "lesser ape",
+        "siamang"
+    ],
+    "gibbon": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "primate",
+        "anthropoid ape",
+        "lesser ape",
+        "gibbon"
+    ],
+    "orangutan": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "primate",
+        "anthropoid ape",
+        "great ape",
+        "orangutan"
+    ],
+    "gorilla": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "primate",
+        "anthropoid ape",
+        "great ape",
+        "gorilla"
+    ],
+    "chimpanzee": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "primate",
+        "anthropoid ape",
+        "great ape",
+        "chimpanzee"
+    ],
+    "langur": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "primate",
+        "monkey",
+        "old world monkey",
+        "langur"
+    ],
+    "patas": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "primate",
+        "monkey",
+        "old world monkey",
+        "patas"
+    ],
+    "macaque": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "primate",
+        "monkey",
+        "old world monkey",
+        "macaque"
+    ],
+    "baboon": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "primate",
+        "monkey",
+        "old world monkey",
+        "baboon"
+    ],
+    "colobus": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "primate",
+        "monkey",
+        "old world monkey",
+        "colobus"
+    ],
+    "guenon": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "primate",
+        "monkey",
+        "old world monkey",
+        "guenon"
+    ],
+    "proboscis monkey": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "primate",
+        "monkey",
+        "old world monkey",
+        "proboscis monkey"
+    ],
+    "marmoset": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "primate",
+        "monkey",
+        "new world monkey",
+        "marmoset"
+    ],
+    "squirrel monkey": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "primate",
+        "monkey",
+        "new world monkey",
+        "squirrel monkey"
+    ],
+    "titi monkey": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "primate",
+        "monkey",
+        "new world monkey",
+        "titi monkey"
+    ],
+    "howler monkey": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "primate",
+        "monkey",
+        "new world monkey",
+        "howler monkey"
+    ],
+    "spider monkey": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "primate",
+        "monkey",
+        "new world monkey",
+        "spider monkey"
+    ],
+    "capuchin": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "primate",
+        "monkey",
+        "new world monkey",
+        "capuchin"
+    ],
+    "three-toed sloth": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "edentate",
+        "three-toed sloth"
+    ],
+    "armadillo": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "edentate",
+        "armadillo"
+    ],
+    "sea lion": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "aquatic mammal",
+        "sea lion"
+    ],
+    "grey whale": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "aquatic mammal",
+        "whale",
+        "grey whale"
+    ],
+    "killer whale": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "aquatic mammal",
+        "whale",
+        "killer whale"
+    ],
+    "dugong": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "aquatic mammal",
+        "dugong"
+    ],
+    "zebra": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "ungulate",
+        "equine",
+        "zebra"
+    ],
+    "sorrel": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "ungulate",
+        "equine",
+        "sorrel"
+    ],
+    "arabian camel": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "ungulate",
+        "even-toed ungulate",
+        "arabian camel"
+    ],
+    "wild boar": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "ungulate",
+        "even-toed ungulate",
+        "swine",
+        "wild boar"
+    ],
+    "pig": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "ungulate",
+        "even-toed ungulate",
+        "swine",
+        "pig"
+    ],
+    "warthog": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "ungulate",
+        "even-toed ungulate",
+        "swine",
+        "warthog"
+    ],
+    "bison": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "ungulate",
+        "even-toed ungulate",
+        "bovid",
+        "bison"
+    ],
+    "water buffalo": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "ungulate",
+        "even-toed ungulate",
+        "bovid",
+        "water buffalo"
+    ],
+    "ox": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "ungulate",
+        "even-toed ungulate",
+        "bovid",
+        "ox"
+    ],
+    "bighorn sheep": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "ungulate",
+        "even-toed ungulate",
+        "bovid",
+        "bighorn sheep"
+    ],
+    "ibex": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "ungulate",
+        "even-toed ungulate",
+        "bovid",
+        "ibex"
+    ],
+    "gazelle": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "ungulate",
+        "even-toed ungulate",
+        "bovid",
+        "antelope",
+        "gazelle"
+    ],
+    "hartebeest": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "ungulate",
+        "even-toed ungulate",
+        "bovid",
+        "antelope",
+        "hartebeest"
+    ],
+    "impala": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "ungulate",
+        "even-toed ungulate",
+        "bovid",
+        "antelope",
+        "impala"
+    ],
+    "ram": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "ungulate",
+        "even-toed ungulate",
+        "bovid",
+        "ram"
+    ],
+    "llama": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "ungulate",
+        "even-toed ungulate",
+        "llama"
+    ],
+    "hippopotamus": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "placental",
+        "ungulate",
+        "even-toed ungulate",
+        "hippopotamus"
+    ],
+    "wallaby": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "marsupial",
+        "wallaby"
+    ],
+    "wombat": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "marsupial",
+        "wombat"
+    ],
+    "koala": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "marsupial",
+        "koala"
+    ],
+    "platypus": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "monotreme",
+        "platypus"
+    ],
+    "echidna": [
+        "animal",
+        "vertebrate",
+        "mammal",
+        "monotreme",
+        "echidna"
+    ],
+    "hammerhead shark": [
+        "animal",
+        "vertebrate",
+        "fish",
+        "elasmobranch",
+        "shark",
+        "hammerhead shark"
+    ],
+    "great white shark": [
+        "animal",
+        "vertebrate",
+        "fish",
+        "elasmobranch",
+        "shark",
+        "great white shark"
+    ],
+    "tiger shark": [
+        "animal",
+        "vertebrate",
+        "fish",
+        "elasmobranch",
+        "shark",
+        "tiger shark"
+    ],
+    "electric ray": [
+        "animal",
+        "vertebrate",
+        "fish",
+        "elasmobranch",
+        "ray",
+        "electric ray"
+    ],
+    "stingray": [
+        "animal",
+        "vertebrate",
+        "fish",
+        "elasmobranch",
+        "ray",
+        "stingray"
+    ],
+    "pufferfish": [
+        "animal",
+        "vertebrate",
+        "fish",
+        "teleost fish",
+        "spiny-finned fish",
+        "pufferfish"
+    ],
+    "lionfish": [
+        "animal",
+        "vertebrate",
+        "fish",
+        "teleost fish",
+        "spiny-finned fish",
+        "lionfish"
+    ],
+    "rock beauty": [
+        "animal",
+        "vertebrate",
+        "fish",
+        "teleost fish",
+        "spiny-finned fish",
+        "percoid fish",
+        "rock beauty"
+    ],
+    "anemone fish": [
+        "animal",
+        "vertebrate",
+        "fish",
+        "teleost fish",
+        "spiny-finned fish",
+        "percoid fish",
+        "anemone fish"
+    ],
+    "eel": [
+        "animal",
+        "vertebrate",
+        "fish",
+        "teleost fish",
+        "soft-finned fish",
+        "eel"
+    ],
+    "tench": [
+        "animal",
+        "vertebrate",
+        "fish",
+        "teleost fish",
+        "soft-finned fish",
+        "cyprinid",
+        "tench"
+    ],
+    "goldfish": [
+        "animal",
+        "vertebrate",
+        "fish",
+        "teleost fish",
+        "soft-finned fish",
+        "cyprinid",
+        "goldfish"
+    ],
+    "gar": [
+        "animal",
+        "vertebrate",
+        "fish",
+        "teleost fish",
+        "ganoid",
+        "gar"
+    ],
+    "sturgeon": [
+        "animal",
+        "vertebrate",
+        "fish",
+        "teleost fish",
+        "ganoid",
+        "sturgeon"
+    ],
+    "silver salmon": [
+        "animal",
+        "vertebrate",
+        "fish",
+        "food fish",
+        "silver salmon"
+    ],
+    "barracouta": [
+        "animal",
+        "vertebrate",
+        "fish",
+        "food fish",
+        "barracouta"
+    ],
+    "box turtle": [
+        "animal",
+        "vertebrate",
+        "reptile",
+        "turtle",
+        "box turtle"
+    ],
+    "leatherback turtle": [
+        "animal",
+        "vertebrate",
+        "reptile",
+        "turtle",
+        "sea turtle",
+        "leatherback turtle"
+    ],
+    "loggerhead": [
+        "animal",
+        "vertebrate",
+        "reptile",
+        "turtle",
+        "sea turtle",
+        "loggerhead"
+    ],
+    "mud turtle": [
+        "animal",
+        "vertebrate",
+        "reptile",
+        "turtle",
+        "mud turtle"
+    ],
+    "terrapin": [
+        "animal",
+        "vertebrate",
+        "reptile",
+        "turtle",
+        "terrapin"
+    ],
+    "triceratops": [
+        "animal",
+        "vertebrate",
+        "reptile",
+        "diapsid",
+        "triceratops"
+    ],
+    "American alligator": [
+        "animal",
+        "vertebrate",
+        "reptile",
+        "diapsid",
+        "crocodilian reptile",
+        "American alligator"
+    ],
+    "Nile crocodile": [
+        "animal",
+        "vertebrate",
+        "reptile",
+        "diapsid",
+        "crocodilian reptile",
+        "Nile crocodile"
+    ],
+    "rock python": [
+        "animal",
+        "vertebrate",
+        "reptile",
+        "diapsid",
+        "snake",
+        "boa",
+        "rock python"
+    ],
+    "boa constrictor": [
+        "animal",
+        "vertebrate",
+        "reptile",
+        "diapsid",
+        "snake",
+        "boa",
+        "boa constrictor"
+    ],
+    "green snake": [
+        "animal",
+        "vertebrate",
+        "reptile",
+        "diapsid",
+        "snake",
+        "colubrid snake",
+        "green snake"
+    ],
+    "garter snake": [
+        "animal",
+        "vertebrate",
+        "reptile",
+        "diapsid",
+        "snake",
+        "colubrid snake",
+        "garter snake"
+    ],
+    "worm snake": [
+        "animal",
+        "vertebrate",
+        "reptile",
+        "diapsid",
+        "snake",
+        "colubrid snake",
+        "worm snake"
+    ],
+    "kingsnake": [
+        "animal",
+        "vertebrate",
+        "reptile",
+        "diapsid",
+        "snake",
+        "colubrid snake",
+        "kingsnake"
+    ],
+    "night snake": [
+        "animal",
+        "vertebrate",
+        "reptile",
+        "diapsid",
+        "snake",
+        "colubrid snake",
+        "night snake"
+    ],
+    "vine snake": [
+        "animal",
+        "vertebrate",
+        "reptile",
+        "diapsid",
+        "snake",
+        "colubrid snake",
+        "vine snake"
+    ],
+    "hognose snake": [
+        "animal",
+        "vertebrate",
+        "reptile",
+        "diapsid",
+        "snake",
+        "colubrid snake",
+        "hognose snake"
+    ],
+    "ring-necked snake": [
+        "animal",
+        "vertebrate",
+        "reptile",
+        "diapsid",
+        "snake",
+        "colubrid snake",
+        "ring-necked snake"
+    ],
+    "water snake": [
+        "animal",
+        "vertebrate",
+        "reptile",
+        "diapsid",
+        "snake",
+        "colubrid snake",
+        "water snake"
+    ],
+    "Indian cobra": [
+        "animal",
+        "vertebrate",
+        "reptile",
+        "diapsid",
+        "snake",
+        "elapid",
+        "Indian cobra"
+    ],
+    "green mamba": [
+        "animal",
+        "vertebrate",
+        "reptile",
+        "diapsid",
+        "snake",
+        "elapid",
+        "green mamba"
+    ],
+    "diamondback rattlesnake": [
+        "animal",
+        "vertebrate",
+        "reptile",
+        "diapsid",
+        "snake",
+        "viper",
+        "rattlesnake",
+        "diamondback rattlesnake"
+    ],
+    "sidewinder": [
+        "animal",
+        "vertebrate",
+        "reptile",
+        "diapsid",
+        "snake",
+        "viper",
+        "rattlesnake",
+        "sidewinder"
+    ],
+    "horned viper": [
+        "animal",
+        "vertebrate",
+        "reptile",
+        "diapsid",
+        "snake",
+        "viper",
+        "horned viper"
+    ],
+    "sea snake": [
+        "animal",
+        "vertebrate",
+        "reptile",
+        "diapsid",
+        "snake",
+        "sea snake"
+    ],
+    "African chameleon": [
+        "animal",
+        "vertebrate",
+        "reptile",
+        "diapsid",
+        "lizard",
+        "African chameleon"
+    ],
+    "iguana": [
+        "animal",
+        "vertebrate",
+        "reptile",
+        "diapsid",
+        "lizard",
+        "iguanid",
+        "iguana"
+    ],
+    "Anolis carolinensis": [
+        "animal",
+        "vertebrate",
+        "reptile",
+        "diapsid",
+        "lizard",
+        "iguanid",
+        "Anolis carolinensis"
+    ],
+    "whiptail": [
+        "animal",
+        "vertebrate",
+        "reptile",
+        "diapsid",
+        "lizard",
+        "whiptail"
+    ],
+    "Komodo dragon": [
+        "animal",
+        "vertebrate",
+        "reptile",
+        "diapsid",
+        "lizard",
+        "Komodo dragon"
+    ],
+    "agama": [
+        "animal",
+        "vertebrate",
+        "reptile",
+        "diapsid",
+        "lizard",
+        "agamid",
+        "agama"
+    ],
+    "frilled lizard": [
+        "animal",
+        "vertebrate",
+        "reptile",
+        "diapsid",
+        "lizard",
+        "agamid",
+        "frilled lizard"
+    ],
+    "alligator lizard": [
+        "animal",
+        "vertebrate",
+        "reptile",
+        "diapsid",
+        "lizard",
+        "alligator lizard"
+    ],
+    "banded gecko": [
+        "animal",
+        "vertebrate",
+        "reptile",
+        "diapsid",
+        "lizard",
+        "banded gecko"
+    ],
+    "green lizard": [
+        "animal",
+        "vertebrate",
+        "reptile",
+        "diapsid",
+        "lizard",
+        "green lizard"
+    ],
+    "Gila monster": [
+        "animal",
+        "vertebrate",
+        "reptile",
+        "diapsid",
+        "lizard",
+        "Gila monster"
+    ]
+}
