@@ -206,10 +206,10 @@ bash scripts/llm_probing.sh # Please specify the feature you want to probe
 
 Our finetuned checkpoints are at:
 
-| **Model** | **Path** |
+| **Model** | **Checkpoint** |
 |----------------------|------------|
-| Vision Insturction Fintuned | [Qwen2.5-VL-7B-Vision-Hie](https://huggingface.co/Captain1874/Qwen2.5-VL-7B-Vision-Hie) |
-| Text-only Insturction Fintuned | [Qwen2.5-VL-7B-Text-Hie](https://huggingface.co/Captain1874/Qwen2.5-VL-7B-Text-Hie) |
+| Vision Insturction Finetuned | [Qwen2.5-VL-7B-Vision-Hie](https://huggingface.co/Captain1874/Qwen2.5-VL-7B-Vision-Hie) |
+| Text-only Insturction Finetuned | [Qwen2.5-VL-7B-Text-Hie](https://huggingface.co/Captain1874/Qwen2.5-VL-7B-Text-Hie) |
 
 
 
