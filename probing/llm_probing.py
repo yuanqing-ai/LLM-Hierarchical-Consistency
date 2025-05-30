@@ -32,7 +32,7 @@ class MLPProbing(torch.nn.Module):
 
 def parse_args():
     parser = argparse.ArgumentParser(description='Feature probing experiment at different taxonomy levels')
-    parser.add_argument('--dataset', type=str, default='Plantae', help='Dataset name')
+    parser.add_argument('--dataset', type=str, default='CUB200', help='Dataset name',choices=['CUB200','Inat21-Plant'])
     parser.add_argument('--train_hierarchy_path', type=str, default = "/projectnb/ivc-ml/yuwentan/LLaVA-NeXT/LLM_Probing/Inaturalist/train_taxonomy.json", help='Path to the training hierarchy JSON file')
     parser.add_argument('--test_hierarchy_path', type=str, default = "/projectnb/ivc-ml/yuwentan/LLaVA-NeXT/LLM_Probing/Inaturalist/test_taxonomy.json",  help='Path to the testing hierarchy JSON file')
     parser.add_argument('--train_feature_dir', type=str, default = "/projectnb/ivc-ml/yuwentan/LLaVA-NeXT/Inat_code/new_with_gt/train", help='Directory containing training feature files for each level')
@@ -62,18 +62,26 @@ def load_features_for_level(feature_dir, level_name,layer, feature_type='avg'):
         raise FileNotFoundError(f"Feature file not found: {feature_path}")
 
 
-def prepare_data(train_hierarchy, test_hierarchy):
+def prepare_data(train_hierarchy, test_hierarchy,args):
     """Prepare data for all taxonomic levels"""
     # Define hierarchy levels (excluding species)
-    hierarchy_levels = {
-        'kingdom': 0,
-        'phylum': 1,
-        'class': 2,
-        'order': 3,
-        'family': 4,
-        'genus': 5
-    }
-    
+    if args.dataset == 'Inat21-Plant':  # Fixed syntax error: added colon
+        hierarchy_levels = {
+            'kingdom': 0,
+            'phylum': 1,
+            'class': 2,
+            'order': 1,
+            'family': 2,
+            'genus': 3,
+            'species': 6
+        }
+    else:
+        hierarchy_levels = {
+            'order': 0,
+            'family': 1,
+            'genus': 2,
+            'species': 3
+        }
     level_data = {}
     
     for level_name, level_idx in hierarchy_levels.items():
@@ -255,18 +263,26 @@ def main():
     
     # Prepare data for all levels
     print("Preparing data for all taxonomic levels...")
-    level_data = prepare_data(train_hierarchy, test_hierarchy)
+    level_data = prepare_data(train_hierarchy, test_hierarchy,args)
     
     # Define hierarchy levels (excluding species)
-    hierarchy_levels = {
-        'kingdom': 0,
-        'phylum': 1,
-        'class': 2,
-        'order': 3,
-        'family': 4,
-        'genus': 5
-    }
-    
+    if args.dataset == 'Inat21-Plant':  # Fixed syntax error: added colon
+        hierarchy_levels = {
+            'kingdom': 0,
+            'phylum': 1,
+            'class': 2,
+            'order': 1,
+            'family': 2,
+            'genus': 3,
+            'species': 6
+        }
+    else:
+        hierarchy_levels = {
+            'order': 0,
+            'family': 1,
+            'genus': 2,
+            'species': 3
+        }
     # Run probing for each level
     results = {}
     all_level_results = {}

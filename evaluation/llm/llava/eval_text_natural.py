@@ -54,24 +54,24 @@ def test_llm_hierarchy(json_file, output_file, prompt_order, model_path="lmms-la
                 if prompt_order == 0:
                     if i==0:
                         #prompt_template = f"Given the {label}, what is its taxonomic classification at the order level?"
-                        prompt_template=f"Based on taxonomy, where does {label} fall in terms of kingdom"
+                        prompt_template=f"Based on taxonomy, where does {label} fall in terms of kingdom?"
                     elif i==1:
                     # prompt_template=f"Given the {label}, what is its taxonomic classification at the family level?"
-                        prompt_template=f"Based on taxonomy, where does {label} fall in terms of phylum"
+                        prompt_template=f"Based on taxonomy, where does {label} fall in terms of phylum?"
                     elif i==2:
                     # prompt_template=f"Given the {label}, what is its taxonomic classification at the family level?"
-                        prompt_template=f"Based on taxonomy, where does {label} fall in terms of class"
+                        prompt_template=f"Based on taxonomy, where does {label} fall in terms of class?"
                     elif i==3:
                     # prompt_template=f"Given the {label}, what is its taxonomic classification at the family level?"
-                        prompt_template=f"Based on taxonomy, where does {label} fall in terms of order"
+                        prompt_template=f"Based on taxonomy, where does {label} fall in terms of order?"
                     elif i==4:
                     # prompt_template=f"Given the {label}, what is its taxonomic classification at the family level?"
-                        prompt_template=f"Based on taxonomy, where does {label} fall in terms of family"
+                        prompt_template=f"Based on taxonomy, where does {label} fall in terms of family?"
                     elif i==5:
                     # prompt_template=f"Given the {label}, what is its taxonomic classification at the family level?"
-                        prompt_template=f"Based on taxonomy, where does {label} fall in terms of genus"
+                        prompt_template=f"Based on taxonomy, where does {label} fall in terms of genus?"
                     else:
-                        prompt_template=f"Based on taxonomy, where does {label} fall in terms of species"
+                        prompt_template=f"Based on taxonomy, where does {label} fall in terms of species?"
                 elif prompt_order == 1:
                     if i==0:
                         prompt_template = f"Given the {label}, what is its taxonomic classification at the kingdom level?"

@@ -18,10 +18,10 @@ def encode_image(image_path):
     with open(image_path, "rb") as image_file:
         return base64.b64encode(image_file.read()).decode("utf-8")
 
-def test_internvl(json_file, output_file, prompt_order):
+def test_internvl(json_file, output_file, prompt_order, model_path=None):
     # We recommend enabling flash_attention_2 for better acceleration and memory saving, especially in multi-image and video scenarios.
 
-    path = '/projectnb/ivc-ml/yuan/model_zoo/InternVL2_5-8B'
+    path = model_path if model_path else '/projectnb/ivc-ml/yuan/model_zoo/InternVL2_5-8B'
     model = AutoModel.from_pretrained(
         path,
         torch_dtype=torch.bfloat16,
@@ -170,6 +170,12 @@ if __name__ == "__main__":
         default=None,
         help="Path to the output file."
     )
+    parser.add_argument(
+        "--model_path",
+        type=str,
+        default=None,
+        help="Path to the model directory."
+    )
     
 
     args = parser.parse_args()
@@ -179,5 +185,5 @@ if __name__ == "__main__":
     
     # json_file = "/projectnb/ivc-ml/yuwentan/LLaVA-NeXT/Evaluate_CLS/data/ImageNet/imagenet_artifact_with_similarity_choice.jsonl"
     # output_file = "/projectnb/ivc-ml/yuwentan/LLaVA-NeXT/QWEN_EVAL/results/cub_qwen_text_new_results.json"
-    
-    test_internvl(args.test_set, args.output_file, args.prompt_order)
+
+    test_internvl(args.test_set, args.output_file, args.prompt_order, args.model_path)

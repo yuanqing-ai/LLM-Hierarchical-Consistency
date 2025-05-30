@@ -77,12 +77,12 @@ def test_internvl(json_file, output_file, prompt_order,internvl_3):
                 if prompt_order == 0:
                     if t==0:
                         #prompt_template = f"Given the {label}, what is its taxonomic classification at the order level?"
-                        prompt_template=f"Based on taxonomy, where does {label} fall in terms of order"
+                        prompt_template=f"Based on taxonomy, where does {label} fall in terms of order?"
                     elif t==1:
                     # prompt_template=f"Given the {label}, what is its taxonomic classification at the family level?"
-                        prompt_template=f"Based on taxonomy, where does {label} fall in terms of family"
+                        prompt_template=f"Based on taxonomy, where does {label} fall in terms of family?"
                     else:
-                        prompt_template=f"Based on taxonomy, where does {label} fall in terms of genus"
+                        prompt_template=f"Based on taxonomy, where does {label} fall in terms of genus?"
                 elif prompt_order == 1:
                     if t==0:
                         prompt_template = f"Given the {label}, what is its taxonomic classification at the order level?"

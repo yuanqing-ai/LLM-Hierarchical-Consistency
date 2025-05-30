@@ -1,2 +1,3 @@
-python prompt_engineering/taxonomy/eval_CUB_tax_qwen.py --model_path /path/to/model --test_set data/annotations/similar_choices/CUB200_with_similarity_choice.jsonl --output_file /path/to/output/file --prompt_order 0
-python prompt_engineering/taxonomy/eval_CUB_tax_internvl.py --test_set data/annotations/similar_choices/CUB200_with_similarity_choice.jsonl --output_file /path/to/output/file --prompt_order 0
+python prompt_engineering/taxonomy/eval_CUB_tax_qwen.py --model_path /path/to/model --test_set data/annotations/similar_choices/CUB200_with_similar_choice.jsonl --output_file /path/to/output/file --prompt_order 0
+python prompt_engineering/taxonomy/eval_CUB_tax_internvl.py --test_set data/annotations/similar_choices/CUB200_with_similar_choice.jsonl --output_file /path/to/output/file --prompt_order 0
+python prompt_engineering/taxonomy/eval_CUB_tax_llava.py --test_set data/annotations/similar_choices/CUB200_with_similar_choice.jsonl --output_file /path/to/output/file --prompt_order 0

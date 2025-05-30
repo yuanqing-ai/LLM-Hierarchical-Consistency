@@ -162,7 +162,6 @@ def test_internvl(json_file, output_file, prompt_order,internvl_3):
             choice_map = {chr(65 + j): opt for j, opt in enumerate(choices)}
             predicted_letter, predicted_label, response = infer_level(prompt_template, choice_map, tokenizer, model, pixel_values)
             
-            # 存储这一层的结果
             result_entry[f"ground_truth_level{level_number}"] = ground_truth
             result_entry[f"prediction_level{level_number}"] = response
             result_entry[f"predicted_level{level_number}_letter"] = predicted_letter

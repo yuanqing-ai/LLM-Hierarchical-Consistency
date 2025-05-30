@@ -1,8 +1,6 @@
 # Vision LLMs Are Bad at Hierarchical Visual Understanding, and LLMs Are the Bottleneck
-<!-- This repository contains the code for the paper [Vision LLMs Are Bad at Hierarchical Visual Understanding, and LLMs Are the Bottleneck]().  -->
 
 [[Paper]]() [[Project Page]](https://yuanqing-ai.github.io/llm-hierarchy/)
-
 <img width="90%" src="assets/example.png">
 
 
@@ -57,6 +55,18 @@ Please download the image data from the following links and put them in the `dat
 
 ### Step 2
 
+
+| **Taxonomy**            | **Path (Similar Choice)** |
+|----------------------|------------|
+| iNat21-Plant         | data/annotations/similar_choices/inat21_plantae_with_similar_choice.jsonl |
+| iNat21-Animal        | data/annotations/similar_choices/inat21_animalia_with_similar_choice.jsonl |
+| ImgNet-Animal        | data/annotations/similar_choices/imagenet_animal_with_similar_choice.jsonl |
+| ImgNet-Artifact      | data/annotations/similar_choices/imagenet_artifact_with_similar_choice.jsonl |
+| CUB-200-2021         | data/annotations/similar_choices/CUB200_with_similar_choice.jsonl |
+| Food-101             | data/annotations/similar_choices/Food101_with_similar_choice.jsonl |
+
+The annotation files with random choices are provided in the `data/annotations/random_choices` directory.
+
 For each dataset file in the `data/annotations` directory and the `data/training/train_plant_img.json` file, please replace the image_path with your local path (a helper script is provided in `utils/replace_image_path.py`).
 
 ## Model Preparation
@@ -104,7 +114,6 @@ bash scripts/all_image_benchmarks.sh # Please specify the output file path and m
 ```
 
 
-
 ## Evaluation on Hierarchical Text-only Classification Benchmarks
 
 
@@ -122,8 +131,6 @@ To reproduce the results on hierarchical text-only classification benchmarks usi
 bash scripts/all_og_llm_on_text.sh # Please specify the output file path and model path in internvl python scripts
 ```
 
-
-
 ## Prompt Engineering
 
 ### Prompt Variants
@@ -132,8 +139,10 @@ For each scripts in `evaluation/`, we provide five different prompt variants. Yo
 
 ### Chain-of-Thought Prompt
 
-- Simple Chain-of-Thought Prompt <span style="color:red">Yuwen add llavaov and qwencot script</span>
-
+- Simple Chain-of-Thought Prompt 
+    ```bash
+    bash scripts/vlm_cot.sh
+    ```
 
 - Taxonomy-based Chain-of-Thought Prompt
 
@@ -141,7 +150,7 @@ For each scripts in `evaluation/`, we provide five different prompt variants. Yo
     bash scripts/bio_cot_pmt.sh
     ```
 
-### Taxonomy-based Prompt <span style="color:red">Yuwen llavaov script</span>
+### Taxonomy-based Prompt
 
 Taxonomy-based prompt are evalauated on CUB-200 using Qwen2.5-VL-7B-Instruct, InternVL2.5-8B and LLaVA-OV-7B. Please run the following script to reproduce the results:
 
@@ -152,7 +161,7 @@ bash scripts/tax_pmt.sh
 ### Binary Answer Prompt
 
 ```bash
-python /projectnb/ivc-ml/yuwentan/LLaVA-NeXT/QWEN_EVAL/eval_CUB_binary.py --output_file path/to/output/file --model_path /path/to/model --test_set data/annotations/similar_choices/CUB200_with_similarity_choice.jsonl
+python /projectnb/ivc-ml/yuwentan/LLaVA-NeXT/QWEN_EVAL/eval_CUB_binary.py --output_file path/to/output/file --model_path /path/to/model --test_set data/annotations/similar_choices/CUB200_with_similar_choice.jsonl
 ```
 Note: Please use `utils/metric_binary.py` to get the results over all metrics by running the following command:
 
@@ -160,15 +169,10 @@ Note: Please use `utils/metric_binary.py` to get the results over all metrics by
 python utils/metric_binary.py --file_path path/to/output/file
 ```
 
-
-
-## Linear Probing 
-
-
-### Image Features
+### VLM Probing
 
 To generatet the image features from vision encoder, please install transformers from source using `transformers==4.50.0.dev0`.
-Replace the `modeling_qwen2_5_vl.py` with the one in `probing/modeling_qwen2_5_vl.py` and then `pip install -e .`.
+Replace the `transformers/src/transformers/models/qwen2_5_vl/modeling_qwen2_5_vl.py` with the one in `probing/modeling_qwen2_5_vl.py` and then `pip install -e .`.
 
 Then, generate the image features from vision encoder, projector using the following command:
 
@@ -186,7 +190,7 @@ After generating the features, you can run the following command to perform line
 bash scripts/vlm_probing.sh # Please specify the feature you want to probe
 ```
 
-### Text Features
+### Text Probing
 Please use the standard Qwen evaluation conda environment and run the following command to generate the text features:
 
 ```bash
@@ -198,8 +202,16 @@ Then, please run the following command to perform linear probing:
 ```bash
 bash scripts/llm_probing.sh # Please specify the feature you want to probe
 ```
-
 ## Finetuning
+
+Our finetuned checkpoints are at:
+
+| **Model** | **Path** |
+|----------------------|------------|
+| Vision Insturction Fintuned | [Qwen2.5-VL-7B-Vision-Hie](https://huggingface.co/Captain1874/Qwen2.5-VL-7B-Vision-Hie) |
+| Text-only Insturction Fintuned | [Qwen2.5-VL-7B-Text-Hie](https://huggingface.co/Captain1874/Qwen2.5-VL-7B-Text-Hie) |
+
+
 
 ### Vision Insturction Tuning
 
@@ -222,15 +234,15 @@ bash finetuning/scripts/finetune_lora_text.sh
 Run the following command for merging LoRA weights:
 
 ```bash
-bash finetuning/scripts/merge_lora.sh
+bash finetuning/scripts/merge_lora.sh # Please specify the model name and the path to the merged model
 ```
 
 ## Evaluation on General VQA Benchmarks
 
-After instlalling the [VLMEvalKit](https://github.com/open-compass/VLMEvalKit), register your selected checkpoint in the `VLMEvalKit/vlmeval/config.py` and then run the following command for evaluation on MME, MMBench and SEED-Bench (you might also need to setup your openai api key in the `.env` file):
+After instlalling the [VLMEvalKit](https://github.com/open-compass/VLMEvalKit), register your selected checkpoint in the `VLMEvalKit/vlmeval/config.py` and then run the following command for evaluation on MME, MMBench and SEED-Bench (you might also want to setup your openai api key in the `.env` file):
 
 ```bash
-python run.py --data MMBench_DEV_EN MME SEEDBench_IMG --verbose --model Qwen2.5-VL-7B-Instruct-Ours # replace the model name with your selected checkpoint
+python run.py --data MMBench_DEV_EN MME SEEDBench_IMG --verbose --model Qwen2.5-VL-7B-Instruct-Ours # replace the model name with your registered checkpoint
 ```
 
 ## Citation

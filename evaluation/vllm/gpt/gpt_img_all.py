@@ -7,7 +7,7 @@ import os
 from tqdm import tqdm
 from openai import OpenAI
 from functools import partial
-os.environ["OPENAI_API_KEY"] = "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" # add your own key
+os.environ["OPENAI_API_KEY"] = "" # add your own key
 
 client = OpenAI()
 

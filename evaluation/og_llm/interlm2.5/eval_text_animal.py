@@ -18,10 +18,10 @@ def encode_image(image_path):
     with open(image_path, "rb") as image_file:
         return base64.b64encode(image_file.read()).decode("utf-8")
 
-def test_internvl(json_file, output_file, prompt_order):
+def test_internvl(json_file, output_file, prompt_order, model_path=None):
     # We recommend enabling flash_attention_2 for better acceleration and memory saving, especially in multi-image and video scenarios.
 
-    path = '/projectnb/ivc-ml/yuan/model_zoo/internlm2_5-7b-chat'
+    path = model_path if model_path else '/projectnb/ivc-ml/yuan/model_zoo/internlm2_5-7b-chat'
     tokenizer = AutoTokenizer.from_pretrained(path, trust_remote_code=True)
     # Set `torch_dtype=torch.float16` to load model in float16, otherwise it will be loaded as float32 and cause OOM Error.
     model = AutoModelForCausalLM.from_pretrained(path, torch_dtype=torch.float16, trust_remote_code=True).cuda()
@@ -170,6 +170,12 @@ if __name__ == "__main__":
         default=None,
         help="Path to the input JSON file."
     )
+    parser.add_argument(
+        "--model_path",
+        type=str,
+        default=None,
+        help="Path to the model directory."
+    )
 
     args = parser.parse_args()
 
@@ -178,5 +184,5 @@ if __name__ == "__main__":
     
     json_file = args.test_set
     # output_file = "/projectnb/ivc-ml/yuwentan/LLaVA-NeXT/QWEN_EVAL/results/cub_qwen_text_new_results.json"
-    
-    test_internvl(json_file, args.output_file, args.prompt_order)
+
+    test_internvl(json_file, args.output_file, args.prompt_order, args.model_path)

@@ -84,7 +84,6 @@ def infer_level(model, processor, image, descriptions, choice_map, device):
         logits = outputs.logits_per_image
         pred_index = logits.argmax(dim=1).item()
 
-        # ✅ Fix: directly use index to retrieve label
         predicted_label = list(choice_map.values())[pred_index]
         predicted_letter = list(choice_map.keys())[pred_index]
 

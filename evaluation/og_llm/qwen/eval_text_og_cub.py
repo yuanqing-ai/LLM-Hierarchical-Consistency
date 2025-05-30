@@ -16,12 +16,11 @@ def encode_image(image_path):
     with open(image_path, "rb") as image_file:
         return base64.b64encode(image_file.read()).decode("utf-8")
 
-def test_qwen(model_name, json_file, output_file,prompt_order):
+def test_qwen(model_name, json_file, output_file,prompt_order, base=False):
     # model_name = "/projectnb/ivc-ml/yuan/model_zoo/Qwen2.5-7B-Instruct"
 
     model = AutoModelForCausalLM.from_pretrained(
         model_name,
-        
         torch_dtype="auto",
         device_map="auto"
     )
@@ -41,8 +40,8 @@ def test_qwen(model_name, json_file, output_file,prompt_order):
         label = entry["label"]
         
         # Find all level keys and choices_level keys in entry
-        level_keys = sorted([k for k in entry.keys() if k.startswith("level") and k[5:].isdigit()], key=lambda x: int(x[5:]))
-        choices_keys = sorted([k for k in entry.keys() if k.startswith("choices_level") and k[13:].isdigit()], key=lambda x: int(x[13:]))
+        level_keys = sorted([k for k in entry.keys() if k.startswith("level") and k[5:].isdigit()])
+        choices_keys = sorted([k for k in entry.keys() if k.startswith("choices_level") and k[13:].isdigit()])
         
         if not level_keys or not choices_keys:
             print(f"Warning: Missing level or choices data for {image_path}")
@@ -61,36 +60,47 @@ def test_qwen(model_name, json_file, output_file,prompt_order):
             "label": label,
         }
         
-        # 处理每一层的预测
         for t, (level_key, choices_key) in enumerate(zip(level_keys, choices_keys)):
-            level_number = level_key[5:]  # 提取层级数字
+            level_number = level_key[5:]  
             ground_truth = entry[level_key]
             choices = entry[choices_key]
             
-            # 判断是否是最后一层（叶子节点）
             is_leaf_node = (t == len(level_keys) - 1)
             
             if is_leaf_node:
-                # 如果是叶子节点，直接使用label作为预测结果
                 choice_map = {chr(65 + j): opt for j, opt in enumerate(choices)}
                 predicted_letter = next((k for k, v in choice_map.items() if v.lower() == label.lower()), "Unknown")
                 predicted_label = label
             else:
                 if prompt_order == 0:
-                    prompt_template = f"Given the {label}, what is its taxonomic classification?"
+                    if t==0:
+                        #prompt_template = f"Given the {label}, what is its taxonomic classification at the order level?"
+                        prompt_template=f"Based on taxonomy, where does {label} fall in terms of order"
+                    elif t==1:
+                    # prompt_template=f"Given the {label}, what is its taxonomic classification at the family level?"
+                        prompt_template=f"Based on taxonomy, where does {label} fall in terms of family"
+                    else:
+                        prompt_template=f"Based on taxonomy, where does {label} fall in terms of genus"
                 elif prompt_order == 1:
-                    prompt_template=f"Based on taxonomy, where does {label} fall?"
+                    if t==0:
+                        prompt_template = f"Given the {label}, what is its taxonomic classification at the order level?"
+                        # prompt_template=f"Based on taxonomy, where does {label} fall in terms of order"
+                    elif t==1:
+                        prompt_template = f"Given the {label}, what is its taxonomic classification at the family level?"
+                        # prompt_template=f"Based on taxonomy, where does {label} fall in terms of family"
+                    else:
+                        # prompt_template=f"Based on taxonomy, where does {label} fall in terms of genus"
+                        prompt_template = f"Given the {label}, what is its taxonomic classification at the genus level?"
                 elif prompt_order == 2:
                     prompt_template=f"What could {label} be classified as?"
                 elif prompt_order == 3:
                     prompt_template=f"How can {label} be taxonomically categorized?"
                 else:
-                    prompt_template=f"What is the categorical classification of {label} in the artifact taxonomy?"
+                    prompt_template=f"What is the systematic position of {label} in the biological classification hierarchy?"
                 # prompt_template = f"What is the general category of '{label}'?"
                 choice_map = {chr(65 + j): opt for j, opt in enumerate(choices)}
-                predicted_letter, predicted_label, response = infer_level(prompt_template, choice_map, tokenizer, model)
+                predicted_letter, predicted_label, response = infer_level(prompt_template, choice_map, tokenizer, model, base)
             
-            # 存储这一层的结果
             result_entry[f"ground_truth_level{level_number}"] = ground_truth
             result_entry[f"prediction_level{level_number}"] = response
             result_entry[f"predicted_level{level_number}_letter"] = predicted_letter
@@ -112,7 +122,7 @@ def test_qwen(model_name, json_file, output_file,prompt_order):
     print(f"Results saved to {output_file}")
 
 
-def infer_level(prompt_template, choice_map, tokenizer, model):
+def infer_level(prompt_template, choice_map, tokenizer, model, base):
     """
     Helper function to infer label for a specific level.
     
@@ -129,26 +139,29 @@ def infer_level(prompt_template, choice_map, tokenizer, model):
         predicted_label: The corresponding label text
     """
     # Format the question with options
-    question = "You are a helpful assistant." + prompt_template + "\n" + "\n".join([f"{key}. {val}" for key, val in choice_map.items()]) + "\nAnswer with the option's letter from the given choices directly. Answer:"
+    question = prompt_template + "\n" + "\n".join([f"{key}. {val}" for key, val in choice_map.items()]) + "\nAnswer with the option's letter from the given choices directly."
     # print(f"Prompt: {question}")
 
-    # messages = [
-    # {
-    #     "role": "system",
-    #     "content": "You are a helpful assistant."
-    #     # "content": "You are an expert in hierarchical classification. Given an entity, classify it at its current hierarchy level by selecting the most appropriate option from the provided choices (labeled with letters). Respond with only the corresponding letter."
-    # },
-    # {
-    #     "role": "user",
-    #     "content": question
-    # }
-    # ]
+    if base:
+        text = question + " Answer:"
+    else:
+        messages = [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant."
+                # "content": "You are an expert in hierarchical classification. Given an entity, classify it at its current hierarchy level by selecting the most appropriate option from the provided choices (labeled with letters). Respond with only the corresponding letter."
+            },
+            {
+            "role": "user",
+            "content": question
+        }
+        ]
 
-    # # Preparation for inference
-    # text = tokenizer.apply_chat_template(
-    #     messages, tokenize=False, add_generation_prompt=True
-    # )
-    model_inputs = tokenizer([question], return_tensors="pt").to(model.device)
+        # Preparation for inference
+        text = tokenizer.apply_chat_template(
+            messages, tokenize=False, add_generation_prompt=True
+        )
+    model_inputs = tokenizer([text], return_tensors="pt").to(model.device)
 
 
     try:
@@ -196,6 +209,11 @@ if __name__ == "__main__":
         default=None,
         help="Path to the test set."
     )
+    parser.add_argument(
+        "--base",
+        action='store_true',
+        help="Use base model without vision capabilities."
+    )
 
 
     args = parser.parse_args()
@@ -205,4 +223,4 @@ if __name__ == "__main__":
     
     json_file = args.test_set
 
-    test_qwen(args.model_path, json_file, args.output_file, args.prompt_order)
+    test_qwen(args.model_path, json_file, args.output_file, args.prompt_order, args.base)

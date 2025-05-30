@@ -18,10 +18,10 @@ def encode_image(image_path):
     with open(image_path, "rb") as image_file:
         return base64.b64encode(image_file.read()).decode("utf-8")
 
-def test_internvl(json_file, output_file, prompt_order):
+def test_internvl(json_file, output_file, prompt_order, model_path=None):
     # We recommend enabling flash_attention_2 for better acceleration and memory saving, especially in multi-image and video scenarios.
 
-    path = '/projectnb/ivc-ml/yuan/model_zoo/InternVL2_5-8B'
+    path = model_path if model_path else '/projectnb/ivc-ml/yuan/model_zoo/InternVL2_5-8B'
     model = AutoModel.from_pretrained(
         path,
         torch_dtype=torch.bfloat16,
@@ -81,12 +81,12 @@ def test_internvl(json_file, output_file, prompt_order):
                 if prompt_order == 0:
                     if t==0:
                         #prompt_template = f"Given the {label}, what is its taxonomic classification at the order level?"
-                        prompt_template=f"Based on taxonomy, where does {label} fall in terms of order"
+                        prompt_template=f"Based on taxonomy, where does {label} fall in terms of order?"
                     elif t==1:
                     # prompt_template=f"Given the {label}, what is its taxonomic classification at the family level?"
-                        prompt_template=f"Based on taxonomy, where does {label} fall in terms of family"
+                        prompt_template=f"Based on taxonomy, where does {label} fall in terms of family?"
                     else:
-                        prompt_template=f"Based on taxonomy, where does {label} fall in terms of genus"
+                        prompt_template=f"Based on taxonomy, where does {label} fall in terms of genus?"
                 elif prompt_order == 1:
                     if t==0:
                         prompt_template = f"Given the {label}, what is its taxonomic classification at the order level?"
@@ -107,7 +107,6 @@ def test_internvl(json_file, output_file, prompt_order):
                 choice_map = {chr(65 + j): opt for j, opt in enumerate(choices)}
                 predicted_letter, predicted_label, response = infer_level(prompt_template, choice_map, tokenizer, model)
             
-            # 存储这一层的结果
             result_entry[f"ground_truth_level{level_number}"] = ground_truth
             result_entry[f"prediction_level{level_number}"] = response
             result_entry[f"predicted_level{level_number}_letter"] = predicted_letter
@@ -187,6 +186,12 @@ if __name__ == "__main__":
         default=None,
         help="Path to the test set."
     )
+    parser.add_argument(
+        "--model_path",
+        type=str,
+        default=None,
+        help="Path to the model directory."
+    )
 
     args = parser.parse_args()
 
@@ -195,5 +200,5 @@ if __name__ == "__main__":
     
     json_file = args.test_set
     # output_file = "/projectnb/ivc-ml/yuwentan/LLaVA-NeXT/QWEN_EVAL/results/cub_qwen_text_new_results.json"
-    
-    test_internvl(json_file, args.output_file, args.prompt_order)
+
+    test_internvl(json_file, args.output_file, args.prompt_order, args.model_path)
