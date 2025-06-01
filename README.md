@@ -239,7 +239,7 @@ bash finetuning/scripts/merge_lora.sh # Please specify the model name and the pa
 
 ## Evaluation on General VQA Benchmarks
 
-After instlalling the [VLMEvalKit](https://github.com/open-compass/VLMEvalKit), register your selected checkpoint in the `VLMEvalKit/vlmeval/config.py` and then run the following command for evaluation on MME, MMBench and SEED-Bench (you might also want to setup your openai api key in the `.env` file):
+After installing the [VLMEvalKit](https://github.com/open-compass/VLMEvalKit), register your selected checkpoint in the `VLMEvalKit/vlmeval/config.py` and then run the following command for evaluation on MME, MMBench and SEED-Bench (you might also want to setup your openai api key in the `.env` file):
 
 ```bash
 python run.py --data MMBench_DEV_EN MME SEEDBench_IMG --verbose --model Qwen2.5-VL-7B-Instruct-Ours # replace the model name with your registered checkpoint
