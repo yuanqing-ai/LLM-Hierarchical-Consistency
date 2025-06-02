@@ -250,5 +250,13 @@ python run.py --data MMBench_DEV_EN MME SEEDBench_IMG --verbose --model Qwen2.5-
 Please cite us if you use this repository in your work.
 
 ```bibtex
-
+@misc{tan2025visionllmsbadhierarchical,
+      title={Vision LLMs Are Bad at Hierarchical Visual Understanding, and LLMs Are the Bottleneck}, 
+      author={Yuwen Tan and Yuan Qing and Boqing Gong},
+      year={2025},
+      eprint={2505.24840},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2505.24840}, 
+}
 ```
