@@ -1,6 +1,6 @@
 # Vision LLMs Are Bad at Hierarchical Visual Understanding, and LLMs Are the Bottleneck
 
-[[Paper]]() [[Project Page]](https://yuanqing-ai.github.io/llm-hierarchy/)
+[[Paper]](https://arxiv.org/abs/2505.24840) [[Project Page]](https://yuanqing-ai.github.io/llm-hierarchy/)
 <img width="90%" src="assets/example.png">
 
 
