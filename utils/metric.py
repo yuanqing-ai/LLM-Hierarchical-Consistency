@@ -180,10 +180,8 @@ def por_f1(y_pred_list, y_true_list, ignore_first_layer=True):
         pred_hierarchy = normalize_case(y_pred_list[i][start_idx:])
         true_hierarchy = normalize_case(y_true_list[i][start_idx:])
 
-        # 计算匹配的层数（Point-Overlap Ratio）
         match_count = sum(1 for pred, true in zip(pred_hierarchy, true_hierarchy) if pred == true)
 
-        # 计算 Precision, Recall, 和 F1
         precision = match_count / len(pred_hierarchy) if len(pred_hierarchy) > 0 else 0
         recall = match_count / len(true_hierarchy) if len(true_hierarchy) > 0 else 0
         f1 = 2 * (precision * recall) / (precision + recall) if (precision + recall) > 0 else 0
