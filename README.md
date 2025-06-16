@@ -19,7 +19,7 @@ This paper reveals that many state-of-the-art large language models (LLMs) lack 
 
 - For all hierarchical evaluations, please follow the official setups to install the conda environments seperately.
 
-    - [LLaVA-OV](https://github.com/LLaVA-VL/LLaVA-NeXT)
+    - [LLaVA-OV](https://github.com/LLaVA-VL/LLaVA-NeXT) (Please add conversation template following [this](https://github.com/yuanqing-ai/LLM-Hierarchical-Consistency/issues/1#issuecomment-2976960479))
     - [InternVL2.5&3](https://github.com/OpenGVLab/InternVL/tree/main)
     - [Qwen2.5-VL](https://github.com/QwenLM/Qwen2.5-VL)
     - [GPT-4o](https://github.com/openai/openai-python)
